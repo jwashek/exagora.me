@@ -11,8 +11,8 @@ tags:
 ---
 
 ## What is the Gospel?
-> 1 Corinthians 15:1-4:
-> 1 Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand; 
-> 2 By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain. 
-> 3 For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; 
+> <u>1 Corinthians 15:1-4:</u><br><br>
+> 1 Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand; <br>
+> 2 By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain. <br>
+> 3 For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; <br>
 > 4 And that he was buried, and that he rose again the third day according to the scriptures:
