@@ -1,16 +1,11 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
+Justin Washek:
+  name: Justin Washek
   picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+  twitter: "@exag0ra"
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/exag0ra
       icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
