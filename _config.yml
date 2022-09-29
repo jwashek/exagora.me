@@ -21,7 +21,7 @@ title: "Exagora"
 description: "Redemption found only in Jesus Christ."
 baseurl: / # the subpath of your site, e.g. "/blog"
 url: https://jwashek.github.io
-logo: "/images/logo.jpg"
+logo: "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
