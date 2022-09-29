@@ -90,11 +90,11 @@ defaults:
       share: true
 
 # Site Author
-author: exag0ra
-  name: 
+author:
+  name:
   picture:
   email:
-  twitter: exag0ra
+  twitter:
   links:
     - title:
       url:
