@@ -64,7 +64,7 @@ For the last verse, this just so happens to be one of my all-time favorite verse
 
 > <u>Ephesians 1:13</u>: In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise
 
-Notice two things here, we can almost see a step-by-step way of salvation here. If we walk the verse back, we see that:
+Notice several things here, we can almost see a step-by-step method of salvation here. If we walk the verse back, we see that:
 
 **1st**: we hear the word of truth (i.e., the Gospel)<br>
 **2nd**: we believe it and trust in Christ (i.e., the *whom* the verse is referencing back to)<br>
