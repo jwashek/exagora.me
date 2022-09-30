@@ -1,7 +1,7 @@
 ---
 title: "The Gospel"
 excerpt: "Description of the Gospel, its power, and why it's so important to the Christian"
-last_modified_at: 2022-09-29T19:45:01-05:00
+last_modified_at: 2022-09-29T21:24:00-05:00
 categories:
   - Salvation
   - Gospel
@@ -30,11 +30,9 @@ The Gospel literally means `glad tidings` or what is most commonly taught today:
 
 * There is a very real and serious consequence for our sin.
 
-```
-<u>Romans 6:23</u>: For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.<br>
-<u>2 Thessalonians 1:8:</u> In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ<br>
-<u>John 8:24</u>: I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins.
-```
+> <u>Romans 6:23</u>: For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.<br>
+> <u>2 Thessalonians 1:8:</u> In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ<br>
+> <u>John 8:24</u>: I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins.
 
 * But... here's the good news
 
