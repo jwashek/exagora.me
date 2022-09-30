@@ -1,6 +1,6 @@
 ---
 title: "The Gospel"
-excerpt: "Description of the Gospel, its power, and why it's so important to the Christian"
+excerpt: "What is the Gospel and why is it so important?"
 last_modified_at: 2022-09-29T21:24:00-05:00
 categories:
   - Salvation
