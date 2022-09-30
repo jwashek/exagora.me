@@ -2,7 +2,7 @@
 title: About
 layout: collection
 image:
-  path: /images/testimony.webp
+  path: /images/testimony.jpg
   caption: "Photo from [Rooted Thinking](http://rootedthinking.com/2021/10/07/sharing-your-testimony)"
 permalink: /about/
 collection: about
