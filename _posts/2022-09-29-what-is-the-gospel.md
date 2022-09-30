@@ -1,6 +1,10 @@
 ---
 title: "The Gospel"
 excerpt: "What is the Gospel and why is it so important?"
+image: 
+  path: /images/gospel.jpeg
+  thumbnail: /images/gospel-small.jpeg
+  caption: "Photo from [Truth for Life](https://blog.truthforlife.org/what-is-the-gospel)"
 last_modified_at: 2022-09-29T21:24:00-05:00
 categories:
   - Salvation
