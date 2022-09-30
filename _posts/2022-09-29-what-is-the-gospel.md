@@ -66,9 +66,9 @@ For the last verse, this just so happens to be one of my all-time favorite verse
 
 Notice two things here, we can almost see a step-by-step way of salvation here. If we walk the verse back, we see that:
 
-1st: we hear the word of truth (i.e., the Gospel)
-2nd: we believe it and trust in Christ (i.e., the *whom* the verse is referencing back to)
-3rd: we are *sealed* with the Holy Spirit
+**1st**: we hear the word of truth (i.e., the Gospel)<br>
+**2nd**: we believe it and trust in Christ (i.e., the *whom* the verse is referencing back to)<br>
+**3rd**: we are *sealed* with the Holy Spirit
 
 That's it. It all points back to `believe`, but notice what we believe is very important. Believe the Gospel, the good news; the death, burial, and resurrection of Jesus Christ. Now that you've heard the Gospel through this article, are you placing your faith in Jesus Christ to save you? Call upon him right now, through faith!
 
