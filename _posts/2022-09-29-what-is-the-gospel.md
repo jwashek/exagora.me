@@ -30,9 +30,11 @@ The Gospel literally means `glad tidings` or what is most commonly taught today:
 
 * There is a very real and serious consequence for our sin.
 
-> <u>Romans 6:23</u>: For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.<br>
-> <u>2 Thessalonians 1:8:</u> In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ<br>
-> <u>John 8:24</u>: I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins.
+```
+<u>Romans 6:23</u>: For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.<br>
+<u>2 Thessalonians 1:8:</u> In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ<br>
+<u>John 8:24</u>: I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins.
+```
 
 * But... here's the good news
 
