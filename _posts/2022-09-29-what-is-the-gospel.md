@@ -24,17 +24,17 @@ I thought it sufficient for the first post on this blog to be about the Gospel. 
 ### What Does It Mean?
 The Gospel literally means `glad tidings` or what is most commonly taught today: `good news`. These are both one and the same, but why would Jesus suffering on the Cross and dying a horrible, painful death *ever* be labeled as `good news`? Well, you must understand a few things in order to fully grasp why the Gospel is nothing short of good news and everything more than good news!
 
-1. Every single person on this earth except for the Lord Jesus Christ has sinned.
+* Every single person on this earth except for the Lord Jesus Christ has sinned.
 
 > <u>Romans 3:23</u>: For all have sinned, and come short of the glory of God;
 
-2. There is a very real and serious consequence for our sin.
+* There is a very real and serious consequence for our sin.
 
-> <u>Romans 6:23</u>: For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.
-> <u>2 Thessalonians 1:8:</u> In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ
+> <u>Romans 6:23</u>: For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.<br>
+> <u>2 Thessalonians 1:8:</u> In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ<br>
 > <u>John 8:24</u>: I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins.
 
-3. But... here's the good news
+* But... here's the good news
 
 > <u>Romans 5:8</u>: But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
 
@@ -48,7 +48,7 @@ What are you trusting in? Do you believe the Gospel and trust in Jesus Christ to
 ## How to Be Saved
 The Bible is very clear on the Gospel as you can see. What else the Bible is very clear on is how to be saved. Now that you've heard the Gospel, do you believe it to be true? Arguably the most well-known Bible verse is John 3:16:
 
-> For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+> <u>John 3:16</u>: For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
 
 Believe! The Bible also says in the Book of Romans:
 
@@ -57,7 +57,7 @@ Believe! The Bible also says in the Book of Romans:
 Believe! Are you starting to see a theme here? Two more passages just to drill the point home. The first is used quite often as it begs the very question we all should ask:  *what must I do to be saved?*
 
 > <u>Acts 16:30-31</u>: <br><br>
-> **30** And brought them out, and said, Sirs, what must I do to be saved?
+> **30** And brought them out, and said, Sirs, what must I do to be saved?<br>
 > **31** And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house.
 
 For the last verse, this just so happens to be one of my all-time favorite verses, we see something a little interesting. I say "interesting" because there are people that claim to believe, but what do they believe? Do they believe Jesus was sinless? That's good, but it's not the Gospel. Do they believe Jesus was born of a Virgin? Again, that's good, but it's not the Gospel. Found in the book of Ephesians, Paul writes to the Church at Ephesus:
@@ -73,5 +73,5 @@ Notice two things here, we can almost see a step-by-step way of salvation here. 
 That's it. It all points back to `believe`, but notice what we believe is very important. Believe the Gospel, the good news; the death, burial, and resurrection of Jesus Christ. Now that you've heard the Gospel through this article, are you placing your faith in Jesus Christ to save you? Call upon him right now, through faith!
 
 > <u>Romans 10:13-14</u>:<br><br> 
-> **13** For whosoever shall call upon the name of the Lord shall be saved.
+> **13** For whosoever shall call upon the name of the Lord shall be saved.<br>
 > **14** How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?
