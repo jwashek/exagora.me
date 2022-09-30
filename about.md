@@ -27,9 +27,10 @@ I brushed it off and never gave much thought to it.
 * I confessed certain sins to a priest
 * I was baptized as a child
 
-The list goes on. Notice the common theme in that list? The short little one-letter word of "I". 
+The list goes on. Notice the common theme in that list? That short, little one-letter word of `I`. *I did this*; *I don't do that*. It's what most religion requires. A self-righteous effort on behalf of the individual. We rely on ourselves and our own personal effort to save us. Newsflash: we're all human. We **will** make mistakes--and plenty of them. This reason alone is why we cannot rely on ourselves and we must rely on Someone else. That "Someone" being Jesus Christ Himself.
 
 **The Day I'll Never Forget**<br>
+If you remember earlier on I mentioned getting kicked out of school? This is really where the story begins.
 
 **The Aftermath**<br>
 
