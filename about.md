@@ -21,8 +21,8 @@ I grew up Catholic and having knowledge about God. I hadn't really given it too 
 I brushed it off and never gave much thought to it. 
 
 * I was a good person
-* I did believed in God
-* I wasn't bad
+* I believed in God
+* I kept some of the 10 Commandments
 * I prayed sometimes
 * I confessed certain sins to a priest
 * I was baptized as a child
