@@ -16,7 +16,7 @@ This blog is not about me, I just want to magnify and glorify God for what He ha
 Back when I was in Middle School, I was a very bad kid. Maybe like most kids you might think? Well, most kids don't do drugs before they're a teenager. Most kids don't get kicked out of school for getting in trouble too much. I wasn't most kids. 
 
 **Beginning Thoughts on God**<br>
-I grew up Catholic and having knowledge about God. I hadn't really given it too much thought if I'm being honest. I knew about heaven and hell but didn't care. I wasn't a murderer or any of the other obviously evil things out there, so I was safe... in my own eyes at least. My dad was different; he was a Christian and always telling me about Christ. *Jesus died for you*, *you can't earn your way into heaven*, and *you need to repent and believe in Him* were all very common things I heard as a pre-teen and teenager. "Yeah, okay, Dad. Thanks for the Bible you bought me years ago that just collects dust on my shelf now!"
+I grew up Catholic and having knowledge about God. I hadn't really given it too much thought if I'm being honest. I knew about heaven and hell but didn't care. I wasn't a murderer or any of the other obviously evil things out there, so I was safe... in my own eyes at least. My dad was different; he was a Christian and always telling me about Christ. *Jesus died for you*, *you can't earn your way into heaven*, and *you need to repent and believe in Him* were all very common things I heard as a pre-teen and teenager. "Yeah, okay, dad. Thanks for the Bible you bought me years ago that just collects dust on my shelf now!"
 
 > __Note:__ This will be important later in my testimony
 
