@@ -36,9 +36,9 @@ Not even 9 months later, the Hepatologist was off on his assessment by 4-9 years
 
 I tell you this story to share what got us through—both as individual Christians and in our marriage together. That was simply our faith. Our faith in Jesus. Never did we lean on Him more in our lives. It drew us *so* much closer together and to God. We did this through never wavering in our belief and trust that God would pull us through, praying without ceasing, and giving thanks to God.
 
-> <u>1 Thessalonians 5:16-18</u>:
-> **16** Rejoice evermore.
-> **17** Pray without ceasing.
+> <u>1 Thessalonians 5:16-18</u>:<br>
+> **16** Rejoice evermore.<br>
+> **17** Pray without ceasing.<br>
 > **18** In every thing give thanks: for this is the will of God in Christ Jesus concerning you.
 
 **Same Story, Different Issue** <br>
