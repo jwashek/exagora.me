@@ -50,6 +50,7 @@ In a way they were right. It *was* a blockage. Although, the blockage was due to
 * “If you could choose what type of cancer to get, it’s this”
 * “This is highly treatable”
 * “I promise I won’t let you die” (from her direct Oncologist)
+
 Remember the Hepatologist and how wrong his assumption was before? Well, same story; different issue. I’ll spare the major details and just say: after countless trips to the hospital, 5 failed treatments, 2 bouts of sepsis, and an unspeakable amount of stress, my wife finally went to be with the Lord. Yes, she passed away in June of 2022. Not a full year after her diagnosis. My wife was gone. My wife *is* gone.
 
 My wife had her faith truly shaken and stirred over those 11 months of battling her heart out, but she never lost faith in the Lord. I saw her at her absolute worst, and one thing that gets me through her loss is seeing how resilient her faith was. She questioned God, don’t get me wrong, but she `never` lost her faith and that is why I will *always* be inspired by her. I remember just about 2 months after she passed, I found a journal she kept. She **still**, after her diagnosis and through it all, wrote about God, thanking God, writing prayers to God; thanked Him for our daughter, salvation, and other things she held dear to her heart that God had blessed her with in her journal entries.
