@@ -56,8 +56,8 @@ Remember the Hepatologist and how wrong his assumption was before? Well, same st
 My wife had her faith truly shaken and stirred over those 11 months of battling her heart out, but she never lost faith in the Lord. I saw her at her absolute worst, and one thing that gets me through her loss is seeing how resilient her faith was. She questioned God, don’t get me wrong, but she `never` lost her faith and that is why I will *always* be inspired by her. I remember just about 2 months after she passed, I found a journal she kept. She **still**, after her diagnosis and through it all, wrote about God, thanking God, writing prayers to God; thanked Him for our daughter, salvation, and other things she held dear to her heart that God had blessed her with in her journal entries.
 
 ## For the Believer
-<ADDING CONTENT>
+<ADDING CONTENT SOON>
   
 
 ##For the Unbeliever
-<ADDING CONTENT>
+<ADDING CONTENT SOON>
