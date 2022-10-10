@@ -23,7 +23,7 @@ I brushed it off and never gave much thought to it because:
 * I was a good person
 * I believed in God
 * I kept (some) of the 10 Commandments
-* I prayed (sometimes, albeit repititiously)
+* I prayed (sometimes, albeit repetitiously)
 * I confessed (certain) sins to a priest
 * I was baptized as a baby
 
@@ -41,7 +41,7 @@ I called my dad right away and told him what happened. He prayed with me on the 
 **The Aftermath**<br>
 Immediately after I got saved, I remember having no desire for drugs, alcohol, or living the godless and sinful life I used to live. I quit swearing, smoking; I quit watching porn. I had a massive change all around.
 
-> __Note:__ I don't think a changed life is a requirement for salvation. Salvation is simply believing the Gospel and trusting in Christ. However, I do believe a changed life will come through sanctification by way of repentence (change of mind) and genuine faith, but this is not a means of salvation itself--which some preachers errantly teach.
+> __Note:__ I don't think a changed life is a requirement for salvation. Salvation is simply believing the Gospel and trusting in Christ. However, I do believe a changed life will come through sanctification by way of repentance (change of mind) and genuine faith, but this is not a means of salvation itself--which some preachers errantly teach.
 
 I was telling others about Christ, I was being led by the Spirit, I was praying and studying His Word in a much more meaningful way, and my decisions were placing God above all else. I sure wasn't perfect, and I still am not, but the desire to serve Him was there--and still is. I wanted to do good, I wanted to help others, and I felt like my heart was different. I cared about obeying God, keeping His commandments, and wanting to lead others to Christ; to lead others in this new life that I had tasted that is freely given as a gift to be received for all who call upon Him. 
 
@@ -51,7 +51,7 @@ To sum it up, let's go to the Scripture. Because Galatians 2:20 can sum it up be
 
 > <u>Galatians 2:20</u>: I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.
   
-Christ gave His life for *me*. Christ gave His life for **you**. Ater believing the Gospel and placing our faith in Jesus Christ, we should want to live our lives for Him as a result of this unspeakable love ([2 Corinthians 9:15](https://www.biblegateway.com/passage/?search=2%20Corinthians%209%3A15&version=KJV)). 
+Christ gave His life for *me*. Christ gave His life for **you**. After believing the Gospel and placing our faith in Jesus Christ, we should want to live our lives for Him as a result of this unspeakable love ([2 Corinthians 9:15](https://www.biblegateway.com/passage/?search=2%20Corinthians%209%3A15&version=KJV)). 
 
 **Present Day**<br>
 All those years ago, I still haven't lost my faith in Jesus, my Savior. But in those years between first getting saved and now, I certainly had my fair share of mishaps in sin, doing things I knew I shouldn't ([Romans 7:18-19](https://www.biblegateway.com/passage/?search=Romans+7%3A18-19&version=KJV)), and not devoting nearly as much time reading/studying the Bible that I should have. Just within the past several months (Summer 2022) is when I have deepened my relationship with Jesus to a level of when I first got saved back in the Spring of 2006. And boy is it refreshing! Like I said before, I never lost my faith, but I did lose my zeal over the years. It's something I am striving to claim back.
