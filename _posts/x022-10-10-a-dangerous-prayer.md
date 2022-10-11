@@ -9,12 +9,14 @@ categories:
   - Heresy
 tags: 
   - easy prayerism
-  - sinners prayer
+  - sinner's prayer
   - heresy
 ---
 
 # Intro
-On my way home from the grocery store just this morning, I heard a very concerning description of how to be saved from Greg Laurie of [Harvest Ministries](https://harvest.org/). At the end of his message, he stated something to the effect of, "If you want to be saved, pray this prayer after me: *Dear Lord, I am a sinner. I turn from my sins right now and turn to You. I believe in You as my Lord and Savior. Thank You for saving me. Amen*." How effective is this for saving one's soul? Since I don't believe in click-bait blog posts, or posts that you must read lengthy walls of text just to find your answer, let me be clear: this is **not** going to save you. There is too much to unpack here for the scope of this post, therefore, we'll keep it succinct and to the point of dealing with the heresy of the prayer itself.
+On my way home from the grocery store just this morning, I heard a very concerning description of how to be saved from Greg Laurie, Senior Pastor of [Harvest Ministries](https://harvest.org/). At the end of his message, he stated something to the effect of, "If you want to be saved, pray this prayer after me: *Dear Lord, I am a sinner. I turn from my sins right now and turn to You. I believe in You as my Lord and Savior. Thank You for saving me. Amen*." But, just how effective is this for saving one's soul? Since I don't believe in click-bait blog posts, or posts that you must read lengthy walls of text just to find your answer, let me be clear: this is **not** going to save you.
+
+This method of "salvation", if you want to call it that, is often called `Easy-Prayerism` or the `Sinner's Prayer`. What Greg Laurie didn't mention here, `Ask Jesus Into Your Heart`, is something of another method, albeit similar in nature, that a lot of other evangelicals teach today--and subsequently was founded around the same time. `Ask Jesus Into Your Heart` goes hand-in-hand with `Easy-Prayerism` and the `Sinner's Prayer`; they are three peas in a pod; therefore we'll lump these heretical teachings together as we get into the discussion. As always, we'll examine this in light of Scripture as we should always strive to do. Let us then ask ourselves, [what saith the scripture?](https://www.biblegateway.com/passage/?search=romans+4%3A3&version=KJV).
 
 ## Why Is It Dangerous?
 **Lacking Acknowledgement of Sin**<br>
