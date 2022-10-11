@@ -14,6 +14,7 @@ tags:
   - heresy
 ---
 
+
 # Intro
 On my way home from the grocery store just this morning, I heard a very concerning description of how to be saved from Greg Laurie of [Harvest Ministries](https://harvest.org/). At the end of his message, he stated something to the effect of, "If you want to be saved, pray this prayer after me: *Dear Lord, I am a sinner. I turn from my sins right now and turn to You. I believe in You as my Lord and Savior. Thank You for saving me. Amen*." How effective is this for saving one's soul? Since I don't believe in click-bait blog posts, or posts that you must read lengthy walls of text just to find your answer, let me be clear: this is **not** going to save you. There is too much to unpack here for the scope of this post, therefore, we'll keep it succinct and to the point of dealing with the heresy of the prayer itself.
 
@@ -27,7 +28,7 @@ Lastly and certainly most important, a sinner needs to know the [Gospel]( https:
 1. *wherein ye stand*
 2. *by which also ye are saved*
 
-Assuming this is true, how do you explain just simply praying a prayer is on-par with the Gospel? Do we stand in our prayer? Are we saved by our prayer? Certainly not. We are saved by God’s grace through faith and faith alone. 
+Assuming this is true, how do you explain just simply praying a prayer is on-par with the Gospel? Do we stand in our prayer? Are we saved by our prayer? Certainly not. We are saved by God’s grace through faith and faith alone in the Gospel. 
 
 **Lacking of Repentance**<br>
 The Bible says in [Mark 1:15]( https://www.biblegateway.com/passage/?search=Mark%201%3A15&version=KJV) to “*repent and believe the gospel*.” In order to believe the Gospel, one must first show repentance--or a change of mind. If you don’t change your mind about your position with God, i.e., recognizing you’re a sinner, you will certainly never truly believe and subsequently, never be saved. This points back to the analogy of *they that be whole need not a physician*. You **must** first recognize your need for a savior! Since most evangelicals that follow this method of salvation, easy-prayerism, tend to quote Romans 10:13 and say, “See! `Call` means to pray!”, let’s break this down as well. This is actually simple because the problem with this thinking is found in the very next verse, which ironically is never mentioned by them. 
