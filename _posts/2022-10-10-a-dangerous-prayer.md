@@ -8,8 +8,8 @@ last_modified_at: 2022-10-10T19:59:00-05:00
 categories:
   - Heresy
 tags: 
-  - easy prayerism
-  - sinners prayer
+  - easy-prayerism
+  - sinners-prayer
   - salvation
   - heresy
 ---
