@@ -12,6 +12,7 @@ tags:
   - sinners_prayer
   - heresy
 ---
+
 # Intro
 On my way home from the grocery store just this morning, I heard a very concerning description of how to be saved from Greg Laurie of [Harvest Ministries](https://harvest.org/). At the end of his message, he stated something to the effect of, "If you want to be saved, pray this prayer after me: *Dear Lord, I am a sinner. I turn from my sins right now and turn to You. I believe in You as my Lord and Savior. Thank You for saving me. Amen*." How effective is this for saving one's soul? Since I don't believe in click-bait blog posts, or posts that you must read lengthy walls of text just to find your answer, let me be clear: this is **not** going to save you. There is too much to unpack here for the scope of this post, therefore, we'll keep it succinct and to the point of dealing with the heresy of the prayer itself.
 
