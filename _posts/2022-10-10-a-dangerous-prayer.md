@@ -43,3 +43,6 @@ We cannot “call”, or pray, if we haven’t believed in Him first. We can’t
 **12** I fast twice in the week, I give tithes of all that I possess. <br>
 **13** And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner. <br>
 **14** I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted.
+
+https://fundamentalbaptistchristian.blogspot.com/2014/07/declaring-war-against-easy-prayerism.html
+https://idahobaptist.com/easy-prayerism-romans-109-13/
