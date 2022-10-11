@@ -51,3 +51,4 @@ We cannot “call”, or pray, if we haven’t believed in Him first. We can’t
 
 https://fundamentalbaptistchristian.blogspot.com/2014/07/declaring-war-against-easy-prayerism.html
 https://idahobaptist.com/easy-prayerism-romans-109-13/
+https://faithsaves.net/the-sinners-prayer/
