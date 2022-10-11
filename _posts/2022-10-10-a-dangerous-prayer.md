@@ -2,7 +2,7 @@
 title: "Dangers of Easy-Prayerism"
 excerpt: "Most evangelicals teach this heretical means of salvation, often deemed easy-prayerism or "the sinner's prayer", that diminishes the Gospel and the saving power of Jesus Christ."
 image: 
-  path: /images/prayer.jpeg
+  path: /images/prayer.jpg
   caption: "Photo from [Unsplash](https://unsplash.com/photos/b_SHPU5M3nk)"
 last_modified_at: 2022-10-10T21:24:00-05:00
 categories:
@@ -11,6 +11,7 @@ tags:
   - easy-prayerism
   - sinners-prayer
   - heresy
+
 ---
 
 
