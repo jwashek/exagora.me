@@ -70,7 +70,7 @@ Welp, here's where the post ends. Pack it up boys and girls. In all seriousness,
 
 > <u>Romans 10:14:</u>  How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?
 
-We cannot “call” or pray if we haven’t believed in Him first. We can’t believe in Him if we never heard the Gospel. We can’t hear the Gospel if we are presented with it. 
+We cannot “call” or pray if we haven’t believed in Him first. We can’t believe in Him if we never heard the Gospel. We can’t hear the Gospel if we are presented with it. Now, I do believe a prayer can be used as a tool to express one's faith, as seen in this passage. But again, it is **not** the prayer that we are to focus on which is essentially what is taught today. We focus on Jesus and trust in Him **first**. 
  
 ## The Tax Collector and the Publican
 > <u>Luke 18:9-14:</u><br>
