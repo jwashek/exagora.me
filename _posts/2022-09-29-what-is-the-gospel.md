@@ -20,7 +20,7 @@ tags:
 > **3** For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; <br>
 > **4** And that he was buried, and that he rose again the third day according to the scriptures
 
-As you can see from the passage in Scripture above, the Gospel is very clear. It is **nothing** more than the death, burial, and resurrection of Jesus Christ. That's it. Adding or removing anything to this would make it a false gospel. But why does it matter?
+As you can see from the passage in Scripture above, the Gospel is very clear. It is **nothing** more than the death, burial, and resurrection of Jesus Christ. That's it. Adding or removing anything to this would make it a false gospel and should be viewed as accursed like [Galatians 1:8](https://www.biblegateway.com/passage/?search=Galatians%201%3A8&version=KJV) says.
 
 I thought it sufficient for the first post on this blog to be about the Gospel. It is utterly important and without it we cannot be saved. It is for this reason that Jesus said in [Mark 16:15b](https://www.biblegateway.com/passage/?search=mark+16%3A15&version=KJV) to *go ye into all the world, and preach the gospel to every creature*. Jesus didn't die to pay our sin debt in full for no one to hear about it. Imagine you bought a gift for your child and hid it away in the closet. If you never told your child about the gift then how will they know you ever bought it for them? Just the same, the Gospel brings the free gift of salvation for *all the world*; they just need to hear it and believe it.
 
