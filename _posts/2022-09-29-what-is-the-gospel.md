@@ -37,7 +37,7 @@ Knowing this comes the next part of the bad news. There are very real and seriou
 > <u>Romans 6:23</u>: For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.<br>
 > <u>2 Thessalonians 1:8:</u> In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ<br>
 > <u>John 8:24</u>: I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am he, ye shall die in your sins.<br>
-> <u>Revelation 21:8</u>: But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death.
+> <u>Revelation 21:8</u>: But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death.<br>
 > <u>Revelation 20:14-15</u>:<br> 
 > **14** And death and hell were cast into the lake of fire. This is the second death.<br>
 > **15** And whosoever was not found written in the book of life was cast into the lake of fire.
