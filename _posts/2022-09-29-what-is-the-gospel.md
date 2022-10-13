@@ -14,7 +14,7 @@ tags:
 ---
 
 ## What is the Gospel?
-> <u>1 Corinthians 15:1-4</u>:<br><br>
+> <u>1 Corinthians 15:1-4</u>:<br>
 > **1** Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand; <br>
 > **2** By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain. <br>
 > **3** For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; <br>
