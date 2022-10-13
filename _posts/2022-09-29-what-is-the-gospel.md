@@ -58,41 +58,27 @@ It is free from good works on our part [(Titus 3:5)](https://www.biblegateway.co
 The Bible is very clear on the Gospel as you saw. What else the Bible is very clear on is how to be saved. Now that you've heard the Gospel, have you changed your mind to believe it to be true? 
 
 **Repent**<br>
-Jesus played into the question of “*what can I do to be saved?*” when others would ask Him what they could do. He tends to answer the question differently between each individual that asked Him. This isn't because Jesus is confused, rather, this is because He worked to understand the heart of the person. One such case is of the rich young ruler in [Matthew 19:16-22](https://www.biblegateway.com/passage/?search=Matthew%2019:16-22&version=KJV). Essentially, the rich young ruler asked Jesus what he needed to do in order to be saved. Jesus told him to keep the Commandments. The rich young ruler said, "I kept these since I was young." Jesus then mentioned for him to sell all that he had and give to the poor. The Bible says that he went away sorrowful because he had great riches. He showed no repentance, and he proved his love for riches more than his desire to turn to God, i.e., his heart was far from God, and thus, far from the desire to be saved. I mentioned repentance, but just how important is that when considering salvation? The truth is repentance and faith go hand-in-hand.
 
 > <u>Mark 1:15</u>: And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel.
 
-Repent, translated from the Greek word "[metanoeō](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/)" means to "change one's mind." You see that we must first repent, or change our mind, before we believe. Had the rich young ruler changed his mind about what Jesus mentioned, he very well may have been saved. 
+Repent, translated from the Greek word "[metanoeō](https://www.blueletterbible.org/lexicon/g3340/kjv/tr/0-1/)" means to "change one's mind." We must first repent, or change our mind, before we believe. Logically this makes sense because how can we believe something new if we're never told about it?
 
-If you don't believe you need saved, you'll never go to a Savior. Just as Jesus said in [Mark 2:17](https://www.biblegateway.com/passage/?search=Mark%202%3A17&version=KJV) that "*they that are whole have no need of the physician, but they that are sick*." If you don't believe you're sick, you'll never change your mind and go to the doctor. Repentance happens through seeing our condition before God and realizing our utter hopelessness in saving ourselves.
+Think of it another way. If you don't believe you need saved, you'll never go to a Savior. Just as Jesus said in [Mark 2:17](https://www.biblegateway.com/passage/?search=Mark%202%3A17&version=KJV) that "*they that are whole have no need of the physician, but they that are sick*." If you don't believe you're sick, you'll never change your mind and go to the doctor. Repentance happens through seeing our condition before God and realizing our sickness through sin has very real consequences if gone unchecked. This is when we turn to Him, the Great Physician, by faith and simply believe in Him to heal us.
 
 **Believe!**<br>
 > <u>John 3:16</u>: For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
 
-It's that simple, yet so difficult for people to understand because they think, "what do *I* need to do?" Most people apply their own self-righteous efforts into salvation instead of fully trusting in Jesus, but as we already saw, it’s **nothing** that we can do on our end—it is purely apart from good works. These are those which trust in themselves and in their own works. This cannot save us as *all of our righteousness is as filthy rags* like [Isaiah 64:6](https://www.biblegateway.com/passage/?search=Isaiah%2064%3A6&version=KJV) states. 
-
-
-You might ask, "Okay, I get it, believe. But **what** am I supposed to believe?" This next verse explains just that. Found in the book of Ephesians, Paul writes to the Church at Ephesus:
+It's that simple. Yet, this is so difficult for people to understand because they think, "what do *I* need to do?" Most people apply their own self-righteous efforts into salvation instead of fully trusting in Jesus. It’s **nothing** that we can do on our end—it is purely apart from good works [(Galatians 3:2)](https://www.biblegateway.com/passage/?search=Galatians%203%3A2&version=KJV) that we receive the Holy Spirit, which is evidence of salvation in and of itself that can present itself through "fruit" in a believer's life [(Galatians 5:22-23)](https://www.biblegateway.com/passage/?search=galatians+5%3A22-23&version=KJV). Besides all this, God sees *all of our righteousness is as filthy rags* like [Isaiah 64:6](https://www.biblegateway.com/passage/?search=Isaiah%2064%3A6&version=KJV) states. You might ask, "Okay, I get it, believe. But **what** am I supposed to believe?" Paul writes to the Church at Ephesus:
 
 > <u>Ephesians 1:13</u>: In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise
 
-Notice several things here. If we walk the verse back, we see consecutive steps that occur before we are sealed by the Holy Spirit, which we receive **only** through belief [(John 7:39)](https://www.biblegateway.com/passage/?search=John%207%3A39&version=KJV):
+Notice several things here. If we walk the verse back, we can see what we are to beleive. Additionally, consecutive steps are presented in how we receive the Holy Spirit, which we receive **only** through belief [(John 7:39)](https://www.biblegateway.com/passage/?search=John%207%3A39&version=KJV):
 
 **1st**: we hear the word of truth (i.e., the Gospel)<br>
 **2nd**: we believe it and trust in Christ (i.e., the *whom* the verse is referencing back to)<br>
 **3rd**: we are *sealed* with the Holy Spirit
 
 That's it. It all points back to `believe`, but notice what we believe is very important. Believe the Gospel, the good news; the death, burial, and resurrection of Jesus Christ. If you believe this and place your trust in Jesus Christ to save you, the Bible is clear that you are saved. Not by some prayer, not by works (starting good works or stopping bad works); only through Jesus Christ and His work on the Cross are we saved through our faith in Him. Now that you've heard the Gospel, are you placing your faith in Jesus Christ to save you?
-
-**The Thief On the Cross**<br>
-> <u>Luke 23:39-43</u>:<br>
-> **39** And one of the malefactors which were hanged railed on him, saying, If thou be Christ, save thyself and us.<br>
-> **40** But the other answering rebuked him, saying, Dost not thou fear God, seeing thou art in the same condemnation?<br>
-> **41** And we indeed justly; for we receive the due reward of our deeds: but this man hath done nothing amiss.<br>
-> **42** And he said unto Jesus, Lord, remember me when thou comest into thy kingdom.<br>
-> **43** And Jesus said unto him, Verily I say unto thee, Today shalt thou be with me in paradise.
-
-What an amazing picture of salvation! The thief on the cross showed his heart believed in Jesus Christ and trusted who He said He was. Though the word “repent” is never mentioned, it’s assumed that he changed his mind and turned to God—as we clearly see in his actions by sticking up for Jesus and rebuking the other thief who was mocking Him. 
 
 **Step-By-Step Guide to Salvation**<br>
 1. Recognize you are a sinner
