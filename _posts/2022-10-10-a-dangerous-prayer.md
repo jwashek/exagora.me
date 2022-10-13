@@ -4,7 +4,7 @@ excerpt: "Most evangelicals teach this heretical means of salvation, often deeme
 image: 
   path: /images/prayer.jpg
   caption: "Photo from [Unsplash](https://unsplash.com/photos/b_SHPU5M3nk)"
-last_modified_at: 2022-10-10T21:24:00-05:00
+last_modified_at: 2022-10-13T16:26:00-05:00
 categories:
   - Heresy
 tags: 
