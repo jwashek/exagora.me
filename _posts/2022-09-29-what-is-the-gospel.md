@@ -27,7 +27,7 @@ The Gospel is very clear according to the Bible. It is **nothing** more than the
 ## What Does It Mean?
 The Gospel means `glad tidings` or `good news`. But why would Jesus’ suffering on the Cross and dying a horrible, painful death *ever* be labeled as good news? Well, you must understand a few things in order to fully grasp why the Gospel is nothing short of good news and everything more than good news!
 
-**The Bad News**<br>
+### The Bad News
 Have you ever heard someone say, "do you want the good news first or the bad news?" Typically with good news, there comes bad news along with it. This is certainly true in the case of the Gospel. The bad news starts with us. Every single person on this earth except for the Lord Jesus Christ has sinned [(Hebrews 4:15)](https://www.biblegateway.com/passage/?search=Hebrews%204%3A15&version=KJV).
 
 > <u>Romans 3:23</u>: For all have sinned, and come short of the glory of God;
@@ -44,7 +44,7 @@ Knowing this comes the next part of the bad news. There are very real and seriou
 
 Sounds awful, right? That's because it is. We are hopeless and helpless since we all have sinned. But this is where the good news come into play!
 
-**The Good News**<br>
+### The Good News
 > <u>Romans 5:8</u>: But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
 
 Some of the most beautiful verses in the Bible are often said to follow a "but." In the case of the above verse, this couldn't be truer! Jesus died for us to pay a debt He didn't owe that all might be saved through Him by belief--and He did this for us while we were *yet sinners*. How is that not good news? He suffered horribly on the Cross to satisfy a debt we could never pay. He became the propitiation [(1 John 4:10)](https://www.biblegateway.com/passage/?search=1%20John%204%3A10&version=KJV) for us and nailed our sin to the Cross [(Colossians 2:13-14)](https://www.biblegateway.com/passage/?search=Colossians+2%3A13-14&version=KJV)! 
@@ -55,7 +55,7 @@ It is free from good works on our part [(Titus 3:5)](https://www.biblegateway.co
 ## How to Be Saved
 The Bible is very clear on the Gospel as you saw. What else the Bible is very clear on is how to be saved. Now that you've heard the Gospel, have you changed your mind to believe it to be true? 
 
-**Repent**<br>
+### Repent
 
 > <u>Mark 1:15</u>: And saying, The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel.
 
@@ -63,7 +63,7 @@ Repent, translated from the Greek word "[metanoeō](https://www.blueletterbible.
 
 Think of it another way. If you don't believe you need saved, you'll never go to a Savior. Just as Jesus said in [Mark 2:17](https://www.biblegateway.com/passage/?search=Mark%202%3A17&version=KJV) that "*they that are whole have no need of the physician, but they that are sick*." If you don't believe you're sick, you'll never change your mind and go to the doctor. Repentance happens through seeing our condition before God and realizing our sickness through sin has very real consequences if gone unchecked. This is when we turn to Him, the Great Physician, by faith and simply believe in Him to heal us.
 
-**Believe!**<br>
+## Believe!
 > <u>John 3:16</u>: For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
 
 It's that simple. Yet, this is so difficult for people to understand because they think, "what do *I* need to do?" Most people apply their own self-righteous efforts into salvation instead of fully trusting in Jesus. It’s **nothing** that we can do on our end—it is purely apart from good works [(Galatians 3:2)](https://www.biblegateway.com/passage/?search=Galatians%203%3A2&version=KJV) that we receive the Holy Spirit, which is evidence of salvation in and of itself that is presented through "fruit" in a believer's life [(Galatians 5:22-23)](https://www.biblegateway.com/passage/?search=galatians+5%3A22-23&version=KJV). Besides all this, God sees *all of our righteousness is as filthy rags* like [Isaiah 64:6](https://www.biblegateway.com/passage/?search=Isaiah%2064%3A6&version=KJV) states. You might ask, "Okay, I get it, believe. But **what** am I supposed to believe?" Paul writes to the Church at Ephesus:
@@ -78,7 +78,7 @@ Notice several things here. If we walk the verse back, we can see what we are to
 
 That's it. It all points back to `believe`, but notice what we believe is very important. Believe the Gospel, the good news; the death, burial, and resurrection of Jesus Christ. If you believe this and place your trust in Jesus Christ to save you, the Bible is clear that you are saved. Not by some prayer, not by works (starting good works or stopping bad works); only through Jesus Christ and His work on the Cross are we saved through our faith in Him. Now that you've heard the Gospel, are you placing your faith in Jesus Christ to save you?
 
-**Step-By-Step Guide to Salvation**<br>
+#### Step-By-Step Guide to Salvation
 1. Recognize you are a sinner
 2. Understand the penalty for sin and your need of a Savior
 3. Repent (change your mind) and believe the Gospel; trust Jesus Christ to save you
