@@ -1,6 +1,6 @@
 ---
 title: "The Blood of Jesus: Is It Necessary?"
-excerpt: "What is the Gospel and why is it so important?"
+excerpt: "Is the blood important?"
 image: 
   path: /images/blood.jpeg
   caption: "Photo from [Bob Yandian Ministries](https://www.bobyandian.com/bible-topics/the-blood-and-the-name)"
@@ -13,8 +13,6 @@ tags:
   - remission
 ---
 
-
-{% include toc %}
 ## Intro
 Dr. John Macarthur once stated that the blood of Jesus is just a simple way to speak of His substitutionary death on the Cross.
 
