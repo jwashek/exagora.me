@@ -1,5 +1,5 @@
 ---
-title: "Is the Blood Necessary?"
+title: "Is Jesus' Blood Necessary?"
 excerpt: "You might know Jesus died on the Cross, was buried, and rose again. The Bible also mentioned he shed His blood for us. But was this necessary for the remission of our sins?"
 image: 
   path: /images/blood.jpeg
@@ -14,10 +14,14 @@ tags:
   - remission
 ---
 
-
+{% include toc %}
 
 ## Intro
-xyz
+Dr. John Macarthur once stated that the blood of Jesus is just a simple way to speak of His substitutionary death on the Cross.
+
+{% include responsive-embed url="https://www.youtube.com/watch?v=kRkmnVgzp38&t=44s" ratio="16:9" %}
+
+
 
 ## The Old Testament
 xyz
