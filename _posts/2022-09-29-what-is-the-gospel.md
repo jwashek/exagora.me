@@ -78,7 +78,7 @@ Notice several things here. If we walk the verse back, we can see what we are to
 
 That's it. It all points back to `believe`, but notice what we believe is very important. Believe the Gospel, the good news; the death, burial, and resurrection of Jesus Christ. If you believe this and place your trust in Jesus Christ to save you, the Bible is clear that you are saved. Not by some prayer, not by works (starting good works or stopping bad works); only through Jesus Christ and His work on the Cross are we saved through our faith in Him. Now that you've heard the Gospel, are you placing your faith in Jesus Christ to save you?
 
-#### Step-By-Step Guide to Salvation
+## Guide to Salvation
 1. Recognize you are a sinner
 2. Understand the penalty for sin and your need of a Savior
 3. Repent (change your mind) and believe the Gospel; trust Jesus Christ to save you
