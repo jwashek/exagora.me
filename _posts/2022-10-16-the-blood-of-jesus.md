@@ -13,8 +13,8 @@ tags:
   - remission
 ---
 
-{% include toc %}
 
+{% include toc %}
 ## Intro
 Dr. John Macarthur once stated that the blood of Jesus is just a simple way to speak of His substitutionary death on the Cross.
 
