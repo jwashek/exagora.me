@@ -16,8 +16,6 @@ tags:
 ## Intro
 Dr. John Macarthur once stated that the blood of Jesus is just a simple way to speak of His substitutionary death on the Cross.
 
-{% include responsive-embed url="https://www.youtube.com/watch?v=kRkmnVgzp38&t=44s" ratio="16:9" %}
-
 ## The Old Testament
 xyz
 
