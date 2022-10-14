@@ -1,6 +1,6 @@
 ---
-title: "Is Jesus' Blood Necessary?"
-excerpt: "You might know Jesus died on the Cross, was buried, and rose again. The Bible also mentioned he shed His blood for us. But was this necessary for the remission of our sins?"
+title: "Is the Blood of Jesus Necessary?"
+excerpt: "You might know Jesus died on the Cross, was buried, and rose again. The Bible also mentioned He shed His blood for us. But was this necessary for the remission of our sins?"
 image: 
   path: /images/blood.jpeg
   caption: "Photo from [Bob Yandian Ministries](https://www.bobyandian.com/bible-topics/the-blood-and-the-name)"
