@@ -1,6 +1,6 @@
 ---
 title: "The Folly of the Cross"
-excerpt: "The crucifixion brought about immeasurable amounts of suffering. Most Christians do not ponder just how horrible of a death being crucified was for our Lord and Savior."
+excerpt: "Historically, crucifixion brought about immeasurable amounts of suffering. Most Christians do not ponder just how horrible of a death being crucified was for our Lord and Savior."
 image: 
   path: /images/crucifixion.jpg
   caption: "Photo from [John T Squires](https://johntsquires.com/2021/03/26/reading-the-crucifixion-as-a-scene-of-public-shaming)"
@@ -30,29 +30,29 @@ Most people wouldn't even speak of it. A lot of early Christian theologians purp
 
 ## *Mors Turpissima*
 ### Before the Crucifixion
-#### Flogging and Torture
+**Flogging and Torture**<br>
 they were flogged and tortured
 
-#### Humiliation
+**Humiliation**<br>
 Stripped naked, mocked, etc
 
-#### "Carrying Your Cross"
+**"Carrying Your Cross"**<br>
 they had to carry their own cross. Being extremely fatigued to bear the weight of the cross was suffering in and of itself. 
 
-#### Intricate Nail Placement
-A lot of thought went into the placement of the nails. It has been understood that even if the nails were 1 inch off, they would not be able to hold the weight of the individual hanging on the cross. This was highly calculated. 
+**Intricate Nail Placement**<br>
+A lot of thought went into the placement of the nails. It has been understood that even if the nails were 1 inch off, they would not be able to hold the weight of the individual hanging on the cross (try to get a source). This was highly calculated. 
 
 
 ### During the Crucifixion
-#### Immense Suffering
+**Immense Suffering**<br>
 The pain and suffering was immense
 
-#### Pain with Every Breath
+**Pain with Every Breath**<br>
 Every breath hurt
 
 ### After the Crucifixion
-#### A Dishonor to the Dead
+**A Dishonor to the Dead**<br>
 They lacked a proper burial
 
-#### More Humiliation
+**More Humiliation**<br>
 their bodies were left to dogs, birds; they were lit on fire to serve as lamps by night
