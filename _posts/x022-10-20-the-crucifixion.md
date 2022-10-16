@@ -41,14 +41,11 @@ If the act of crucifixion wasn’t enough, there was a lot of prep-work that wen
 Now that the flogging had completed, the victims of crucifixion were stripped naked and mocked. Crucifixion was not just a death sentence to the body, but almost to every aspect of the human life. Not only were the victims, if they survived to this point, suffering an almost unimaginable amount, now they had to suffer by being naked and mocked by their own people. 
 
 **"Carrying Your Cross"**<br>
-Crucifixion victims had to carry their own cross. Bearing the weight of a cross on an already-fatigued body reduced to Being extremely fatigued to bear the weight of the cross was suffering in and of itself. 
+Crucifixion victims had to carry their own cross. Bearing this weight on an already-fatigued body reduced to raw flesh was punishment in and of itself. The victims would then have to carry the cross to the place they were to be crucified. Every step causing the weight to crash down on sore, painful, open wounds. In addition to the tremendous amount of pain, this coupled as another form of humiliation.  
 
 ### During the Crucifixion
 **Intricate Nail Placement**<br>
 A lot of thought went into the placement of the nails. It has been understood that even if the nails were 1 inch off, they would not be able to hold the weight of the individual hanging on the cross (try to get a source). This was highly calculated. 
-
-**Immense Suffering**<br>
-The pain and suffering was immense
 
 **Pain with Every Breath**<br>
 Every breath hurt
