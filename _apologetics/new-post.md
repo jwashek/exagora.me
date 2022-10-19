@@ -1,15 +1,12 @@
 ---
-title: How?
-layout: collection
-permalink: /apologetics/
-collection: apologetics
-entries_layout: grid
+title: "Why Christianity?"
+image: 
+  path: /images/gospel.jpg
+  thumbnail: /images/gospel.jpg
+  caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
 ## Intro
 
 ## Content
-Here's another post with some content
-
-> This content is different
-
+Here's content
