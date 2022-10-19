@@ -1,6 +1,6 @@
 ---
 title: "The Gospel"
-excerpt: "What is the Gospel and why is it so important?"
+excerpt: "The Gospel is the good news of Jesus' death, burial, and resurrection. But how could this possibly be good news?"
 image: 
   path: /images/gospel.jpeg
   caption: "Photo from [Redeeming God](https://redeeminggod.com/sermons/miscellaneous/what-is-the-gospel/)"
