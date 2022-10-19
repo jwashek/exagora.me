@@ -1,6 +1,6 @@
 ---
 title: "The Folly of the Cross"
-excerpt: "Historically, crucifixion brought about immeasurable amounts of suffering. Most Christians, though they believe Jesus was crucified, do not ponder just how horrible of a death this actually was."
+excerpt: "Most people today, though they might believe Jesus was crucified, do not realize just how horrible of a death this actually was."
 image: 
   path: /images/crucifixion.jpg
   caption: "Photo from [John T Squires](https://johntsquires.com/2021/03/26/reading-the-crucifixion-as-a-scene-of-public-shaming)"
