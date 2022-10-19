@@ -88,6 +88,13 @@ defaults:
     values:
       layout: post
       share: true
+      
+  - scope:
+      path: "_apologetics"
+      type: apologetics
+    values:
+      layout: post
+      share: true
 
 # Site Author
 author:
