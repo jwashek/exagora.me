@@ -1,9 +1,9 @@
 ---
-title: "Why Christianity?"
-image: 
-  path: /images/gospel.jpg
-  thumbnail: /images/gospel.jpg
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+title: Why Christianity?
+layout: collection
+permalink: /apologetics/
+collection: apologetics
+entries_layout: grid
 ---
 
 ## Intro
