@@ -1,6 +1,6 @@
 ---
 title: "Dangers of the Sinner's Prayer"
-excerpt: "Most evangelicals teach this heretical means of salvation, often deemed sinner's prayer or easy-prayerism, that diminishes the Gospel and the saving power of Jesus Christ."
+excerpt: "Today, most evangelicals teach sinner's to pray in order to become saved. But is this biblical?"
 image: 
   path: /images/prayer.jpg
   caption: "Photo from [Unsplash](https://unsplash.com/photos/b_SHPU5M3nk)"
