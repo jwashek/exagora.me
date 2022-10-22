@@ -11,7 +11,7 @@ collection: about
 ## Quick Intro
 My intent for this blog is to use it to spread the Gospel to those who might never have heard. That is my main focus as a believer. Additionally, I would like to help build up the faith of other believers that may stumble upon this blog. I intend to do that by presenting the Bible to support sound doctrine, expose false doctrine/teachers, and provide a sort of [apologetics](https://bible.org/seriespage/1-what-apologetics) to common hard-to-answer questions about God, faith, and the Bible.
 
-Though, this blog is not about me, I want to use it to magnify and glorify God for what He has done in my life. But sometimes, the best way to do that is to get personal and tell your own story. That's what this page is all about. This is my story--my testimony--of how God saved me through my faith in Jesus Christ. 
+Though this blog is not about me, sometimes the best way to magnify and glorify God is to get personal and tell the story of what He has done in your life. 
 
 ## My Testimony
 ### The Early Days
