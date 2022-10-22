@@ -1,6 +1,6 @@
 ---
 title: "Dangers of the Sinner's Prayer"
-excerpt: "Today, most evangelicals teach sinner's to pray in order to become saved. But is this biblical?"
+excerpt: "Today, most evangelicals teach sinners to pray in order to become saved. But is this biblical?"
 image: 
   path: /images/prayer.jpg
   caption: "Photo from [Unsplash](https://unsplash.com/photos/b_SHPU5M3nk)"
