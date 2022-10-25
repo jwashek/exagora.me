@@ -6,6 +6,8 @@ image:
   caption: "Photo from [ManagingIP](https://www.managingip.com/article/2a5cxykeoi5gdy8i6htz4/the-importance-of-providing-sufficient-evidence-in-invalidation-proceedings)"
 ---
 
+
+
 {% include toc %}
 
 ## Intro
