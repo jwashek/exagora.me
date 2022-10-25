@@ -3,8 +3,10 @@ title: "Evidence Supporting Christianity"
 image: 
   path: /images/apologetics/evidence.jfif
   thumbnail: /images/apologetics/evidence.jfif
-  caption: "Photo from [Managing IP](https://www.pexels.com](https://www.managingip.com/article/2a5cxykeoi5gdy8i6htz4/the-importance-of-providing-sufficient-evidence-in-invalidation-proceedings)"
+  caption: "Photo from [ManagingIP](https://www.managingip.com/article/2a5cxykeoi5gdy8i6htz4/the-importance-of-providing-sufficient-evidence-in-invalidation-proceedings)"
 ---
+
+{% include toc %}
 
 ## Intro
 Most atheists or deniers of Jesus being the only way of salvation will say things like, "*There's no evidence supporting Christianity*" Unfortunately, Christians tend to answer these questions thoughtlessly and say things like, "*Well, I have faith it's true.*" Commendable, but irresponsible. Obviously, this is not the answer any questioner of religion would be willing to accept, and let's face it, you can't really blame them. So, let's examine this question with a little more substance in defense of Christianity.
@@ -44,7 +46,7 @@ Regardless of faith, or lack thereof, New Testament scholars agree that these cl
 **Beit Loya**<br>
 Some of the most compelling evidence in support of Jesus' life and death comes by way of archaeological evidence. One such finding can be seen in this video.
 
-{% raw %}{% include responsive-embed url="https://www.youtube.com/embed/cH6BJDxQjAU" ratio="16:9" %}{% endraw %}
+{% include responsive-embed url="https://www.youtube.com/embed/cH6BJDxQjAU" ratio="16:9" %}
 
 If you're lazy like me and need a **TL;DR**, you're in luck and I'll sum it up for you. 
 
