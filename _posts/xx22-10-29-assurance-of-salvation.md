@@ -21,9 +21,9 @@ Many Christians today don't have the assurance of salvation. This is an all-too-
 ## Why Do We Lose Assurance?
 
 ## Necessary Sacrifice
-### Old Testament Sacrifice
+### Out with the Old
 
-### New Testament Sacrifice
+### In with the New
 
 ## Facts Over Feelings
 Nailed to the cross verse
