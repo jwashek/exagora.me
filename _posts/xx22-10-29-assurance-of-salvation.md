@@ -1,6 +1,6 @@
 ---
 title: "Blessed Assurance"
-excerpt: "Christians can rest assured knowing Jesus' finished work on the Cross has saved them. With the Bible as our guide, we'll examine this truth in greater detail."
+excerpt: "Christians often doubt and fear their salvation. But they can rest assured knowing Jesus' finished work on the Cross has saved them. With the Bible as our guide, we'll examine this truth in greater detail."
 image: 
   path: /images/assurance.webp
   caption: "Photo from [Rooted Thinking](http://rootedthinking.com/2020/10/27/counsel-for-those-struggling-with-assurance)"
@@ -12,6 +12,8 @@ tags:
   - salvation
   - assurance
   - doubt
+  - justification
+  - redemption
 ---
 
 {% include toc %}
@@ -67,22 +69,24 @@ Feelings are something that comes and goes. Look at your own life. What feelings
 * Our debt of sin we owed was **canceled** and applied to Jesus, being nailed to the Cross [(Colossians 2:14)](https://www.biblegateway.com/passage/?search=Colossians%202%3A14&version=KJV)! 
 * Once we believe the Gospel and trust in Jesus, we are **sealed** with the Holy Spirit [(Ephesians 1:13)](https://www.biblegateway.com/passage/?search=ephesians+1%3A13&version=KJV).
   * That seal then becomes our down payment, or assurance, until the day of redemption [(Ephesians 1:14)](https://www.biblegateway.com/passage/?search=ephesians+1%3A14&version=KJV)
-> __Note__: Ephesians 1:13-14 used directly above could be an entire post in and of itself. One thing to note about this passage is found in the word `sealed`. The Greek word ["sphragizō"](https://www.blueletterbible.org/lexicon/g4972/kjv/tr/0-1/), used here to translate "sealed", is interesting because one of the translations can be that of, "*to confirm authenticate, place beyond doubt*." Did you catch that? God seals us; we are marked and are placed beyond doubt that we are His!
+> __Note__: Ephesians 1:13-14 used directly above could be an **entire** post in and of itself. One thing to note about this passage is found in the word `sealed`. The Greek word ["sphragizō"](https://www.blueletterbible.org/lexicon/g4972/kjv/tr/0-1/), used here to translate "sealed", is interesting because one of the translations can be that of, "*to confirm authenticate, place beyond doubt*." Did you catch that? God seals us; we are marked and are placed beyond doubt that we are His! If the seal is *beyond doubt*, then why do we doubt the seal?
 * If we believe in Him, we **have**--this is written in the present tense--everlasting life [(John 6:47)](https://www.biblegateway.com/passage/?search=john+6%3A47&version=KJV)!
-* Ephesians 1:7 https://www.biblegateway.com/passage/?search=Ephesians%201%3A7&version=KJV
-* Acts 13:39 https://www.biblegateway.com/passage/?search=Acts%2013%3A39&version=KJV
-* Romans 3:28 https://www.biblegateway.com/passage/?search=Romans%203%3A28&version=KJV
 
 All of those facts were presented just to say, "take God at His Word." Salvation isn't some formula or a special checklist we must etch our mark into the boxes, but it's a Person! Our salvation never resided in us, and no more does our assurance. They both reside in Christ! Let's take God at His Word, trusting in His promises instead of something we do, have done, or will do.
 
 ## Just-If-I'd
-Being justified is not something we have done, but it's something Someone else has done. 
+I'm not sure who coined the play-on-words above, but I don't think anything describes being justified better than *just-if-I'd*. That is, Jesus' work on the Cross and our faith and trust in Him makes it *just-if-I'd* never sinned! And rightfully so, because being justified is not something we have done, are doing, or will do, but it's something Someone else has done. To be declared justified is to have His righteousness applied to our account. Oftentimes, people use `justified` and `redeemed` interchangeably, though they're vastly different words with vastly different meanings, this isn't inherently incorrect. If we're justified, we've been redeemed; if we're redeemed, we've been justified.
 
-https://www.blueletterbible.org/lexicon/g1805/kjv/tr/0-1/
-Exagora meaning https://www.crosswalk.com/faith/bible-study/what-is-exagora-and-what-does-it-mean-for-me-today.html. 
+## Redeemed, Reedemed!
+The word redeem as rendered in [Galatians 3:13](https://www.biblegateway.com/passage/?search=galatians+3%3A13&version=KJV) comes from the Greek word ["exagorazō"](https://www.blueletterbible.org/lexicon/g1805/kjv/tr/0-1/).
 
-Further breakdown of exagora
-https://www.blueletterbible.org/lexicon/g1537/kjv/tr/0-1/
-https://www.blueletterbible.org/lexicon/g59/kjv/tr/0-1/
+> __Note:__ Bonus points if you caught that the Greek word used in this verse is the same word inspired by this blog! If not... shame on you (just kidding)
+
+Why is this important? Well, this word is particularly interesting. If we break it down further, we get two root words:
+
+1. ["ek"](https://www.blueletterbible.org/lexicon/g1537/kjv/tr/0-1/) meaning, "out of, from, by, away from"; and
+2. ["agorazō"](https://www.blueletterbible.org/lexicon/g59/kjv/tr/0-1/) meaning, "to be in the marketplace, to attend it; to do business there, buy or sell"
+
+Therefore, we get a meaning to be along the lines of, "*out of the marketplace*." This meaning paints a beautiful picture for redemption as I'll show in just a moment, so bear with me. In the 1st century AD, slavery was very common and used for just about anything you could think of by the Romans. Where they would do a lot of slave trading was in marketplaces. In some cases, slaves were redeemed by being purchased and set free, directly within the marketplace. So, "out of the marketplace" is how they found their redemption. Makes sense, right? Paul used this imagery to describe precisely how we are redeemed as well. We were all slaves to sin [(Romans 6:6)](https://www.biblegateway.com/passage/?search=romans+6%3A6&version=NIV). Our Savior reedemed us and bought us with a price [(1 Corinthians 7:23)](https://www.biblegateway.com/passage/?search=1%20Corinthians%207%3A23&version=KJV), freeing us to no longer be slaves to sin. What better way to realize assurance than to see we no longer are slaves to sin, but are free and redeemed by His grace through our faith in Christ?
 
 ## Conclusion
