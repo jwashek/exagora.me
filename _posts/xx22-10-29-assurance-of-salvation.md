@@ -79,6 +79,10 @@ All of those facts were presented just to say, "take God at His Word." Salvation
 Being justified is not something we have done, but it's something Someone else has done. 
 
 https://www.blueletterbible.org/lexicon/g1805/kjv/tr/0-1/
-Exagora meaning https://www.crosswalk.com/faith/bible-study/what-is-exagora-and-what-does-it-mean-for-me-today.html
+Exagora meaning https://www.crosswalk.com/faith/bible-study/what-is-exagora-and-what-does-it-mean-for-me-today.html. 
+
+Further breakdown of exagora
+https://www.blueletterbible.org/lexicon/g1537/kjv/tr/0-1/
+https://www.blueletterbible.org/lexicon/g59/kjv/tr/0-1/
 
 ## Conclusion
