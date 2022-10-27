@@ -40,13 +40,13 @@ You may have heard the saying, "*if you're not progressing, you're regressing*."
 > **8** For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ.<br>
 > **9** But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins.
 
-If we are not growing in the Lord, Peter says we can become barren and unfruitful, we can become blind, and we can even forget Christ has **purged** our sins from us. All of this certainly leading to doubting our salvation or having a lack of assurance. Overcome the spiritual stagnation and regain your assurance by growing your faith in Jesus Christ!
+If we are not growing in the Lord, Peter says we can become barren and unfruitful; we can become blind and we can even forget Christ has **purged** our sins from us. All of this certainly leading to doubting our salvation or having a lack of assurance. Overcome the spiritual stagnation and regain your assurance by growing your faith in Jesus Christ!
 
 ## Blood Sacrifice
 I thought it necessary to briefly explain how sacrifices worked in the Old Testament and how this differed from the New Testament. This will be an important lead-in to the next major section. Having a high-level understanding of how sacrifices worked will only make us appreciate the next section even more... so why not, right? 
 
 ### Out with the Old
-The holy of holies (or Most Holy Place) was the inner sanctuary within the [Tabernacle](https://www.thegospelcoalition.org/blogs/justin-taylor/what-does-the-tabernacle-symbolize/), which was essentially a tented palace where the high priest would offer sacrifices to God. Inside the Tabernacle, and just before the Most Holy Place, there was a separation by a large veil. Behind this veil--and within the Most Holy Place itself--is where the ark of the covenant resided. Within the ark was the mercy seat (hopefully you're still with me). Now, each year during the [Day of Atonement](https://www.gotquestions.org/Day-Atonement-Yom-Kippur.html), the high priest had to enter into the Most Holy Place and sprinkle the blood of sacrificed bulls and goats upon the mercy seat to atone for the sins of the high priest as well as for the children of Israel.
+The holy of holies (or Most Holy Place) was the inner sanctuary within the [Tabernacle](https://www.thegospelcoalition.org/blogs/justin-taylor/what-does-the-tabernacle-symbolize/), which was essentially a tented palace where the high priest would offer sacrifices to God. Inside the Tabernacle, and just before the Most Holy Place, there was a separation by a large veil. Behind this veil--and within the Most Holy Place itself--is where the ark of the covenant resided. Within the ark was the mercy seat (hopefully you're still with me). Now, each year during the [Day of Atonement](https://www.gotquestions.org/Day-Atonement-Yom-Kippur.html), the high priest had to enter into the Most Holy Place and sprinkle the blood of sacrificed bulls and goats upon the mercy seat to atone for the sins of the high priest as well as for the people of Israel.
 
 > <u>Leviticus 16:14-16</u><br>
 > **14** And he shall take of the blood of the bullock, and sprinkle it with his finger upon the mercy seat eastward; and before the mercy seat shall he sprinkle of the blood with his finger seven times.<br>
@@ -54,22 +54,28 @@ The holy of holies (or Most Holy Place) was the inner sanctuary within the [Tabe
 > **16** And he shall make an atonement for the holy place, because of the uncleanness of the children of Israel, and because of their transgressions in all their sins: and so shall he do for the tabernacle of the congregation, that remaineth among them in the midst of their uncleanness.
 
 ### In with the New
-Alright, we now understand how sin was atoned for (a possibly better word to use is `covered`, and this will be important later on) in the Old Testament, let's see how it was done in the New Testament.nThough, a blood sacrifice was still required, it was by *His own blood* [[Hebrews 9:12]](https://www.biblegateway.com/passage/?search=Hebrews%209%3A12&version=KJV). `His` obviously referring to the Lord Jesus Christ. 
+Alright, we now understand how sin was atoned for (a possibly better word to use is `covered`, and this will be important later on) in the Old Testament, let's see how it was done in the New Testament. Though, a blood sacrifice was still required [[Hebrews 9:22]](https://www.biblegateway.com/passage/?search=hebrews+9%3A22&version=KJV), it was by *His own blood* [[Hebrews 9:12]](https://www.biblegateway.com/passage/?search=Hebrews%209%3A12&version=KJV) that this atonement was made for us. *His* obviously referring to the Lord Jesus Christ. This atonement was made for the sins of the entire world [[1 John 2:2]](https://www.biblegateway.com/passage/?search=1%20John%202%3A2&version=KJV), but the best part? Jesus was the picture of Old Testament sacrifice as He came as a high priest [[Hebrews 9:11]](https://www.biblegateway.com/passage/?search=hebrews+9%3A11&version=KJV) and by His own blood, he obtained eternal redemption for us [[Hebrews 9:12]](https://www.biblegateway.com/passage/?search=hebrews+9%3A12&version=KJV)! This means that our sin is no longer covered, but `removed` and cast as far as the east is from the west [[Psalm 103:12]](https://www.biblegateway.com/passage/?search=Psalm%20103%3A12&version=KJV).
 
 ### An Analogy to Better Understand
+Imagine you're walking a trail in the forest and you come to a sign describing two paths. The closer path you intended to take is completely overrun with thorns and the other, though much further than the closer path, is free from 
 
 ## Facts Over Feelings
-Nailed to the cross verse
+Our debt of sin we owed was canceled and applied to His account [[Colossians 2:14]](https://www.biblegateway.com/passage/?search=Colossians%202%3A14&version=KJV)
 ephesians 1:13-14
-
-## Just-If-I'd
-
-
-## A Needless Checklist
 I say "needless" because we shouldn't need one to begin with. But if anyone is like me, it's nice to have points you can drill down into.
 Let's look at 1 John
 Let's look at Gifts of the Spirit
 Let's look at
 Examine yourselves. Restore unto me the joy of my salvation (pretty sure this was AFTER David sinned with Bathsheba). Sin can take us out of assurance.
+https://www.biblegateway.com/passage/?search=Ephesians%201%3A7&version=KJV
+https://www.biblegateway.com/passage/?search=Colossians%201%3A14&version=KJV
+Salvation isn't a formula or a checklist, it's a Person!!! Either you trust God, or you don't. Do you?
+https://www.biblegateway.com/passage/?search=Acts%2013%3A39&version=KJV
+https://www.biblegateway.com/passage/?search=Romans%203%3A20&version=KJV
+https://www.biblegateway.com/passage/?search=Romans%203%3A28&version=KJV
+Take God at His word.
+
+## Just-If-I'd
+
 
 ## Conclusion
