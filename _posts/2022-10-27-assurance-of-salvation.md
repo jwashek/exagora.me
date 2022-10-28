@@ -80,7 +80,7 @@ I'm not sure who coined the play-on-words as the title says, but I don't think a
 
 Imagine you owe a debt and are sent to a judge to receive your sentence. The judge orders you to pay a fine, but this fine is well outside of your means. In other words, you likely wouldn't be able to repay this debt in 10 lifetimes, let alone this one. Just before you receive your sentence, someone comes to the judge and pays your debt in full. This person redeemed you by taking your debt onto themself fully and freely. In the eyes of the judge, you are now absolved and justified. 
 
-Oftentimes, people use `justified` and `redeemed` interchangeably, however, they're vastly different words with vastly different meanings. This isn't inherently incorrect though. If we're justified, we've been redeemed; if we're redeemed, we've been justified.
+Oftentimes, people use `justified` and `redeemed` interchangeably, however, they're vastly different words with vastly different meanings. This isn't inherently incorrect though. If we're justified, we've been redeemed; if we're redeemed, we've been justified. The doctrine of justification is one that that we should always circle back to if we're losing assurance or doubting our salvation. 
 
 ## Redeemed, Redeemed!
 The word redeem as rendered in [Galatians 3:13](https://www.biblegateway.com/passage/?search=galatians+3%3A13&version=KJV) comes from the Greek word ["exagorazō"](https://www.blueletterbible.org/lexicon/g1805/kjv/tr/0-1/).
