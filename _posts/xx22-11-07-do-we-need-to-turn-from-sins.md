@@ -62,7 +62,7 @@ If sin is transgression of the Law, wouldn't turning from sin mean that you're k
 * [Romans 3:28](https://www.biblegateway.com/passage/?search=Romans%203%3A28&version=KJV)
 * [Galatians 2:16](https://www.biblegateway.com/passage/?search=Galatians%202%3A16&version=KJV)
 * [Galatians 5:4](https://www.biblegateway.com/passage/?search=Galatians%205%3A4&version=KJV)
-* [Romans 4:4](https://www.biblegateway.com/passage/?search=Romans%204%3A4&version=KJV)
+* [Romans 4:4-5](https://www.biblegateway.com/passage/?search=Romans%204%3A4-5&version=KJV)
 
 Galatians is mentioned in two verses above, but the entire book of Galatians is evidence against turning from sin or keeping the Mosaic Law to be saved. The context of Galatians is about Jews falling from the Gospel and turning back to the old way of keeping the Mosaic Law. It's sad to see that some 2,000 years later, the same issues are plaguing Christianity.  
 
