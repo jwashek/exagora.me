@@ -37,16 +37,18 @@ If that wasn't enough, listen to Ray's very [disturbing answer](https://www.yout
 1. "There are two things you have to do to be saved. First, you must repent... turn from all sin and live in holiness... 
 2. and trust alone in Jesus."
 
-Let me ask you this, do you see what he did there? He placed our trust (i.e., faith, belief) in Jesus only **after** we turn from all our sin. Why is that an afterthought? We trust in ourselves first to rid ourselves of sin (which is impossible as [1 John 1:8](https://www.biblegateway.com/passage/?search=1%20John%201%3A8&version=KJV) says, by the way), then and only then do we have faith in Jesus? What about "*come, whosoever will*"[(Revelation 22:17)](https://www.biblegateway.com/passage/?search=Revelation%2022%3A17&version=KJV)? What about [John 3:16](https://www.biblegateway.com/passage/?search=John%203%3A16&version=KJV)? [Acts 16:31](https://www.biblegateway.com/passage/?search=Acts%2016%3A31&version=KJV)? [Acts 10:43](https://www.biblegateway.com/passage/?search=Acts%2010%3A43&version=KJV)? If you are trusting in this method to get saved, let me be clear: you will die in your sins attempting to save yourself before you ever trust in Jesus for salvation. 
+Let me ask you this, do you see what he did there? He placed salvation on our shoulders by requiring us to turn from sin before we ever place our trust (i.e., faith, belief) in Jesus. Why is Jesus and faith in Him an afterthought? We trust in ourselves first to rid ourselves of sin (which is impossible as [1 John 1:8](https://www.biblegateway.com/passage/?search=1%20John%201%3A8&version=KJV) says, by the way), then and only then do we have faith in Jesus? What about "*come, whosoever will*"[(Revelation 22:17)](https://www.biblegateway.com/passage/?search=Revelation%2022%3A17&version=KJV)? What about [John 3:16](https://www.biblegateway.com/passage/?search=John%203%3A16&version=KJV)? [Acts 16:31](https://www.biblegateway.com/passage/?search=Acts%2016%3A31&version=KJV)? [Acts 10:43](https://www.biblegateway.com/passage/?search=Acts%2010%3A43&version=KJV)? If you are trusting in this method to get saved, let me be clear: you will die in your sins attempting to save yourself before you ever trust in Jesus for salvation. 
 
 **What Does the Bible Say?**<br>
-The Bible uses the word Greek word ["metanoia"](https://www.blueletterbible.org/lexicon/g3341/kjv/tr/0-1/) for repentance, which simply means, "a change of mind." You're changing your mind in what you're trusting in. You repent **towards** God, like [Acts 20:21](https://www.biblegateway.com/passage/?search=Acts%2020%3A21&version=KJV) mentions, and have faith in the Lord Jesus Christ. Now, let's just replace the word `repent` in that verse with both Ray Comfort's description of repentance and the Bible's description of repentance.
+The Bible uses the Greek word ["metanoia"](https://www.blueletterbible.org/lexicon/g3341/kjv/tr/0-1/) for repentance, which simply means, "a change of mind." You're changing your mind in what you're trusting in. You repent **towards** God, like [Acts 20:21](https://www.biblegateway.com/passage/?search=Acts%2020%3A21&version=KJV) mentions, and have faith in the Lord Jesus Christ. Now, let's just replace the word `repent` in that verse with both Ray Comfort's description of repentance and the Bible's description of repentance.
 
 | Ray's Teaching  | The Bible's Teaching  |
 |---|---|
 | "Turning from all your sin and living in holiness" towards God and faith toward our Lord Jesus Christ  | "a change of mind" towards God and faith toward our Lord Jesus Christ  |
 
 You see the difference? This is a false works-based gospel, which will be proved in the next section.
+
+> __Note:__ I think it's important to mention here that if you truly change your mind (repent) and place your faith in Jesus, you will want to serve Him, you will want to turn from sin, and you will feel convicted of sin in your life because you have the Holy Spirit residing in you. A true repentant heart toward God will bring about fruit in the believer's life--turning from sin or a desire to turn from sin will be one fruit of true faith, but it's never a requirement prior to having faith.
 
 
 ## A Further Examination
@@ -55,7 +57,7 @@ According to the Bible, sin is transgression of the Law [(1 John 3:4)](https://w
 
 ### Logical Errors
 **Keeping the Law**<br>
-If sin is transgression of the Law, wouldn't turning from sin mean that you're keeping the Law? Absolutely, it would! The Bible is so clear about this matter that it's hard to even suggest that we need to turn from sin in order to be saved. Here's just a few verses to help us understand that it's faith alone--maybe I should say, "faith **first**, and not as an afterthought", unlike Ray Comfort's teaching. 
+If sin is transgression of the Law, wouldn't turning from sin mean that you're keeping the Law? Absolutely, it would! Salvation is either through faith, or our own self-righteous works. It's our work or His work. The Bible is so clear about this matter that it's hard to even suggest that we need to turn from sin in order to be saved. Here's just a few verses to help us understand that it's faith alone--maybe I should say, "faith **first**, and not as an afterthought", unlike Ray Comfort's teaching. 
 
 * [Titus 3:5](https://www.biblegateway.com/passage/?search=titus+3%3A5&version=KJV)
 * [Romans 3:20](https://www.biblegateway.com/passage/?search=Romans%203%3A20&version=KJV)
