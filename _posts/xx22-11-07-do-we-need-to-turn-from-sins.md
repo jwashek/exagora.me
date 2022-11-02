@@ -53,7 +53,7 @@ You see the difference? This is a false works-based gospel, which will be proved
 
 ## A Further Examination
 ### What is Sin? 
-If we are to understand what turning from sin means, we need to define it. According to the Bible, sin is transgression of the Law [(1 John 3:4)](https://www.biblegateway.com/passage/?search=1+john+3%3A4&version=KJV). When you break God's Law, you have sinned. When you sin, you break God's Law. This means the 10 Commandments; this means all the [613](https://evidenceforchristianity.org/how-many-of-the-613-laws-of-moses-apply-to-christians-how-do-i-know/) laws of Moses. Do you trust yourself to keep all those laws? A better question, do you even *know* what all those 613 laws are? 
+If we are to understand what turning from sin means, we first must define `sin`. According to the Bible, sin is transgression of the Law [(1 John 3:4)](https://www.biblegateway.com/passage/?search=1+john+3%3A4&version=KJV). When you break God's Law, you have sinned. When you sin, you break God's Law. This means the 10 Commandments; this means all the [613](https://evidenceforchristianity.org/how-many-of-the-613-laws-of-moses-apply-to-christians-how-do-i-know/) laws of Moses. Do you trust yourself to keep all those laws? A better question, do you even *know* what all those 613 laws are? 
 
 ### Logical Errors
 **Keeping the Law**<br>
