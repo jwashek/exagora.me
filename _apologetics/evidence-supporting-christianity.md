@@ -1,5 +1,6 @@
 ---
 title: "Evidence Supporting Christianity"
+excerpt: "Lots of evidence supports Christianity whether historically or archaeologically. Let's dive right into some of it!"
 image: 
   path: /images/apologetics/evidence.jfif
   thumbnail: /images/apologetics/evidence.jfif
