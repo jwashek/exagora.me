@@ -68,10 +68,10 @@ The claim that *there's no evidence supporting Christianity* is one lacking any 
 
 
 ## References
-1. https://library.duke.edu/papyrus/texts/manuscripts.html#:~:text=Thousands%20more%20ancient%20Greek%20manuscripts,yielded%20most%20of%20the%20manuscripts
+1. https://library.duke.edu/papyrus/texts/manuscripts.html
 2. https://bigthink.com/thinking/was-jesus-real
-3. http://faithgateway.com/products/chronological-aspects-of-the-life-of-christ?variant=33622878060680&utm_source=bg&utm_medium=blog&utm_campaign=bookpromo
-4. https://cbs.mbts.edu/2020/04/08/april-3-ad-33-why-we-believe-we-can-know-the-exact-date-jesus-died/#:~:text=We%20conclude%20that%20Jesus%20was,firmly%20anchored%20in%20human%20history
+3. http://faithgateway.com/products/chronological-aspects-of-the-life-of-christ?variant=33622878060680
+4. https://cbs.mbts.edu/2020/04/08/april-3-ad-33-why-we-believe-we-can-know-the-exact-date-jesus-died
 5. https://coldcasechristianity.com/writings/is-there-any-evidence-for-jesus-outside-the-bible/
 6. https://www.nbcnews.com/id/wbna47555983
 7. https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/did-jesus-exist/
