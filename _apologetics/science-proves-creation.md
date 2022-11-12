@@ -54,7 +54,7 @@ Jupiter's massive size and gravitational pull attracts most meteors and space de
 
 ## And It Was Good
 ### Laws of Nature
-Why does gravity *always* work, never glitching and causing us to float up through the atmosphere? Why does an acorn *always* create an oak tree, never an oak tree or even something that isn’t a tree, like a raccoon? It’s because they were designed in a very specific way. We observe the same kind of consistency in every Law of Nature in existence. These laws are precise in the sense that they always accomplish the same task with accuracy; consistent in the sense that they always produce the same results; and persistent in the sense that they always work the same way with no deviation. The chances of these laws to operate with the precision, consistency, and persistency that they do are slim to none. 
+Why does gravity *always* work, never glitching and causing us to float up through the atmosphere? Why does an acorn *always* create an oak tree, never a maple tree or even something that isn’t a tree, like a raccoon? It’s because they were designed in a very specific way. We observe the same kind of consistency in every Law of Nature in existence. These laws are precise in the sense that they always accomplish the same task with accuracy; consistent in the sense that they always produce the same results; and persistent in the sense that they always work the same way with no deviation. The chances of these laws to operate with the precision, consistency, and persistency that they do are slim to none. 
 
 Speaking of chance, let's investigate some interesting probabilities in relation to our universe.
 
