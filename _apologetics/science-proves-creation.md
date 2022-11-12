@@ -60,7 +60,7 @@ Speaking of chance, let's investigate some interesting probabilities in relation
 
 
 ### Chance? Never Heard of Him
-Humans typically consider a 10^45^ chance of occurrence to be impossible. Harold Morowitz of Yale University calculated the probability of the formation of the smallest and simplest living organism to be one in 10<sup>340,000,000</sup> [[10]](https://apologeticspress.org/god-and-the-laws-of-science-the-laws-of-probability-3726/). Just a few short years after this calculation, Carl Sagan made his own estimation of the chance that life could evolve on any given single planet. He calculated it to be one in 10<sup>2,000,000,000</sup>. That is 1 with 2 billion zeros after it! The chances are so fractionally small of this to occur that it's hard for us to even comprehend. You also must bring into consideration **all** events leading up to where we are right now. That is,
+Humans typically consider a 10<sup>45</sup> chance of occurrence to be impossible. Harold Morowitz of Yale University calculated the probability of the formation of the smallest and simplest living organism to be one in 10<sup>340,000,000</sup> [[10]](https://apologeticspress.org/god-and-the-laws-of-science-the-laws-of-probability-3726/). Just a few short years after this calculation, Carl Sagan made his own estimation of the chance that life could evolve on any given single planet. He calculated it to be one in 10<sup>2,000,000,000</sup>. That is 1 with 2 billion zeros after it! The chances are so fractionally small of this to occur that it's hard for us to even comprehend. You also must bring into consideration **all** events leading up to where we are right now. That is,
 
 * the Big Bang itself,
 * the formation of life on a single planet,
