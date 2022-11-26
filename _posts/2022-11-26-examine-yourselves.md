@@ -30,7 +30,7 @@ We are told to search the Scriptures in various places--and for good reason. Not
 * "*Am I merely accepting what I learn, or do I test doctrine in light of Scripture?*"
 * "*Do I want to grow in my faith and understanding of the Word and apply it to my walk with Christ?*" 
 
-**1<sup>st</sup> John**
+**The Book of 1<sup>st</sup> John**<br>
 Though I believe all the Bible is inspired and "*profitable for doctrine, for reproof, for correction, for instruction in righteousness*," [(2 Timothy 3:16)](https://www.biblegateway.com/passage/?search=2%20Timothy%203%3A16&version=KJV) 1<sup>st</sup> John might be a unique outlier in that we can possibly use this book to **best** examine our walk with the Lord. To me, this is the de facto test of a true believer and follower of Christ. The entirety of 1<sup>st</sup> John can be summed up in chapter 5 verse 13 which reads:
 
 > <u>1 John 5:13</u>: These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.
