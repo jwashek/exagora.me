@@ -69,7 +69,7 @@ What is your attitude towards sin? Towards God? These are two important question
 
 * "*Do I love my sin too much to put it to death?*"
 * "*Am I justifying sinful behavior in my life?*"
-* "*After I got saved, did I (and maybe others) sense a change in my life? [(2 Corinthians 5:17)](https://www.biblegateway.com/passage/?search=2%20Corinthians%205%3A17&version=KJV)*"
+* "*After I got saved, did I (and maybe others) sense a change in my life?*" [(2 Corinthians 5:17)](https://www.biblegateway.com/passage/?search=2%20Corinthians%205%3A17&version=KJV)
 * "*Do I make conscious efforts to put on the 'new man?'*"
 * "*What is my view of God? Do I abuse His grace through constant sin?*"
 
