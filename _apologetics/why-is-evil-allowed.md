@@ -1,7 +1,6 @@
 
 ---
 title: "Why Does God Allow Evil?"
-excerpt: "Can God be good if evil exists?"
 image:
   path: /images/apologetics/why-evil.png
   thumbnail: /images/apologetics/why-evil.png
