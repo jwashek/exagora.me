@@ -3,9 +3,9 @@
 title: "Why Does God Allow Evil?"
 excerpt: "Can God be good if evil exists?"
 image: 
-  path: /images/apologetics/evil.webp
-  thumbnail: /images/apologetics/evil.webp
-  caption: "Photo from [Cross Walk](https://www.crosswalk.com/faith/spiritual-life/why-does-god-allow-evil.html)"
+  path: /images/apologetics/why-evil.png
+  thumbnail: /images/apologetics/why-evil.png
+  caption: "Photo from [Watermark Community Church](https://www.watermark.org/blog/why-does-god-allow-bad-things-to-happen)"
 ---
 
 {% include toc %}
