@@ -2,9 +2,9 @@
 title: "Why Does God Allow Evil?"
 excerpt: "Can God be good if evil exists?"
 image: 
-  path: /images/apologetics/science.jpg
-  thumbnail: /images/apologetics/science.jpg
-  caption: "Photo from [Watermark Community Church](https://www.watermark.org/blog/why-does-god-allow-bad-things-to-happen)"
+  path: /images/apologetics/evil.webp
+  thumbnail: /images/apologetics/evil.webp
+  caption: "Photo from [Cross Walk](https://www.crosswalk.com/faith/spiritual-life/why-does-god-allow-evil.html)"
 ---
 
 {% include toc %}
@@ -30,7 +30,7 @@ A second reason that God might allow evil is due to the ripple effect--sometimes
 ## Limited Understanding
 Our limited understanding of God is a third reason that God might allow evil. If God truly is omnipotent, omnipresent, and omniscient, how can we understand His ways and say that we can do things better? If we can fully understand a timeless, immaterial, spaceless, and eternal being in our tiny little brains, is that a god worthy of being worshipped? We certainly are not all-knowing, though we tend to act the opposite sometimes. It was said by a famous preacher in the early 1800s:   
 
-> "*If God were to give me His power for 24 hours, you would see how many changes I would make in this world, but if He gave me his wisdom too, I would leave things as they are.* -- J.M.L. Monsabre"
+> "*If God were to give me His power for 24 hrs, you would see how many changes I would make in this world, but if He gave me his wisdom too, I would leave things as they are.* -- J.M.L. Monsabre"
 
 Our understanding is limited. Our wisdom is limited even further. We cannot understand God's ways in why He chooses to allow evil, but one thing we *can* understand is that we *can't* understand everything.
 
