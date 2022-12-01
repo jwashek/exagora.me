@@ -12,6 +12,7 @@ tags:
   - repentance
   - heresy
   - false teaching
+  - sin
 ---
 
 {% include toc %}
