@@ -20,7 +20,7 @@ As Christians, we most likely have been taught to believe that demons are fallen
 
 ## Demons
 ### What They Are Not
-First, I'd like to describe what demons are not. Demons are not physical beings. Demons are also not angels. Yes, this means that demons are not fallen angels like what is commonly taught by most evangelicals. If you study the entire Bible and even do a comprehensive search of "angels," "demons," or a combination of either one with "third" or "1/3<sup>rd<sup>," you will not find a *single* passage that teaches 1/3<sup>rd</sup> of the angels defected before the fall of man. I know what you might be thinking. "*What about Revelation 12?*" 
+First, I'd like to describe what demons are not. Demons are not physical beings. Demons are also not angels. Yes, this means that demons are not fallen angels like what is commonly taught by most evangelicals. If you study the entire Bible and even do a comprehensive search of "angels," "demons," or a combination of either one with "third" or "1/3<sup>rd</sup>," you will not find a *single* passage that teaches 1/3<sup>rd</sup> of the angels defected before the fall of man. I know what you might be thinking. "*What about Revelation 12?*" 
 
 > <u>Revelation 12:4,7,9</u><br>
 > **4** And his tail drew the third part of the stars of heaven, and did cast them to the earth: and the dragon stood before the woman which was ready to be delivered, for to devour her child as soon as it was born.<br>
