@@ -54,7 +54,7 @@ Jews and Samaritans were bitter rivals. The Samaritans were despised by the Jews
 
 * "*If someone is in need, am I willing to help?*"
 * "*Do I treat everyone with respect and show love to all people?*"
-* "*Am I like the others in the parable who walked the other way and did nothing to help, or would I have helped the Samaritan?*"
+* "*Am I like the others in the parable who walked the other way and did nothing to help, or would I have helped like the Samaritan did?*"
 
 Lastly, I like to point out the difference in a humble heart vs a prideful heart, and what better way than to use another parable that Jesus taught? In [Luke 18:9-14](https://www.biblegateway.com/passage/?search=Luke%2018%3A9-14&version=ESV), Jesus tells of the parable of the Pharisee and the tax collector. The Pharisee prayed to God and said, "*God, I thank you that I am not like other men, extortioners, unjust, adulterers, or even like this tax collector. I fast twice a week; I give tithes of all that I get*." But then Jesus says the tax collector wouldn't even so much as lift his eyes up to heaven, but beat his chest and said, "*God, be merciful to me, a sinner!*" The difference in their hearts are clear, so we must circle this story back to *us* when examining ourselves:
 
