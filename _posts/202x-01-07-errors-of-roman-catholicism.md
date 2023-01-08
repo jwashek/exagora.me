@@ -21,10 +21,7 @@ I couldn't help but think of how true this scenario applies to false doctrine wi
 
 ### The Objects 
 #### Mary
-
-![image-center]({{ '/images/catholic_idolaters.jpg' | absolute_url }}){: .align-center} 
-
-Catholics always seem to be defending their position the most when questioned about Mary. Some of these questions made from other faiths or even atheists/agnostics are very valid and hard to be ignored. Some of these might range from "*Why do you worship Mary?*" to "*Was Mary a co-mediator/co-redeemer with Christ?*" Regardless of their defenses to these particular questions, this does not deny the fact that there are countless pictures and other examples where Catholics do bow down to statues of Mary (such as is seen in the picture linked in this paragraph), place idols around their house or church of Mary, etc. To bow down to a statue, kiss its feet, or even pray to it is a bizarre type of reverence that takes the focus from Jesus and places it to a false idol; regardless of the fact this was the mother who bore the Savior, the mother was **not** the Savior herself and needed Jesus just like everyone else did. But no matter that, [Exodus 20:4-5](https://www.biblegateway.com/passage/?search=exodus+20%3A4-5&version=ESV) plainly tells us not to make any images of anything in heaven and not to **bow down to it**. The amount of mental gymnastics the common Catholic needs to exert themselves to just to defend their position and twist scriptures to fit their narrative is astounding, as we'll soon see.  
+Catholics always seem to be defending their position the most when questioned about Mary. Some of these questions made from other faiths or even atheists/agnostics are very valid and hard to be ignored. Some of these might range from "*Why do you worship Mary?*" to "*Was Mary a co-mediator/co-redeemer with Christ?*" Regardless of their defenses to these particular questions, this does not deny the fact that there are [countless pictures](https://www.nairaland.com/2181775/11-photos-praying-bowing-down#31358532) and other examples where Catholics do bow down to statues of Mary (such as is seen in the picture linked in this paragraph), place idols around their house or church of Mary, etc. To bow down to a statue, kiss its feet, or even pray to it is a bizarre type of reverence that takes the focus from Jesus and places it to a false idol; regardless of the fact this was the mother who bore the Savior, the mother was **not** the Savior herself and needed Jesus just like everyone else did. But no matter that, [Exodus 20:4-5](https://www.biblegateway.com/passage/?search=exodus+20%3A4-5&version=ESV) plainly tells us not to make any images of anything in heaven and not to **bow down to it**. The amount of mental gymnastics the common Catholic needs to exert themselves to just to defend their position and twist scriptures to fit their narrative is astounding, as we'll soon see.  
 
 | Question  | Defense  |
 |---|---|
@@ -39,10 +36,7 @@ Catholics always seem to be defending their position the most when questioned ab
 |   |   |
 
 #### Catechisms
-abc
-
-#### Popes and Priests
-abc
+Hold these on equal par with Scripture. Catholics do not believe in Sola Scriptura
 
 #### Church Tradition
 abc
