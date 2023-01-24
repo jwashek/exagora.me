@@ -30,6 +30,13 @@ Catholics always seem to be defending their position the most when questioned ab
 | Why do you pray to Mary?   | "Intercessory prayer through Mary (as well as other saints) still makes sense as in the same way that we ask Christian friends and family on earth to pray for us."  |
 | Why do you worship Mary instead of Jesus?  | "First of all, Catholics do not worship Mary. We honor her because she is the mother of Jesus."  |
 
+**Totus Tuus**<br>
+Pope John Paul II was famous for his motto *Totus Tuus* which, in Latin, means "Totally Yours." This was actually not coined by him, but thought to have come from St. Lous Maria Grignion of Montfort. Now, this motto is all well and good if it's in reference to the right person. Sadly, for many Catholics, including Pope John Paul II, it was not. This was in reference to Mary. 
+
+> "*Here is the explanation of the origin of the Totus Tuus. The expression comes from St. Louis Maria Grignion of Montfort. It is the abbreviation of the more complete form of entrusting oneself to the Mother of God*." -- quote from [Queen of All Hearts](https://queenofallhearts.com/2021/06/25/st-pope-john-paul-ii-explains-his-motto-totus-tuus/)
+
+Totus Tuus even sparked many churches and Catholic programs teaching devotion to Mary. A devotion so well understood that even the Catholic Church coined a term called, "Marian devotion." Here's one such program, unironically called [Totus Tuus](https://totustuus.church/sites/totustuus/files/overview_of_totus_tuus.pdf). Please note under *The Five Pillars of Totus Tuus* on page 3 that "Marian Devotion" is listed as the 2<sup>nd</sup> pillar. Marian devotion is quite simple. It's essentially just various devotions or other practices directed towards none other than Mary. Let's reason with each other for just a moment. Catholics claim they do not commit idolatry and worship Mary. Even just using the term "Totus Tuus," again meaning "Totally Yours" in Latin, should be more than enough evidence to dismantle that claim. But if that wasn't enough, this spawned "Marian Devotion" where Catholics perform devotions and other practices to Mary... do I need to even pose the question, "*how is this not considered worship*?"
+
 There are obviously many more questions surrounding Mary alone, but these are just to name a few for the sake of time. 
 
 **Answering the Defenses**<br>
