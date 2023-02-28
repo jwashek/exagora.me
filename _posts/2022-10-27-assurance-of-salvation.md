@@ -1,6 +1,6 @@
 ---
 title: "Blessed Assurance"
-excerpt: "Christians often doubt and fear their salvation. But they can rest assured knowing Jesus' finished work on the Cross has saved them. With the Bible as our guide, we'll examine this truth in greater detail."
+excerpt: "Christians often doubt and fear their salvation, but we can have blessed assurance!"
 image: 
   path: /images/assurance.webp
   caption: "Photo from [Rooted Thinking](http://rootedthinking.com/2020/10/27/counsel-for-those-struggling-with-assurance)"
