@@ -1,6 +1,6 @@
 ---
 title: "The Folly of the Cross"
-excerpt: "Most people today, though they might believe Jesus was crucified, do not realize just how horrible of a death this actually was."
+excerpt: "How horrible was death by crucifixion?"
 image: 
   path: /images/crucifixion.jpg
   caption: "Photo from [John T Squires](https://johntsquires.com/2021/03/26/reading-the-crucifixion-as-a-scene-of-public-shaming)"
