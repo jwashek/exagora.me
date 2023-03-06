@@ -32,7 +32,7 @@ There is a phenomenal book written by Andrew Murray called [*Abide In Christ*](h
 
 > <u>Galatians 3:2</u> This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?
 
-We received the Holy Spirit not by anything *we* did, have done, or will do, but only through faith and our trust in Jesus Christ. Let's put off our efforts and put on His effort. Overcome your self-righteousness and regain your assurance by trusting in His righteousness, not your own!
+We received the Holy Spirit not by anything *we* did, are doing, or will do, but only through faith and our trust in Jesus Christ. Let's put off our efforts and put on His effort. Overcome your self-righteousness and regain your assurance by trusting in His righteousness, not your own!
 
 ### Spiritual Stagnation
 You may have heard the saying, "*if you're not progressing, you're regressing*." It seems Peter taught this very thing regarding our faith. In his 2nd letter, Peter states: 
