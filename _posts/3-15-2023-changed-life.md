@@ -11,7 +11,7 @@ tags:
   - changed life
   - sin
   - repentance
-  - perservance
+  - perseverance
   - obedience
 ---
 
