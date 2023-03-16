@@ -3,7 +3,7 @@ title: "Should Christians Live a Changed Life?"
 excerpt: "Some Christians claim that living a changed life presupposes a turning-from-sin heresy, but is this true?"
 image: 
   path: /images/changed-life.webp
-  caption: "Photo from [Science of People]([x](https://www.scienceofpeople.com/how-to-change/))"
+  caption: "Photo from [Science of People](https://www.scienceofpeople.com/how-to-change/)"
 last_modified_at: 2023-03-15T15:24:00-05:00
 categories:
   - faith
