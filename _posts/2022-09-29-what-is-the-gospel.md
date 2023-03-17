@@ -11,6 +11,8 @@ categories:
 tags: 
   - salvation
   - gospel
+  - faith
+  - belief
 ---
 
 {% include toc %}
@@ -22,7 +24,7 @@ tags:
 > **3** For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; <br>
 > **4** And that he was buried, and that he rose again the third day according to the scriptures
 
-The Gospel is very clear according to the Bible. It is **nothing** more than the death, burial, and resurrection of Jesus Christ. That's it. I thought it sufficient for the first post on this blog to be about the Gospel, because without it, we cannot be saved. Jesus said in [Mark 16:15b](https://www.biblegateway.com/passage/?search=mark+16%3A15&version=KJV) to *go ye into all the world, and preach the gospel to every creature*. Jesus didn't die to pay our sin debt in full for no one to hear about it. Imagine you bought a gift for your child and hid it away in the closet. If you left it in the closet and never told your child about the gift, then how will they know you ever bought it for them in the first place? In the same way, the Gospel brings the free gift [(Ephesians 2:8-9)]( https://www.biblegateway.com/passage/?search=Ephesians%202%3A8-9&version=KJV) of salvation for *all the world*; they just need to know about it.
+The Gospel is very clear according to the Bible. It is **nothing** more than the death, burial, and resurrection of Jesus Christ. That's it. I thought it sufficient for the first post on this blog to be about the Gospel, because without it, we cannot be saved. Jesus said in [Mark 16:15b](https://www.biblegateway.com/passage/?search=mark+16%3A15&version=KJV) to *go ye into all the world, and preach the gospel to every creature*. Jesus didn't die to save us from our sins for no one to hear about it. Imagine you bought a gift for your child and hid it away in the closet. If you left it in the closet and never told your child about the gift, then how will they know you ever bought it for them in the first place? In the same way, the Gospel brings the free gift [(Ephesians 2:8-9)]( https://www.biblegateway.com/passage/?search=Ephesians%202%3A8-9&version=KJV) of salvation for *all the world*; they just need to know about it, believe it, and receive Him [(John 1:12)](https://www.biblegateway.com/passage/?search=John%201%3A12&version=KJV).
 
 ## What Does It Mean?
 The Gospel means `glad tidings` or `good news`. But why would Jesus’ suffering on the Cross and dying a horrible, painful death *ever* be labeled as good news? Well, you must understand a few things in order to fully grasp why the Gospel is nothing short of good news and everything more than good news!
@@ -32,7 +34,7 @@ Have you ever heard someone say, "do you want the good news first or the bad new
 
 > <u>Romans 3:23</u>: For all have sinned, and come short of the glory of God;
 
-Knowing this comes the next part of the bad news. There are very real and serious consequences for our sin, namely death and hell. [Romans 5:12](https://www.biblegateway.com/passage/?search=Romans%205%3A12&version=KJV) mentions that by "*one man's sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned*." We inherited this nature from birth. We all will die physically at one point. If we die without believing and trusting in Jesus Christ, we will then die a second death--spiritually--and spend an eternity separated from Him in hell. 
+Knowing this comes the next part of the bad news. There are very real and serious consequences for our sin, namely death and hell. [Romans 5:12](https://www.biblegateway.com/passage/?search=Romans%205%3A12&version=KJV) mentions that by "*one man's sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned*." We all have sinned. We all will die physically at one point. If we die without believing and trusting in Jesus Christ, we will then die a second death--spiritually--and spend an eternity separated from Him in hell. 
 
 > <u>Romans 6:23</u>: For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.<br>
 > <u>2 Thessalonians 1:8:</u> In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ<br>
@@ -47,7 +49,7 @@ Sounds awful, right? That's because it is. We are hopeless and helpless since we
 ### The Good News
 > <u>Romans 5:8</u>: But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
 
-Some of the most beautiful verses in the Bible are often said to follow a "but." In the case of the above verse, this couldn't be truer! Jesus died for us to pay a debt He didn't owe that all might be saved through Him by belief--and He did this for us while we were *yet sinners*. How is that not good news? He suffered horribly on the Cross to satisfy a debt we could never pay. He became the propitiation [(1 John 4:10)](https://www.biblegateway.com/passage/?search=1%20John%204%3A10&version=KJV) for us and nailed our sin to the Cross [(Colossians 2:13-14)](https://www.biblegateway.com/passage/?search=Colossians+2%3A13-14&version=KJV)! 
+Some of the most beautiful verses in the Bible are often said to follow a "but." In the case of the above verse, this couldn't be truer! Jesus died for us to pay a debt He didn't owe that all might be saved through Him by belief--and He did this for us while we were *yet sinners*. He became the propitiation [(1 John 4:10)](https://www.biblegateway.com/passage/?search=1%20John%204%3A10&version=KJV) for us and nailed our sin to the Cross [(Colossians 2:13-14)](https://www.biblegateway.com/passage/?search=Colossians+2%3A13-14&version=KJV), in turn saving us from our sins [(Matthew 1:21)](https://www.biblegateway.com/passage/?search=Matthew%201%3A21&version=KJV)! 
 
 It is free from good works on our part [(Titus 3:5)](https://www.biblegateway.com/passage/?search=titus+3%3A5&version=KJV). We are justified through faith without the deeds of the Law, or another way of putting it would be we do not need to keep the Law [(Romans 3:28)](https://www.biblegateway.com/passage/?search=Romans%203%3A28&version=KJV) in order to become saved. That in and of itself is amazing news because no one was able to keep the Law [(Acts 15:10)](https://www.biblegateway.com/passage/?search=acts+15%3A10&version=KJV).
 
@@ -76,10 +78,14 @@ Notice several things here. If we walk the verse back, we can see what we are to
 **2nd**: we believe it and trust in Christ (i.e., the *whom* the verse is referencing back to)<br>
 **3rd**: we are *sealed* with the Holy Spirit
 
-That's it. It all points back to `believe`, but notice what we believe is very important. Believe the Gospel, the good news; the death, burial, and resurrection of Jesus Christ. If you believe this and place your trust in Jesus Christ to save you, the Bible is clear that you are saved. Not by some prayer, not by works (starting good works or stopping bad works); only through Jesus Christ and His work on the Cross are we saved through our faith in Him. Now that you've heard the Gospel, are you placing your faith in Jesus Christ to save you?
+That's it. It all points back to `believe`, but notice what we believe is very important. Believe the Gospel, the good news; the death, burial, and resurrection [(Romans 10:9)](https://www.biblegateway.com/passage/?search=romans+10%3A9&version=KJV) of Jesus Christ. If you believe this and place your trust in Jesus Christ to save you, the Bible is clear that you are saved. Not by some prayer, not by works (starting good works or stopping bad works); only through Jesus Christ and His work on the Cross are we saved through our faith in Him. Now that you've heard the Gospel, are you placing your faith in Jesus Christ to save you?
 
 ## Guide to Salvation
 1. Recognize you are a sinner
 2. Understand the penalty for sin and your need of a Savior
 3. Repent (change your mind) and believe the Gospel; trust Jesus Christ to save you
 
+## What Happens Next?
+After salvation, we are called (1) to obedience ([2<sup>nd</sup> Thessalonians 1:8](https://www.biblegateway.com/passage/?search=2%20Thessalonians%201%3A8&version=KJV), [John 14:15](https://www.biblegateway.com/passage/?search=John%2014%3A15&version=KJV), [1<sup>st</sup> Peter 1:13-14](https://www.biblegateway.com/passage/?search=1+Peter+1%3A13-14&version=KJV), & [2<sup>nd</sup> Corinthians 2:9](https://www.biblegateway.com/passage/?search=2%20Corinthians%202%3A9&version=KJV)), (2) to live a changed life ([2<sup>nd</sup> Corinthians 5:17](https://www.biblegateway.com/passage/?search=2%20Corinthians%205%3A17&version=KJV), [Ephesians 4:22-24](https://www.biblegateway.com/passage/?search=Ephesians+4%3A22-24&version=KJV), & [Colossians 3:9-10](https://www.biblegateway.com/passage/?search=Colossians+3%3A9-10&version=KJV)), and (3) to be careful to maintain good works ([Titus 3:8](https://www.biblegateway.com/passage/?search=Titus%203%3A8&version=KJV) & [Ephesians 2:10](https://www.biblegateway.com/passage/?search=Ephesians%202%3A10&version=KJV)). 
+
+Please understand, we will slip, trip, stumble and fall in our walk with Christ. But we are not to use this as an excuse to sin [(Romans 6:1)](https://www.biblegateway.com/passage/?search=Romans%206%3A1-2&version=KJV) or for an ocassion to the flesh [(Galatians 5:13)](https://www.biblegateway.com/passage/?search=Galatians%205%3A13&version=KJV). But if we do sin, we have an advocate, Jesus Christ, to confess our sins to [(1<sup>st</sup> John 1:9)](https://www.biblegateway.com/passage/?search=1%20John%201%3A9&version=KJV).
