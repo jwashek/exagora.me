@@ -32,15 +32,12 @@ The true meaning starts with the translation. The Hebrew word [nāśā'](https:/
 
 ```
 I. to lift, bear up, carry, take
-
   A. (Qal)
-
     i. to lift, lift up
-
     ii. to bear, carry, support, sustain, endure
 ```
 
-The word `bear up` or `to bear` is the key takeaway here. A lot of scholars agree that the word `take` used in Exodus 20:7 is a mistranslation and should have better been translated `to bear`. Okay, but why is this important? If the word is assumed to mean `to bear`, then this changes the entire meaning of "*not taking God's name in vain*" to "*not misrepresenting God's name*." When we bear His name, we represent Him; we are ambassadors. How can we represent God if our actions do not prove we truly bear His name? In other words, the 3<sup>rd</sup> Commandment is a call to "walk the walk" and not just "talk the talk." To further expand on this, the Old Testament provides a story of bearing names in Exodus 28. God instructs that a breastpiece should be worn by Aaron which bears the names of the sons of Israel upon it before entering the Holy Place. Aaron was to do this for a remembrance to them; representing the children of Israel to God since he was the High Priest [(Hebrews 5:1)](https://www.biblegateway.com/passage/?search=hebrews+5%3A1&version=ESV). 
+The phrase `bear up` or `to bear` is the key takeaway here. A lot of scholars agree that the word `take` used in Exodus 20:7 is a mistranslation and should have better been translated `to bear`. Okay, but why is this important? If the word is assumed to mean `to bear`, then this changes the entire meaning of "*not taking God's name in vain*" to "*not misrepresenting God's name*." When we bear His name, we represent Him; we are ambassadors. How can we represent God if our actions do not prove we truly bear His name? In other words, the 3<sup>rd</sup> Commandment is a call to "walk the walk" and not just "talk the talk." To further expand on this, the Old Testament provides a story of bearing names in Exodus 28. God instructs that a breastpiece should be worn by Aaron which bears the names of the sons of Israel upon it before entering the Holy Place. Aaron was to do this for a remembrance to them; representing the children of Israel to God since he was the High Priest [(Hebrews 5:1)](https://www.biblegateway.com/passage/?search=hebrews+5%3A1&version=ESV). 
 
 > <u>Exodus 28:12,29</u><br>
 > **12** And you shall set the two stones on the shoulder pieces of the ephod, as stones of remembrance for the sons of Israel. And Aaron shall bear their names before the Lord on his two shoulders for remembrance. <br>
@@ -50,16 +47,16 @@ Back to our original passage; the Amplified version puts Exodus 20:7 in this way
 
 > <u>Exodus 20:7</u> You shall not take the name of the Lord your God in vain [that is, irreverently, in false affirmations or in ways that impugn the character of God]; for the Lord will not hold guiltless nor leave unpunished the one who takes His name in vain [disregarding its reverence and its power].
 
-How true is it that we impugn (or call into question) God's character when we, as ambassadors who supposedly walk in Him, do the very things that God is against? We claim to love Him, yet our deeds prove otherwise [(1<sup>st</sup> John 3:18)](https://www.biblegateway.com/passage/?search=1%20John%203%3A18&version=ESV). We do not always bear God's name the way we are called to, instead we misrepresent Him in our actions and walk with Him. 
+How true is it that we impugn (or call into question) God's character when we, as ambassadors who supposedly walk in Him, do the very things that God is against? We claim to love Him, yet our deeds prove otherwise [(1<sup>st</sup> John 3:18)](https://www.biblegateway.com/passage/?search=1%20John%203%3A18&version=ESV). We do not always bear God's name the way we are called to, instead we misrepresent Him in our actions and the outside world receives a perception of God not fitting for who He truly is. 
 
 ## The Application
-How can we better represent His name? Let's all ask ourselves a painful question: "*how many potential unbelievers have we turned away from God as a result of our actions?*" Think of what the world thinks of most Christians. I'll give the three most common things that I personally hear:
+How can we better represent His name? Let's all ask ourselves a painful question: "*how many potential unbelievers have we turned away from God as a result of our actions?*" This should be a very sobering question to all of us. Has your walk in the Lord turned anyone away because you weren't living a seperated, set-apart life? Has somebody looked at the way you lived and though, "*wow, they claim to be a Christian and they're living like that*?" Think of what the world thinks of most Christians. I'll give the three most common things that I personally hear:
 
 * They're too judgmental
 * They're all hypocrites
 * They're unloving
 
-The world wants nothing to do with Christians because they feel we do not show love, we are hypocrites, we are judgmental, etc. Is this really how we're bearing God's name? It certainly shouldn't be. Let's be the difference. Let's bear God's name and walk worthy of the calling to which we were called [(Ephesians 4:1)](https://www.biblegateway.com/passage/?search=ephesians+4%3A1&version=ESV).
+The world wants nothing to do with Christians because they feel we do not show love, we are hypocrites, we are judgmental, etc. Is this really how we're bearing God's name? It certainly shouldn't be. Maybe this is why the Commandment was truly there to begin with. Let's be the difference. Let's bear God's name properly and walk worthy of the calling to which we were called [(Ephesians 4:1)](https://www.biblegateway.com/passage/?search=ephesians+4%3A1&version=ESV).
 
 ## Conclusion
 The 3<sup>rd</sup> Commandment is one that we have been led to believe means that we shouldn't curse using God's name or swear false oaths to God's name. Among these, we can simplify this Commandment to things related to flippant speech in God's name... at least that's what we've learned it to mean. Many scholars think a more accurate translation for this Commandment to be that of "to bear" God's name. This changes the entire meaning, as name-bearers to God, for us to properly bear His name and not abuse God's character in our actions as ambassadors of His.
