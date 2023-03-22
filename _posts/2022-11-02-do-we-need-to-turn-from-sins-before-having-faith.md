@@ -25,7 +25,7 @@ In no way am I attempting to pick on Bible teachers here. However, as [Romans 16
 
 ## Turning From Sin
 ### Is It Required?
-Ray Comfort errantly teaches we must turn from sin to become saved. In the below video from [3:07](https://www.youtube.com/watch?v=gsAEcmkjL4w&t=187s) to [3:15](https://www.youtube.com/watch?v=gsAEcmkjL4w&t=195s), Ray describes that "*repentance is an old-fashioned word that means to confess and forsake your sins.*" Earlier in the video he said we must *first* repent and *then* we can have faith. Therefore, it's crucial to understand what "repentance" means, especially in the sense that Ray defines it, because we cannot have faith unless we repent. 
+Ray Comfort errantly teaches we must turn from sin before having faith in Christ. In the below video from [3:07](https://www.youtube.com/watch?v=gsAEcmkjL4w&t=187s) to [3:15](https://www.youtube.com/watch?v=gsAEcmkjL4w&t=195s), Ray describes that "*repentance is an old-fashioned word that means to confess and forsake your sins.*" Earlier in the video he said we must *first* repent and *then* we can have faith. Therefore, it's crucial to understand what "repentance" means, especially in the sense that Ray defines it, because we cannot have faith unless we repent. 
 
 > __Note:__ We will get into what repentance means later, but in no way is biblical repentance what Ray teaches above.
 
