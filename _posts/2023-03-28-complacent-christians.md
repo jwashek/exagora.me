@@ -92,9 +92,9 @@ It is crucial that we add to our faith as this is the only way we can grow. We c
 ### (4.) Be Led by the Spirit
 Lastly, walk by the Spirit [(Galatians 5:16)](https://www.biblegateway.com/passage/?search=galatians+5%3A16&version=ESV). If we do, we won't satisfy the desires of the flesh. For the desires of the flesh creep in and can ensnare us, making us complacent and turning our hearts away from the Lord. Listen to the Spirit when you feel moved to do something. 
 
-* "**You've wasted a lot of time today, what have you done for God?**"
-* "**You shouldn't gossip about them behind their back.**"
-* "**Is drinking and partying something a Christian should be doing?**"
+* "*You've wasted a lot of time today, what have you done for God?*"
+* "*You shouldn't gossip about them behind their back.*"
+* "*Is drinking and partying something a Christian should be doing?*"
 
 These are things we need to be listening to if we're to combat complacency. The easiest way to distinguish if that little voice in our head is the Holy Spirit is by asking yourself: *does this align with Scripture and what God's will is?* If the answer is "yes," do not quench the Spirit, but take care of the task immediately.
 
