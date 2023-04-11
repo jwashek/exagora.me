@@ -38,6 +38,8 @@ Moroni returned 1400 years later as an angel to Jospeh Smith, Jr. Then Moroni to
 Mormons use illustrated maps which do not agree with one another, but what's worse, they don't even correspond with any real land masses on earth in most cases. There is no real-world setting that accounts for the geography found in the Book of Mormon. The Church of Jesus Christ of Latter-day Saints ("LDS Church") takes no official stance on the geography, and one of the reasons for this is due to the simple fact that a distortion would need to occur in either the texts or the earth itself. 
 
 ![map1](/images/bom-map1.jpg)
+![map2](/images/bom-map2.png)
+![map3](/images/bom-map3.jpg)
 
 #### The Bible
 In sharp contrast, the Bible mentions geographical locations such as the Jordan River, Sea of Galilee, Dead Sea, Mt. Hermon, Mt. Sinai, etc. by using the exact same terminology for housands of years. The geography matches. These places, cities, rivers, and valleys in the Bible can be traced with highly accurate and detailed accounts in Scripture.
