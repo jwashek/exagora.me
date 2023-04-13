@@ -30,7 +30,7 @@ Hundreds of years B.C., a group of people named the Jaredites migrated to the Ne
 ### After Christ
 Jesus Christ, in roughly A.D. 34, visited the Nephites and Lamanites in the Americas following His death, burial, and resurrection. This brought hundreds of years of peace between the rivaling and constantly warring clans of the Nephites and Lamanites. This peace did not last, however. Another battle occurred at the hill Cumorah where the Lamanites completely wiped out the Nephites save one man, Moroni. 
 
-Moroni returned 1400 years later as an angel to Joseph Smith, Jr. Then Moroni told Joseph Smith that there was a book written on gold plates about the former inhabitants of the Americas. Joseph Smith found that gold plated book on the hill Cumorah. He then translated it and published it in the year 1830. 
+Moroni returned 1400 years later as an angel to Joseph Smith, Jr. Then Moroni told Joseph Smith that there was a book written on gold plates about the former inhabitants of the Americas. Joseph Smith found that gold plated book on the hill Cumorah. He then translated it and published it in the year 1830 as *The Book of Mormon*. 
 
 ## Proving the Errors
 ### Geography
@@ -41,17 +41,19 @@ Mormons use illustrated maps which do not agree with one another, but what's wor
 ![map2](/images/bom-map2.png)
 ![map3](/images/bom-map3.jpg)
 
+> __Note:__ Some of the land masses, like in the first picture, don't align with earth's geography. But in the ones that do, such as the second and third pictures, there is no evidence that places such as Zarahemla, Bountiful, or the Land of Desolation occurred in history. And what's more, these don't agree with one another. Compare the first photo with the second and the third, these just don't line up.
+
 #### The Bible
-In sharp contrast, the Bible mentions geographical locations such as the Jordan River, Sea of Galilee, Dead Sea, Mt. Hermon, Mt. Sinai, etc. By using the exact same terminology for thousands of years. The geography matches. These places, cities, rivers, and valleys in the Bible can be traced with highly accurate and detailed accounts in Scripture.
+In sharp contrast, the Bible mentions geographical locations such as the Jordan River, Sea of Galilee, Dead Sea, Mt. Hermon, Mt. Sinai, etc. By using the exact same terminology for thousands of years, we can pinpoint locations mentioned in the Bible since many of them are still called the very same thing in our modern day. The geography matches. These places, cities, rivers, and valleys in the Bible can be traced with highly accurate and detailed accounts in Scripture due to the unchanging geography.
 
 ### Archaeology
 #### Book of Mormon
-Lamanites, in the Book of Mormon, were called a remnant of the house of Israel. They migrated from Jerusalem to the Americas in ~600 B.C. (according to the Book of Mormon). However, no archaeological evidence has been found to this day that these were a real people or existed in the Americas. Even more interesting, there have been zero traces of ancient Hebrew writings, texts, or other remnants or artifacts left behind within the Americas. Tombs, temples, houses, and other destroyed artifacts should be left behind with hundreds upon hundreds of years of settlement.
+Lamanites, in the Book of Mormon, were called a remnant of the house of Israel. They migrated from Jerusalem to the Americas in ~600 B.C. (according to the Book of Mormon). However, no archaeological evidence has been found to this day that these were a real people or existed in the Americas. And if these Lamanites migrated from Israel, why haven't traces of the Hebrew language or Jewish culture ever have been found in the Americas? There have been zero traces of ancient Hebrew writings, texts, or other remnants or artifacts left behind within the Americas. Tombs, temples, houses, and other destroyed artifacts should be left behind with hundreds upon hundreds of years of settlement.
 
-Do you recall earlier when I mentioned millions died in a massive civil war on the hill Cumorah? There has been **zero** proof of a battle at this scale which occurred in the area since there are no mass burial sites, skeletal remains, or remnant weapons left behind in the surrounding area. Nothing has been found. 
+Do you recall earlier when I mentioned millions died in a massive civil war on the hill Cumorah? There isn't a shred of proof that a battle at this scale occurred in New York (hill Cumorah). The area contains no trace of mass burial sites, skeletal remains, or remnant weapons left behind. Nothing has been found during excavations done by the LDS Church. 
 
 #### The Bible
-On the contrary, the Bible has been highly established through archaeology throughout history. It is evident of marks being left behind from written records, manuscripts, coins, structures, and other artifacts that are still being unearthed to this day. Alternatively, the Bible mentions known cities and areas such as Jerusalem, Jericho, Bethlehem, and Nazareth. These are all verifiable cities and locations unlike "Zarahemla" or "Bountiful" mentioned in the Book of Mormon.
+On the contrary, the Bible has been highly established through archaeology throughout history. It is evident of marks being left behind from written records, manuscripts, coins, structures, and other artifacts that are still being unearthed to this day. Alternatively, the Bible mentions known cities and areas such as Jerusalem, Jericho, Bethlehem, and Nazareth. These are all verifiable cities and locations unlike "Zarahemla" or "Bountiful" mentioned in the Book of Mormon which have no supporting evidence through historical or archaeological records.
 
 ### Plants and Animals
 #### Book of Mormon
@@ -70,7 +72,7 @@ In Mosiah 9:9, it states:
 We would expect to find evidence in the Americas of the types of plants and animals mentioned in the Book of Mormon. Instead, we find turkeys, dogs, deer; corn, beans, squash, etc. What we see in the Book of Mormon is all the wrong plants and animals that do not align with ancient America. Traces of wheat, barley, cattle, sheep, goats, and horses were completely absent in the Americas in the times mentioned in the Book of Mormon. 
 
 #### The Bible
-The Bible mentions animals and plants which align directly with the geographical location except minor differences in animals that no longer roam the lands such as lions. However, in cases such as these, there are writings from explorers from centuries ago that have spoken of lions existing within the land at those times. Though they might not exist today, they did in antiquity at one point. 
+The Bible mentions animals and plants which align directly with the geographical location except minor differences in animals that no longer roam the lands such as lions. However, in cases such as this, there are writings from explorers from centuries ago that have spoken of lions existing within the land at those times. Though they might not exist today, they did in antiquity at one point. 
 
 ### Manuscripts
 #### Book of Mormon
@@ -85,22 +87,22 @@ And let's take this a step further. Events in the Book of Mormon are said to hav
 #### The Bible
 The earliest known part of the Bible to have been preserved is from the book of Numbers and came from the 7<sup>th</sup> century B.C. Additionally, the Dead Sea Scrolls were found in 1947. These scrolls confirm **every** single book of the Old Testament (except the book of Esther). These scrolls date all the way back to the 3<sup>rd</sup> century B.C.
 
-There are several *thousand* manuscripts which contain books of the Bible or parts of those books that archaeologists have found throughout the centuries. The overwhelming amount of evidence supporting the Bible cannot be understated. No other book in *history* has the amount of evidence supporting it than that of the Bible.
+There are several *thousand* manuscripts which contain books of the Bible or parts of those books that archaeologists have found throughout the centuries. The overwhelming amount of evidence supporting the Bible cannot be understated. No other book in *history* has the amount of archaeological evidence supporting it than that of the Bible.
 
 ### Language
 #### The Book of Mormon
-In Mormon 9:32, it mentions that the Nephites used "reformed Egyptian" in America. The problem with this is, linguists, other than the LDS Church, don't even know what this language is or was--because it is a fictional language. There is not a single trace of ancient Hebrew or Egyptian hieroglyphs found in America.
+In Mormon 9:32, it mentions that the Nephites used "reformed Egyptian" in America. The problem with this is, linguists (other than those from the LDS Church) don't even know what this language is or was--because it is a fictional language. There is not a single trace of ancient Hebrew or Egyptian hieroglyphs found in America. 
 
 #### The Bible
-On the contrary, the Bible has plentiful evidence suggesting the language of Hebrew was used within the time period of the Bible which stayed true to the claims. There are no archaeologists, scholars, or linguists that have attempted to refute this claim.
+On the contrary, the Bible has plentiful evidence suggesting the language of Hebrew was used within the time period of the Bible which stayed true to the claims. There are no archaeologists, scholars, or linguists that have attempted to refute this claim because the evidence is all there.
 
 ### Prophecy
-Deuteronomy 18:21-22 gives us a test of a prophet. It states:
+This next section is going to be very important. I want you to pay close attention to the prophetic messages found in the Book of Mormon vs the Bible. Deuteronomy 18:21-22 gives us a test of a prophet. It states:
 > <u>Deuteronomy 18:21-22</u>:<br>
 > **21** And if you say in your heart, ‘How may we know the word that the Lord has not spoken?’— <br>
 > **22** when a prophet speaks in the name of the Lord, if the word does not come to pass or come true, that is a word that the Lord has not spoken; the prophet has spoken it presumptuously. You need not be afraid of him.
 
-For a prophet to pass the test according to Deuteronomy 18, their predictions need to come true. Simple concept, but this will be crucial going forward. So, let's take this test against the Book of Mormon and against the Bible.
+For a prophet to pass the test according to Deuteronomy 18, their predictions need to come true. Simple concept, but hopefully you see its significance in determining a false prophet speaking a false message.
 
 #### Book of Mormon
 **The Prophet Nephi**<br>
@@ -108,7 +110,7 @@ According to the Book of Mormon, around 600 B.C., the prophet Nephi prophesied t
 
 First, there is not a single manuscript; no ancient copies of the Book of Mormon that predate Joseph Smith that the LDS Church can produce. So how can we verify this claim as true if the only "manuscript" is the Book of Mormon itself? 
 
-Second, if we understand [how we got our Bible](https://www.exagora.me/apologetics/how-we-got-the-bible/), one of the most important things that happened in the early Church was Christians making copies of the New Testament letters. And *lots* of them. What we have are almost 6,000 manuscript copies. Now, if we're talking about various versions or languages that are included in this? That number *drastically* increases to what scholars suggest being around 40,000 manuscripts. Forty thousand manuscripts! If all copies agree except 1 or 2 that actually *have* been corrupted, these will stick out like a sore thumb.
+Second, if we understand [how we got our Bible](https://www.exagora.me/apologetics/how-we-got-the-bible/), one of the most important things that happened in the early Church was Christians making copies of the New Testament letters. And *lots* of them. What we have are almost 6,000 manuscript copies. Now, if we're talking about various versions or languages that are included in this? That number *drastically* increases to what scholars suggest being around 40,000 manuscripts. Forty thousand manuscripts! If all copies agree except 1 or 2 that actually *have* been corrupted, these will stick out like a sore thumb. To say the Bible has been corrupted, we would be able to verify this prophecy very easily with the thousands of manuscripts we currently have. And it's never proven to have been corrupted--on the contrary, it's only been further corroborated with later findings such as the Dead Sea Scrolls!
 
 The logical conclusion from here is that the prophet Nephi fails the test of a prophet according to Deuteronomy 18.
 
@@ -128,17 +130,17 @@ In his own translation of the book of Isaiah, Joseph Smith added prophecies abou
 
 > the book shall be delivered unto a man, and he shall deliver the words of the book
 
-Every single scroll of Isaiah that has been found do not contain these words, so it's painfully obvious that these are additions to the text.
+Every single scroll of Isaiah that has been found in antiquity do not contain these words, so it's painfully obvious that these are additions to the text.
 
 Another case shows Joseph Smith stripping Jesus of His deity in his translation of John 1:1. His version reads: 
 
 > In the beginning was the gospel preached through the Son. And the gospel was the word, and the word was with the Son, and the Son was with God, and the Son was of God. 
 
-Now, what does the Bible say? 
+And let's compare that with what the Bible says: 
 
 > <u>John 1:1</u> In the beginning was the Word, and the Word was with God, and the Word was God.
 
-Like the prophets before him, Joseph Smith fails the test of a prophet *miserably* according to Deuteronomy 18. And might I add that he added "works" to the very gospel itself. [Romans 4:16](https://www.biblegateway.com/passage/?search=romans+4%3A16&version=ESV) says, "*that is why it depends on faith, in order that the promise may rest on grace*." But Joseph Smith's addition says, "*ye are justified of faith and works, through grace*." Did you catch that? By his own addition to the gospel itself, Joseph Smith is guilty of preaching another gospel [Galatians 1:8-9](https://www.biblegateway.com/passage/?search=galatians+1%3A8-9&version=ESV). 
+Like the prophets before him, Joseph Smith fails the test of a prophet *miserably* according to Deuteronomy 18. And might I add that he added "works" to the very gospel itself. [Romans 4:16](https://www.biblegateway.com/passage/?search=romans+4%3A16&version=ESV) says, "*that is why it depends on faith, in order that the promise may rest on grace*." But Joseph Smith's addition says, "*ye are justified of faith and works, through grace*." Did you catch that? By his own addition to the gospel itself, Joseph Smith is guilty of preaching another gospel [(Galatians 1:8-9)](https://www.biblegateway.com/passage/?search=galatians+1%3A8-9&version=ESV). 
 
 #### The Bible
 **Prophet Isaiah**<br>
@@ -156,13 +158,13 @@ Daniel predicts several key events at around 538 B.C. to include:
 1. Messiah killed
 2. Temple being destroyed
 
-There is a plethora of evidence for both points (1) and (2). For Daniel's prophecy of *Messiah killed*, we have very detailed accounts of this prophecy's fulfillment within the gospel accounts from Matthew, Mark, Luke, and John. However, there are many extrabiblical accounts of His death as well. Two of which come from Tacitus and Lucian. They are quoted as to say: 
+There is a plethora of evidence for both points (1) and (2). For Daniel's prophecy of *Messiah killed*, we have very detailed accounts of this prophecy's fulfillment within the gospel accounts from Matthew, Mark, Luke, and John. However, why use the Bible when we can use extrabiblical resources? Something that the Book of Mormon certainly doesn't have. Two of these extrabiblical resources come from Tacitus and Lucian. They are quoted as to say: 
 
 > "*Nero fastened the guilt ... on a class hated for their abominations, called Christians by the populace. Christus, from whom the name had its origin, suffered the extreme penalty during the reign of Tiberius at the hands of ... Pontius Pilatus, and a most mischievous superstition, thus checked for the moment, again broke out not only in Judaea, the first source of the evil, but even in Rome....* -- Tacitus"
 
 > "*The Christians ... worship a man to this day – the distinguished personage who introduced their novel rites, and was crucified on that account.... [It] was impressed on them by their original lawgiver that they are all brothers, from the moment that they are converted, and deny the gods of Greece, and worship the crucified sage, and live after his laws.* -- Lucian"  
 
-For the prophecy of *Temple being destroyed*, there are numerous sources proving the Romans destroyed the Jerusalem temple in 70 A.D. But what better way to view the prophecy fulfilled than seeing it right before our own eyes?
+For the prophecy of *Temple being destroyed*, there are numerous sources proving the Romans destroyed the Jerusalem temple in 70 A.D. So much so that this point of history cannot be denied, refuted, or argued. The temple was destroyed. But what better way to view the prophecy fulfilled than seeing it right before our own eyes?
 
 ![temple-destroyed](/images/temple-destroyed.jpg)
 
@@ -173,9 +175,9 @@ David prophesied of Jesus' resurrection in Psalm 16:10-11:
 > **10** For you will not abandon my soul to Sheol, or let your holy one see corruption<br>
 > **11** You make known to me the path of life; in your presence there is fullness of joy; at your right hand are pleasures forevermore.
 
-Without using the Bible, we can use yet another extrabiblical source in the non-Christian historian, Josephus which had this to say about the resurrection:
+Keeping up with the extrabiblical theme, we can use yet another source in the non-Christian historian, Josephus which had this to say about the resurrection:
 
 > "*About this time there lived Jesus, a wise man, if indeed one ought to call him a man. For he ... wrought surprising feats.... He was the Christ. When Pilate ...condemned him to be crucified, those who had . . . come to love him did not give up their affection for him. On the third day he appeared ... restored to life.... And the tribe of Christians ... has ... not disappeared*"
  
 ## Conclusion
-The LDS Church claims the Book of Mormon is the real word of God and they claim that it's more correct than the Bible. However, the geography, or lack thereof, completely disproves the historicity of this claim. There is not a place on earth which aligns with the geographical maps of the LDS Church. Even then, the plants and animals do not align with ancient America. Another major flaw the Book of Mormon fails at is ancient manuscripts. There are zero manuscripts for the Book of Mormon except that of... the Book of Mormon itself which was written in 1830. Comparing that to the Bible, we have upwards of 40,000 ancient manuscripts. Lastly, we examined prophets. And if you recall, there is a test of a prophet found in Deuteronomy chapter 18. Every prophet in the Book of Mormon fails this test while the Bible holds true.
+The LDS Church claims the Book of Mormon is the real word of God and they claim that it's more correct than the Bible. However, the geography, or lack thereof, completely disproves the historicity of this claim. There is not a place on earth which aligns with the geographical maps of the LDS Church. Even then, the plants and animals mentioned throughout the Book of Mormon do not align with ancient America. Another major flaw the Book of Mormon fails at is with its lack of ancient manuscripts. There are zero manuscripts for the Book of Mormon except that of... the Book of Mormon itself which was written in 1830. Comparing that to the Bible, we have upwards of 40,000 ancient manuscripts. Lastly, we examined prophets. And if you recall, there is a test of a prophet found in Deuteronomy chapter 18. Every prophet in the Book of Mormon fails this test while the Bible holds true. As you hopefully now see with the evidence presented here, Mormonism is a false, made-up religion that has **zero** history or archaeology supporting its claims.
