@@ -6,7 +6,7 @@ image:
   caption: "Photo from [Crossway](https://www.crossway.org/articles/what-does-it-really-mean-to-take-the-lords-name-in-vain/)"
 last_modified_at: 2022-12-07T21:24:00-05:00
 categories:
-  - faith
+  - Christianity
 tags: 
   - 10 commandments
   - God's name in vain
