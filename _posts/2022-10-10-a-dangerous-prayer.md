@@ -6,7 +6,7 @@ image:
   caption: "Photo from [Unsplash](https://unsplash.com/photos/b_SHPU5M3nk)"
 last_modified_at: 2022-10-13T16:26:00-05:00
 categories:
-  - heresy
+  - Heresy
 tags: 
   - easy prayerism
   - sinner's prayer
