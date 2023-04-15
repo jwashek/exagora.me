@@ -6,7 +6,7 @@ image:
   caption: "Photo from [Campus Crusade for Christ](https://www.cru.org/us/en/how-to-know-god/would-you-like-to-know-god-personally.html)"
 last_modified_at: 2023-03-27T15:24:00-05:00
 categories:
-  - love
+  - Love
 tags: 
   - love
   - God is love
