@@ -6,7 +6,7 @@ image:
   caption: "Photo from [Science of People](https://www.scienceofpeople.com/how-to-change/)"
 last_modified_at: 2023-03-15T15:24:00-05:00
 categories:
-  - faith
+  - Christianity
 tags: 
   - changed life
   - sin
