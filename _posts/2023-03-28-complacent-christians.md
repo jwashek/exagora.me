@@ -6,7 +6,7 @@ image:
   caption: "Photo from [Time Management Ninja](https://timemanagementninja.com/2012/08/if-youre-just-going-through-the-motions-youre-wasting-your-time/)"
 last_modified_at: 2023-03-27T15:24:00-05:00
 categories:
-  - faith
+  - Christianity
 tags: 
   - growth
   - complacency
