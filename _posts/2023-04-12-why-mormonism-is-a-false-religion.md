@@ -6,7 +6,7 @@ image:
   caption: "Photo from [Crosswalk](https://www.crosswalk.com/church/pastors-or-leadership/ask-roger/are-mormonism-and-christianity-really-that-different.html)"
 last_modified_at: 2023-04-10T15:24:00-05:00
 categories:
-  - False-Religion
+  - Heresy
 tags: 
   - false religion
   - heresy
