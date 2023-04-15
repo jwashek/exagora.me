@@ -6,7 +6,7 @@ image:
   caption: "Photo from [Living The Word](https://livingtheword.org.nz/1st-sunday-of-lent-turn-away-from-sin)"
 last_modified_at: 2022-10-29T21:24:00-05:00
 categories:
-  - heresy
+  - Heresy
 tags: 
   - salvation
   - repentance
