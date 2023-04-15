@@ -6,7 +6,7 @@ image:
   caption: "Photo from [Rogersville Church of Christ](https://s3.amazonaws.com/rogersvilleal.church.of.christ/wp-content/uploads/2020/11/rogersville-am3.png)"
 last_modified_at: 2022-11-29T21:24:00-05:00
 categories:
-  - Faith
+  - Christianity
 tags: 
   - faith
   - assurance
