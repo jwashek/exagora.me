@@ -17,7 +17,7 @@ tags:
 {% include toc %}
 
 ## Intro
-Have you ever read a verse so many times and never really stopped to think if there could be a deeper application? You know, something just clicks and it opens your mind which helps you understand other Scriptures more? Well, this happened to me the other day when reading (1<sup>st</sup> Timothy 6:10). "*For the **love of money** is a root of all kinds of evils.*" For some reason, this verse really stuck in my mind for several days until I re-read 1<sup>st</sup> Peter. I noticed something interesting: verse 8 says, "*love covers a multitude of sins*." So, we have two things here: (1) love, improperly directed, *causes* sin, and (2) love, properly directed, *covers* sin. But just how does this work? 
+Have you ever read a verse so many times and never really stopped to think if there could be a deeper application? You know, something just clicks and it opens your mind which helps you understand other Scriptures more? Well, this happened to me the other day when reading (1st Timothy 6:10). "*For the **love of money** is a root of all kinds of evils.*" For some reason, this verse really stuck in my mind for several days until I re-read 1<sup>st</sup> Peter. I noticed something interesting: verse 8 says, "*love covers a multitude of sins*." So, we have two things here: (1) love, improperly directed, *causes* sin, and (2) love, properly directed, *covers* sin. But just how does this work? 
 
 ## Directing Our Love Improperly
 If we're loving the wrong things, not only will we **not** be able to cover a multitude of sins, but we'll *create* a multitude of sins for us. Where is your love?
