@@ -22,9 +22,9 @@ Though the Romans were arguably the most notable proponents of crucifixion, it w
 It is often believed that the real reason for crucifixion was to be that of a deterrent, much like death by hanging. Most crucifixions regardless of culture were almost exclusively public for this reason. But some would argue it fulfills the human's primal nature for seeking revenge for crime and wrongdoing--just in an excruciatingly gruesome manner. 
 
 ### How Was Crucifixion Viewed?
-> <u>1 Corinthians 1:23</u>: But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness
+> <u>1st Corinthians 1:23</u>: But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness
 
-The Jews saw the cross as highly offensive, something they rarely discussed between themselves or with others. Whereas the Greeks saw the cross as something foolish to even consider. "*How can a god be a god if they suffer such a vile death?*" The Greeks typically mocked Christians in this manner. And, somewhat surprisingly, the Jews held to a common belief as the Greeks according to [Deuteronomy 21:22-23](https://www.biblegateway.com/passage/?search=Deuteronomy+21%3A22-23&version=KJV) which states that if a sinner is hung on a tree, they are accursed of God. Therefore most Jews do not hold to teaching that Jesus was the true Messiah because the Messiah would have to be accursed if he hung from a tree like the Lord Jesus Christ did. Interestingly enough, Paul addresses this in [Galatians 3:13](https://www.biblegateway.com/passage/?search=Galatians%203%3A13&version=KJV) by saying that *Christ became a curse for us*. It was intended for the Messiah to address our curse of sin through this manner.
+The Jews saw the cross as highly offensive, something they rarely discussed between themselves or with others. Whereas the Greeks saw the cross as something foolish to even consider. "*How can a god be a god if they suffer such a vile death?*" The Greeks typically mocked Christians in this manner. And, somewhat surprisingly, the Jews held to a common belief as the Greeks according to Deuteronomy 21:22-23 which states that if a sinner is hung on a tree, they are accursed of God. Therefore most Jews do not hold to teaching that Jesus was the true Messiah because the Messiah would have to be accursed if he hung from a tree like the Lord Jesus Christ did. Interestingly enough, Paul addresses this in Galatians 3:13 by saying that *Christ became a curse for us*. It was intended for the Messiah to address our curse of sin through this manner.
 
 More generally, most people wouldn't even speak of crucifixion in ancient times. A lot of early Christian theologians purposefully avoided the subject because of how heavy it was. This is rather odd considering Jesus’ death on the Cross is a pivotal part of the Christian faith; He didn’t just die, He suffered horribly on the Cross and shed His literal, physical blood for our redemption.
 
@@ -33,7 +33,7 @@ More generally, most people wouldn't even speak of crucifixion in ancient times.
 **Flogging and Torture**<br>
 If the act of crucifixion wasn’t enough, there was a lot of prep-work that went into it before the hanging on the crucifix. The biggest preparation was that of flogging. [Flogging]( https://www.merriam-webster.com/dictionary/flog) is the act of repeatedly whipping with a stick or a whip. The Romans used this technique with a minor difference. They would add sharp bones at the end of the stick or whip to ensure they would rip into and tear apart the flesh. Flogging was typically done on the back but could be anywhere the stick or whip would strike. Blood would often pour profusely after just several strikes, but what’s possibly more relentless is the fact that Romans did not have a set number of times they would whip their victim. If you could imagine, many would die during the process of flogging alone. It was extremely common for the victims to be already dead before hanging on the cross—due to the flogging or other means of torture. 
 
-The Romans were often more brutal in their forms of torture in addition to the flogging (as if flogging wasn’t enough punishment already). One such method was to burn their victims’ eyes out of their sockets while their family watched. Often, too, they would kill family members of the victim and force them to watch. Possibly most cruel, it was reported that Antiochus IV would strangle the victim's children and hang them around their neck as they were crucified [[1]](https://www.livescience.com/65283-crucifixion-history.html#:~:text=In%20Rome%2C%20people%20condemned%20to,and%20legs%20by%20Roman%20soldiers.). 
+The Romans were often more brutal in their forms of torture in addition to the flogging (as if flogging wasn’t enough punishment already). One such method was to burn their victims’ eyes out of their sockets while their family watched. Often, too, they would kill family members of the victim and force them to watch. Possibly most cruel, it was reported that Antiochus IV would strangle the victim's children and hang them around their neck as they were crucified [<sup>[1]</sup>](https://www.livescience.com/65283-crucifixion-history.html#:~:text=In%20Rome%2C%20people%20condemned%20to,and%20legs%20by%20Roman%20soldiers.). 
 
 **Humiliation**<br>
 Now that the flogging and torture had completed, the victims of crucifixion were stripped naked and mocked. Crucifixion was not just a death sentence to the body, but almost to every aspect of the human life. Not only were the victims, if they survived to this point, suffering an almost unimaginable amount, now they had to suffer further embarrassment through being naked and mocked by their own people. 
@@ -72,4 +72,21 @@ I attempted to use very little Bible verses and approach this from a more histor
 * Bart Ehrman, "*The New Testament: A Historical Introduction to the Early Christian Writings, Pg 276*":
 > “It is a historical fact that some of Jesus’ followers came to believe that he had been raised from the dead soon after his execution. We know some of these believers by name; one of them, the apostle Paul, claims quite plainly to have seen Jesus alive after his death. Thus, for the historian, Christianity begins after the death of Jesus, not with the resurrection itself, but with the belief in the resurrection.”
 
-If even these scholars believe Jesus (a) did exist, (b) died through crucifixion, and (c) understand the historical evidence supporting the claims to Jesus' resurrection, then how can this still be argued today? Furthermore, if this can be proven historically, then Jesus willingly died through unimaginable suffering and agony to pay for the sins of the whole world, including yours! Regardless of your belief in that or not, He still chose to do so. Claiming this free gift of salvation through His death is as simple as recognizing your sinful condition before God, believing the [Gospel](https://www.exagora.me/salvation/gospel/what-is-the-gospel/) (i.e., the death, burial, and resurrection of Jesus) and trusting in Jesus Christ to save you.
+If even these scholars believe Jesus (a) did exist, (b) died through crucifixion, and (c) understand the historical evidence supporting the claims to Jesus' resurrection, then how can this still be argued today? Furthermore, if this can be proven historically, then Jesus willingly died through unimaginable suffering and agony to pay for the sins of the whole world, including yours! Regardless of your belief in that or not, He still chose to do so. Claiming this free gift of salvation through His death is as simple as recognizing your sinful condition before God, believing the [Gospel](https://www.exagora.me/salvation/gospel/what-is-the-gospel/) (i.e., the death, burial, and resurrection of Jesus), and trusting in Jesus Christ to save you.
+
+<script>
+var refTagger = {
+  settings: {
+    bibleVersion: 'ESV'
+  }
+}; 
+
+(function(d, t) {
+  var n=d.querySelector('[nonce]');
+  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+  g.nonce = refTagger.settings.nonce;
+  s.parentNode.insertBefore(g, s);
+}(document, 'script'));
+</script>
