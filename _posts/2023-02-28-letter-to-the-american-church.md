@@ -58,3 +58,20 @@ America as a nation has gone so deep into sin and is so asleep morally that not 
 
 ## Conclusion
 A letter to the American Church, had it been written by one of the apostles today, would certainly not be one that edifies the Church. Rather, I believe it would be one that admonishes the Church's wicked behavior, exposes their acceptance of sin, and condemns many preachers as false teachers within the Church. The reason for this is due to the state of the Church, the state of preachers within the Church, and the overall acceptance of sin from the American culture. The Church picks and chooses what they want to believe and twists Scripture so they can justify living in their sin. We have chosen weak and cowardly preachers that glorify sin and never speak out against it. These preachers only serve themselves and not the Lord Jesus. Overall, America has fallen deep into sin, depravity, and wickedness that we're normalizing once condemned behavior and even glorying in those that perform such wicked acts. The American Church needs to wake up and get right with God. We have never been in such dire need for a Church revival than at this very moment. Christians often claim certain passages in Hebrews 6:4-6 and Hebrews 10:26-30 are the scariest verses in the Bible but had the "*Letter to the Church in America*" been written, I think this would easily take that crown.
+
+<script>
+var refTagger = {
+  settings: {
+    bibleVersion: 'ESV'
+  }
+}; 
+
+(function(d, t) {
+  var n=d.querySelector('[nonce]');
+  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+  g.nonce = refTagger.settings.nonce;
+  s.parentNode.insertBefore(g, s);
+}(document, 'script'));
+</script>
