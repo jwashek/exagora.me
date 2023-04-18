@@ -74,6 +74,9 @@ I attempted to use very little Bible verses and approach this from a more histor
 
 If even these scholars believe Jesus (a) did exist, (b) died through crucifixion, and (c) understand the historical evidence supporting the claims to Jesus' resurrection, then how can this still be argued today? Furthermore, if this can be proven historically, then Jesus willingly died through unimaginable suffering and agony to pay for the sins of the whole world, including yours! Regardless of your belief in that or not, He still chose to do so. Claiming this free gift of salvation through His death is as simple as recognizing your sinful condition before God, believing the [Gospel](https://www.exagora.me/salvation/gospel/what-is-the-gospel/) (i.e., the death, burial, and resurrection of Jesus), and trusting in Jesus Christ to save you.
 
+## Reference:
+1. https://www.livescience.com/65283-crucifixion-history.html#:~:text=In%20Rome%2C%20people%20condemned%20to,and%20legs%20by%20Roman%20soldiers.
+
 <script>
 var refTagger = {
   settings: {
