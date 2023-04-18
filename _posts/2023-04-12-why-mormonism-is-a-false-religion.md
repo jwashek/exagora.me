@@ -57,11 +57,11 @@ On the contrary, the Bible has been highly established through archaeology throu
 
 ### Plants and Animals
 #### Book of Mormon
-In 1<sup>st</sup> Nephi 18:25, it states:
+In 1st Nephi 18:25, it states:
 
 > ...there were beasts in the forests of every kind, both the cows and the ox, and the ass and the horse, and the goat and the wild goat
 
-In 2<sup>nd</sup> Nephi 12:7, it states:
+In 2nd Nephi 12:7, it states:
 
 > ...the land is also full of horses...
 
@@ -85,7 +85,7 @@ Now, if the Nephites were a culture of writers, where are the writings? Where ar
 And let's take this a step further. Events in the Book of Mormon are said to have ended in 400 A.D. And the **only** evidence we have is the Book of Mormon itself, some 1430 years later? This is not even improbable that a book containing this much history has not a single trail of verifiable, documented trace. It's impossible.
 
 #### The Bible
-The earliest known part of the Bible to have been preserved is from the book of Numbers and came from the 7<sup>th</sup> century B.C. Additionally, the Dead Sea Scrolls were found in 1947. These scrolls confirm **every** single book of the Old Testament (except the book of Esther). These scrolls date all the way back to the 3<sup>rd</sup> century B.C.
+The earliest known part of the Bible to have been preserved is from the book of Numbers and came from the 7th century B.C. Additionally, the Dead Sea Scrolls were found in 1947. These scrolls confirm **every** single book of the Old Testament (except the book of Esther). These scrolls date all the way back to the 3rd century B.C.
 
 There are several *thousand* manuscripts which contain books of the Bible or parts of those books that archaeologists have found throughout the centuries. The overwhelming amount of evidence supporting the Bible cannot be understated. No other book in *history* has the amount of archaeological evidence supporting it than that of the Bible.
 
@@ -106,7 +106,7 @@ For a prophet to pass the test according to Deuteronomy 18, their predictions ne
 
 #### Book of Mormon
 **The Prophet Nephi**<br>
-According to the Book of Mormon, around 600 B.C., the prophet Nephi prophesied that after the 12 apostles of Christ, there would be a formation of a great and abominable church (speaking of Christianity) because parts of the gospel have been corrupted (1<sup>st</sup> Nephi 13).
+According to the Book of Mormon, around 600 B.C., the prophet Nephi prophesied that after the 12 apostles of Christ, there would be a formation of a great and abominable church (speaking of Christianity) because parts of the gospel have been corrupted (1st Nephi 13).
 
 First, there is not a single manuscript; no ancient copies of the Book of Mormon that predate Joseph Smith that the LDS Church can produce. So how can we verify this claim as true if the only "manuscript" is the Book of Mormon itself? 
 
@@ -117,7 +117,7 @@ The logical conclusion from here is that the prophet Nephi fails the test of a p
 **The Prophet Alma**<br>
 In Alma 7:10, the prophet Alma prophecies that Jesus will be born in Jerusalem. 
 
-However, [Micah 5:2](https://www.biblegateway.com/passage/?search=micah+5%3A2&version=ESV) prophesied Jesus would come from Bethlehem. Mormon scholars defend this prophecy by saying, "Bethlehem was only 6 miles from Jerusalem, we can assume it's talking about the same place." The problem with that is there were cities in between Bethlehem and Jerusalem, meaning if any one of those cities were mentioned by Alma, wouldn't we have the same problem? The problem is simple: it's *not* the same place. Think of it in terms that we might understand a little better. If you live in a city 6 miles south of another city with both having roads named "Main Street," and you're giving directions to someone to visit your home, if they visited the other city on Main Street, would they still reach your home?
+However, Micah 5:2 prophesied Jesus would come from Bethlehem. Mormon scholars defend this prophecy by saying, "Bethlehem was only 6 miles from Jerusalem, we can assume it's talking about the same place." The problem with that is there were cities in between Bethlehem and Jerusalem, meaning if any one of those cities were mentioned by Alma, wouldn't we have the same problem? The problem is simple: it's *not* the same place. Think of it in terms that we might understand a little better. If you live in a city 6 miles south of another city with both having roads named "Main Street," and you're giving directions to someone to visit your home, if they visited the other city on Main Street, would they still reach your home?
 
 Like the prophet Nephi, the prophet Alma fails the test of a prophet according to Deuteronomy 18.
 
@@ -140,11 +140,11 @@ And let's compare that with what the Bible says:
 
 > <u>John 1:1</u> In the beginning was the Word, and the Word was with God, and the Word was God.
 
-Like the prophets before him, Joseph Smith fails the test of a prophet *miserably* according to Deuteronomy 18. And might I add that he added "works" to the very gospel itself. [Romans 4:16](https://www.biblegateway.com/passage/?search=romans+4%3A16&version=ESV) says, "*that is why it depends on faith, in order that the promise may rest on grace*." But Joseph Smith's addition says, "*ye are justified of faith and works, through grace*." Did you catch that? By his own addition to the gospel itself, Joseph Smith is guilty of preaching another gospel [(Galatians 1:8-9)](https://www.biblegateway.com/passage/?search=galatians+1%3A8-9&version=ESV). 
+Like the prophets before him, Joseph Smith fails the test of a prophet *miserably* according to Deuteronomy 18. And might I add that he added "works" to the very gospel itself. Romans 4:16 says, "*that is why it depends on faith, in order that the promise may rest on grace*." But Joseph Smith's addition says, "*ye are justified of faith and works, through grace*." Did you catch that? By his own addition to the gospel itself, Joseph Smith is guilty of preaching another gospel (Galatians 1:8-9). 
 
 #### The Bible
 **Prophet Isaiah**<br>
-In [Isaiah 16:5](https://www.biblegateway.com/passage/?search=Isaiah+16%3A5&version=ESV), the Prophet Isaiah predicts that Jesus would come from the house of David.
+In Isaiah 16:5, the Prophet Isaiah predicts that Jesus would come from the house of David.
 
 The house of David was proved in an extrabiblical ancient artifact known as the [Tel Dan inscription](https://www.biblicalarchaeology.org/daily/biblical-artifacts/the-tel-dan-inscription-the-first-historical-evidence-of-the-king-david-bible-story/). There are [18 references](https://www.biblegateway.com/quicksearch/?qs_version=ESV&quicksearch=son+of+david&begin=47&end=73) of Jesus being a "son of David" in the New Testament.
 
@@ -181,3 +181,20 @@ Keeping up with the extrabiblical theme, we can use yet another source in the no
  
 ## Conclusion
 The LDS Church claims the Book of Mormon is the real word of God and they claim that it's more correct than the Bible. However, the geography, or lack thereof, completely disproves the historicity of this claim. There is not a place on earth which aligns with the geographical maps of the LDS Church. Even then, the plants and animals mentioned throughout the Book of Mormon do not align with ancient America. Another major flaw the Book of Mormon fails at is with its lack of ancient manuscripts. There are zero manuscripts for the Book of Mormon except that of... the Book of Mormon itself which was written in 1830. Comparing that to the Bible, we have upwards of 40,000 ancient manuscripts. Lastly, we examined prophets. And if you recall, there is a test of a prophet found in Deuteronomy chapter 18. Every prophet in the Book of Mormon fails this test while the Bible holds true. As you hopefully now see with the evidence presented here, Mormonism is a false, made-up religion that has **zero** history or archaeology supporting its claims.
+
+<script>
+var refTagger = {
+  settings: {
+    bibleVersion: 'ESV'
+  }
+}; 
+
+(function(d, t) {
+  var n=d.querySelector('[nonce]');
+  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+  g.nonce = refTagger.settings.nonce;
+  s.parentNode.insertBefore(g, s);
+}(document, 'script'));
+</script>
