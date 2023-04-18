@@ -1,6 +1,6 @@
 ---
 title: "The Gospel"
-excerpt: "The Gospel is the good news of Jesus' death, burial, and resurrection. But how could this possibly be good news?"
+excerpt: "The good news of Jesus' death, burial, and resurrection."
 image: 
   path: /images/gospel.jpeg
   caption: "Photo from [Redeeming God](https://redeeminggod.com/sermons/miscellaneous/what-is-the-gospel/)"
@@ -86,7 +86,7 @@ That's it. It all points back to `believe` but notice what we believe is very im
 3. Repent (change your mind) and believe the Gospel; trust Jesus Christ to save you
 
 ## What Happens Next?
-After salvation, we are called (1) to preach the Gospel (Mark 16:15), (2) to love one another (Matthew 22:36-40, Romans 13:8, Romans 13:10, Galatians 5:14, James 2:8, and 1st John 4:7-9), (3) to obedience (2nd Thessalonians 1:8, John 14:15, 1st Peter 1:13-14, and 2nd Corinthians 2:9), (4) to live a changed life (2nd Corinthians 5:17, Ephesians 4:22-24, and Colossians 3:9-10), and (5) to be careful to maintain good works (Titus 3:8 and Ephesians 2:10). 
+After salvation, we are called (1) to preach the Gospel (Mark 16:15), (2) to love one another (Matthew 22:36-40, Romans 13:8, Romans 13:10, Galatians 5:14, James 2:8, and 1st John 4:7-9), (3) to obedience (2nd Thessalonians 1:8, John 14:15, 1st Peter 1:13-14, and 2nd Corinthians 2:9), (4) to live a changed life (2nd Corinthians 5:17, Ephesians 4:22-24, Ephesians 5:15-17, and Colossians 3:9-10), and (5) to be careful to maintain good works (Titus 3:8 and Ephesians 2:10). 
 
 Please understand, we will slip, trip, stumble and fall in our walk with Christ. But we are not to use this as an excuse to sin (Romans 6:1-2) or for an occasion to the flesh (Galatians 5:13). We have the Holy Spirit of God residing in us as believers (1st Corinthians 6:19-20), so we absolutely [should live a changed life](https://www.exagora.me/faith/changed-life/) as born-again believers. But if we do sin, we have an advocate, Jesus Christ, to confess our sins to (1st John 1:9).
 
