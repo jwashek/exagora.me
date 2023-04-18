@@ -37,10 +37,10 @@ Another example of ancient writings from non-Christian sources can be that of **
 **The Gospel Itself!**<br>
 Maybe most fascinating (at least it was to me), the earliest known evidence supporting Christianity, believe it or not, is the Gospel itself found through a creedal manuscript [[8]](https://www.thegospelcoalition.org/article/earliest-evidence-christianity/)! This manuscript was dated to be around 35-38 AD, just a few short years after Christ's crucifixion (~33 AD). Maybe the most compelling aspect of this finding is that it was not associated with any prior writings or letters at that time... yet. Paul later added almost the exact wording found in the creedal manuscript to 1 Corinthians 15:3-8 which is believed to have been written between 52-55 AD.
 
-According to [1 Corinthians 15:1-4](https://www.biblegateway.com/passage/?search=1+corinthians+15%3A1-4&version=KJV), the Gospel simply explains the death, burial, and resurrection of Jesus. Why is this important? Paul mentions that the Gospel is something that "*ye have received*" and "*that which I also received*." Many scholars believe this to mean that there was evidence of people spreading this news rapidly throughout that time period just after Christ was crucified. Enter the creedal manuscript. The finding of this manuscript was a massive archaeological discovery supporting Christianity since, not only did it contain the Gospel (verses 3-4 of 1 Corinthians chapter 15), but it accounted for the eyewitness reports for those that saw Christ after His resurrection (verses 5-8 of 1 Corinthians chapter 15). In addition to this, the manuscript was not part of the Bible at the time it was written--meaning this finding was outside of any Biblical scrolls or other letters/epistles at that time. Since the Gospel is *precisely* how we are saved if we simply believe it and trust in Jesus Christ, we must then ask the question, "*Is this a mere coincidence that the Gospel is the earliest known support for Christianity?*" Maybe, though I find this hard to believe. If God truly does exist, what better piece of evidence could have ever *possibly* been found? In any case, one cannot deny that it is rather compelling how this text was preserved for so long, found to have been written **just** after Jesus was crucified, and found to be the earliest evidence in support of Christianity.
+According to 1st Corinthians 15:1-4, the Gospel simply explains the death, burial, and resurrection of Jesus. Why is this important? Paul mentions that the Gospel is something that "*ye have received*" and "*that which I also received*." Many scholars believe this to mean that there was evidence of people spreading this news rapidly throughout that time period just after Christ was crucified. Enter the creedal manuscript. The finding of this manuscript was a massive archaeological discovery supporting Christianity since, not only did it contain the Gospel (verses 3-4 of 1st Corinthians chapter 15), but it accounted for the eyewitness reports for those that saw Christ after His resurrection (verses 5-8 of 1st Corinthians chapter 15). In addition to this, the manuscript was not part of the Bible at the time it was written--meaning this finding was outside of any Biblical scrolls or other letters/epistles at that time. Since the Gospel is *precisely* how we are saved if we simply believe it and trust in Jesus Christ, we must then ask the question, "*Is this a mere coincidence that the Gospel is the earliest known support for Christianity?*" Maybe, though I find this hard to believe. If God truly does exist, what better piece of evidence could have ever *possibly* been found? In any case, one cannot deny that it is rather compelling how this text was preserved for so long, found to have been written **just** after Jesus was crucified, and found to be the earliest evidence in support of Christianity.
 
 **Eyewitness Reports**<br>
-One of the greatest pieces of evidence proving a claim is that of an eyewitness report. From the earlier reference of the found creedal manuscript in support of Christianity, this was directly what 1 Corinthians 15:5-8 mentions. There were over 500 eyewitness reports claiming to have seen Jesus. Most interesting, these were **all** after His resurrection. But "*you can't just use the Bible, bro*", right? Well, though 1 Corinthians 15 was directly referencing this manuscript, the creedal manuscript was likely written much before. Even highly educated atheist scholars such as Gerd Ludeman said [[8]](https://www.thegospelcoalition.org/article/earliest-evidence-christianity/):
+One of the greatest pieces of evidence proving a claim is that of an eyewitness report. From the earlier reference of the found creedal manuscript in support of Christianity, this was directly what 1st Corinthians 15:5-8 mentions. There were over 500 eyewitness reports claiming to have seen Jesus. Most interesting, these were **all** after His resurrection. But "*you can't just use the Bible, bro*", right? Well, though 1st Corinthians 15 was directly referencing this manuscript, the creedal manuscript was likely written much before. Even highly educated atheist scholars such as Gerd Ludeman said [[8]](https://www.thegospelcoalition.org/article/earliest-evidence-christianity/):
 
 > "*[this manuscript is] one of the great achievements of recent New Testament scholarship*"
 
@@ -80,3 +80,20 @@ The claim that *there's no evidence supporting Christianity* is one lacking any 
 10. https://www.crossway.org/articles/10-crucial-archaeological-discoveries-related-to-the-bible/
 11. https://www.smithsonianmag.com/history/who-wrote-the-dead-sea-scrolls-11781900/
 12. https://www.baslibrary.org/biblical-archaeology-review/40/2/4
+
+<script>
+var refTagger = {
+  settings: {
+    bibleVersion: 'ESV'
+  }
+}; 
+
+(function(d, t) {
+  var n=d.querySelector('[nonce]');
+  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+  g.nonce = refTagger.settings.nonce;
+  s.parentNode.insertBefore(g, s);
+}(document, 'script'));
+</script>
