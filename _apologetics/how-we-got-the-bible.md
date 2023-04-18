@@ -10,7 +10,7 @@ image:
 {% include toc %}
 
 ## Intro
-A lot of Christians don't understand just how lucky we are by having access to the Bible. We belong to a generation today that all Christians in previous generations, and certainly the early Church, would no doubt be envious of. We are but a fraction of Christians throughout history that can say we have full access to *all* of God's Word--and right at our fingertips. Sadly, we don't always consider how lucky we are with this truth. But how did we get to this point in history? How did the Bible get to be what it is today? And let's be honest, if we live by the Bible and walk by faith in Jesus, we need to know and understand how our Bible came to be. If not, how are we expected to contend earnestly for the faith [(Jude :3)](https://www.biblegateway.com/passage/?search=Jude%203&version=NKJV) and defend our position against unbelievers?
+A lot of Christians don't understand just how lucky we are by having access to the Bible. We belong to a generation today that all Christians in previous generations, and certainly the early Church, would no doubt be envious of. We are but a fraction of Christians throughout history that can say we have full access to *all* of God's Word--and right at our fingertips. Sadly, we don't always consider how lucky we are with this truth. But how did we get to this point in history? How did the Bible get to be what it is today? And let's be honest, if we live by the Bible and walk by faith in Jesus, we need to know and understand how our Bible came to be. If not, how are we expected to contend earnestly for the faith (Jude 1:3) and defend our position against unbelievers?
 
 ## Misconceptions
 Let's first address a few misconceptions that are commonly reported by skeptics about the Bible. 
@@ -18,7 +18,7 @@ Let's first address a few misconceptions that are commonly reported by skeptics 
 | Misconception | Truth  |
 |---|---|
 | People determined what should be in the Bible  | People *discovered* books of the Bible, they didn't necessarily *determine* it (more on this later)  |
-| The books in the Bible were written hundreds of years after Christ  | This misconception applies mainly to the New Testament since it explicitly mentions Jesus; however, it's widely accepted between scholars that the New Testament books were written from 44 A.D. to 95 A.D.<sup>[[1]](https://www.biblegateway.com/blog/2016/02/when-was-each-book-of-the-bible-written/)</sup>. However, there is a *slight* truth to this claim since we don't have the originals, only copies of copies of copies which do date to past the 1<sup>st</sup>, 2<sup>nd</sup>, and 3<sup>rd</sup> centuries  |
+| The books in the Bible were written hundreds of years after Christ  | This misconception applies mainly to the New Testament since it explicitly mentions Jesus; however, it's widely accepted between scholars that the New Testament books were written from 44 A.D. to 95 A.D.<sup>[[1]](https://www.biblegateway.com/blog/2016/02/when-was-each-book-of-the-bible-written/)</sup>. However, there is a *slight* truth to this claim since we don't have the originals, only copies of copies of copies which do date to past the 1st, 2nd, and 3rd centuries  |
 | The Bible was written all at one time  | The first book of the Bible is thought to have been written anywhere from 1500 B.C. to 2000 B.C.<sup>[[2]](https://www.oldest.org/religion/books-in-the-bible/)</sup> or even possibly later, and the last book was written around 95 A.D.<sup>[[3]](https://www.gty.org/library/questions/QA176/when-were-the-bible-books-written)   |
 | The Bible was written by people to obtain notoriety or fame | Most of the disciples and other early Christians were martyred or crucified<sup>[[4]](https://overviewbible.com/how-did-the-apostles-die/)</sup> and died for the sake of the gospel and the books that they held  |
 
@@ -37,7 +37,7 @@ From the moment Jesus died at around 33 A.D., creedal traditions were already be
 > he was buried...
 > he was raised on the third day in accordance with the Scriptures
 
-If this sounds like something straight from the Bible, that's because it is! This very creed was later added in [1<sup>st</sup> Corinthians 15:3-4](https://www.biblegateway.com/passage/?search=1+corinthians+15%3A3-4&version=ESV) about 10-15 years later (~44-54 A.D.). Since those moments after Christ's resurrection and the decades to follow, the New Testament books were slowly being written by the likes of the apostles and other witnesses such as Matthew, Mark, Luke, John, Paul, Peter, James, and Jude. The last written book of the Bible was thought to be that of the Gospel of John or Revelation, but regardless of what the last written book might be, it's widely accepted that it was written in 95 A.D. Not even 100 years later, around 170 A.D., the [Muratorian Canon](https://www.julianspriggs.co.uk/Pages/MuratorianCanon) was compiled. This included *all* New Testament books except Hebrews, James, 1<sup>st</sup> Peter, 2<sup>nd</sup> Peter, and 3<sup>rd</sup> John. As for the Old Testament, around 250-300 A.D., it was generally accepted that the Hebrew canon of Scripture was complete<sup>[[7]](https://www.gotquestions.org/canon-Bible.html),[[8]](https://www.learnreligions.com/history-of-the-bible-timeline-700157)</sup> and recognized as official, authoritative canon. Athanasius of Alexandria in 367 A.D. identified all 27 books of the New Testament for the first time in history<sup>[[8]](https://www.learnreligions.com/history-of-the-bible-timeline-700157)</sup>. This means that after Christ died in ~33 A.D., it took about 330 years to have a compiled, accepted, recognized, and completed Bible. Now that we understand a bit of the history, how were these books assembled?
+If this sounds like something straight from the Bible, that's because it is! This very creed was later added in 1st Corinthians 15:3-4 about 10-15 years later (~44-54 A.D.). Since those moments after Christ's resurrection and the decades to follow, the New Testament books were slowly being written by the likes of the apostles and other witnesses such as Matthew, Mark, Luke, John, Paul, Peter, James, and Jude. The last written book of the Bible was thought to be that of the Gospel of John or Revelation, but regardless of what the last written book might be, it's widely accepted that it was written in 95 A.D. Not even 100 years later, around 170 A.D., the [Muratorian Canon](https://www.julianspriggs.co.uk/Pages/MuratorianCanon) was compiled. This included *all* New Testament books except Hebrews, James, 1st Peter, 2nd Peter, and 3rd John. As for the Old Testament, around 250-300 A.D., it was generally accepted that the Hebrew canon of Scripture was complete<sup>[[7]](https://www.gotquestions.org/canon-Bible.html),[[8]](https://www.learnreligions.com/history-of-the-bible-timeline-700157)</sup> and recognized as official, authoritative canon. Athanasius of Alexandria in 367 A.D. identified all 27 books of the New Testament for the first time in history<sup>[[8]](https://www.learnreligions.com/history-of-the-bible-timeline-700157)</sup>. This means that after Christ died in ~33 A.D., it took about 330 years to have a compiled, accepted, recognized, and completed Bible. Now that we understand a bit of the history, how were these books assembled?
 
 ### How the Bible Was Assembled
 #### The Old Testament
@@ -83,3 +83,20 @@ Understanding how the Bible came to be is important for Christians to bolster th
 13. https://www.blueletterbible.org/Comm/stewart_don/faq/right-books-in-old-testament/question16-was-hebrew-canon-after-christ.cfm
 14. https://sabbathsentinel.org/2016/11/10/council-of-laodicea-364-ad/
 15. https://www.gotquestions.org/Council-of-Carthage.html
+  
+  <script>
+var refTagger = {
+  settings: {
+    bibleVersion: 'ESV'
+  }
+}; 
+
+(function(d, t) {
+  var n=d.querySelector('[nonce]');
+  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
+  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
+  g.nonce = refTagger.settings.nonce;
+  s.parentNode.insertBefore(g, s);
+}(document, 'script'));
+</script>
