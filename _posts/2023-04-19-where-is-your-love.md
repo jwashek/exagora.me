@@ -59,20 +59,13 @@ If we love others, not only do we inadvertently fulfill the Law as we just saw, 
 ## Conclusion
 Where we direct our love tells us a lot about our lives and where we stand before God. If we love God and love others, we will fulfill all the Law and cover a multitude of sins. But directing this love properly works back in a circle: believing in the name of Jesus Christ and loving one another is how we obey God and keep the commandments. The commandments tell us to believe in Jesus, love God, and love others. Conversely, directing love elsewhere, such as on material things, sex, ourselves, or money, will cause a multitude of sins. For example, if you love money, you are more prone to commit other sins to obtain or maintain that money such as gambling, fraud, murder, or swindling/scamming. The same can be said for any other sin where we direct our love to. If you claim to be a Christian, you must love one another because that's what separates us from others and it's the very thing that allows people to know we are Christ's (John 13:35). Where is your love?
 
-
-<script>
-var refTagger = {
-  settings: {
-    bibleVersion: 'ESV'
-  }
-}; 
-
-(function(d, t) {
-  var n=d.querySelector('[nonce]');
-  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-  g.nonce = refTagger.settings.nonce;
-  s.parentNode.insertBefore(g, s);
-}(document, 'script'));
+<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+BLB.Tagger.Translation = 'NKJV';
+BLB.Tagger.HyperLinks = 'all'; // 'all', 'none', 'hover'
+BLB.Tagger.HideTanslationAbbrev = false;
+BLB.Tagger.TargetNewWindow = true;
+BLB.Tagger.Style = 'par'; // 'line' or 'par'
+BLB.Tagger.NoSearchTagNames = ''; // HTML element list
+BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; // CSS class list
 </script>
