@@ -37,19 +37,13 @@ Our understanding is limited. Our wisdom is limited even further. We cannot unde
 ## Conclusion
 Why does God allow evil? Free will is one way to explain this question in that we are given the freedom to choose. When we abuse that free will is when evil is created. Another reason for God's allowing of evil could be due to the ripple effect. We cannot trace all events from a single event, so there would be no way for any human to see so far in the future that all the answers are given to us. Our view of evil might be our present perception, but what about decades or even centuries into the future? That "evil" event may bring more good than we could ever imagine. Lastly, our limited understanding of God and His ways is a third way to answer this question. If God is truly how we view Him, i.e., omnipotent, omnipresent, and omniscient, then we cannot begin to fathom His ways or begin to know what He knows.
 
-<script>
-var refTagger = {
-  settings: {
-    bibleVersion: 'ESV'
-  }
-}; 
-
-(function(d, t) {
-  var n=d.querySelector('[nonce]');
-  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-  g.nonce = refTagger.settings.nonce;
-  s.parentNode.insertBefore(g, s);
-}(document, 'script'));
+<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+BLB.Tagger.Translation = 'ESV';
+BLB.Tagger.HyperLinks = 'all'; 
+BLB.Tagger.HideTanslationAbbrev = false;
+BLB.Tagger.TargetNewWindow = true;
+BLB.Tagger.Style = 'par'; 
+BLB.Tagger.NoSearchTagNames = '';
+BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; 
 </script>
