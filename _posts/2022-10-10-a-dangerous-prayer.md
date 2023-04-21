@@ -48,14 +48,14 @@ This is a direct reference to a story in Numbers 21:4-9. The story goes:
 The real point of this, and why I mentioned the word "look", is found in verse 9. If anyone simply `beheld` or, another way of putting it: “looked at” the serpent, they lived and were healed. Why did Jesus pick this passage? Because we are to do the very same thing today. Look to Jesus through faith and trust in Him and live! Jesus is the object of our faith, not some man-made prayer. This should go without saying, but we trust in Jesus for salvation, not something we did such as the `Sinner's Prayer`. 
 
 ### Lacking Logic
-Even just by simple logic, this means of evangelism makes no sense. Think of it like this, an unbeliever caught the very end of a sermon and heard, “do you want to be saved?” Maybe something is convicting them and they soften their heart to receive the answer. “Yes!,” they say. Next, they hear, “repeat this prayer after me” and then they follow along in prayer. After they’re all done, if they go on living the exact same way with no change (2nd Corinthians 5:17), never giving any thought to God or trying to keep His word (1st John 2:5), never praying, never showing love towards one another (1st John 4:7-9), never showing the fruit of the Spirit (Galatians 5:22-23), never making any attempt to live for Jesus (Galatians 2:20); would you consider them to actually have meant it? 
+Even just by simple logic, this means of evangelism makes no sense. Think of it like this, an unbeliever caught the very end of a sermon and heard, “do you want to be saved?” Maybe something is convicting them and they soften their heart to receive the answer. “Yes!,” they say. Next, they hear, “repeat this prayer after me” and then they follow along in prayer. After they’re all done, if they go on living the exact same way with no change (2 Corinthians 5:17), never giving any thought to God or trying to keep His word (1 John 2:5), never praying, never showing love towards one another (1 John 4:7-9), never showing the fruit of the Spirit (Galatians 5:22-23), never making any attempt to live for Jesus (Galatians 2:20); would you consider them to actually have meant it? 
 
 This is why a change of mind (repentance) is so important. If you’re hungry and looking for some dinner, then you see a Pizza Hut and think, “I am going to have pizza for dinner.” But just before you reach the restaurant, you see a Wendy’s then you say, “Okay, I changed my mind, I want Wendy’s.” If you still go to Pizza Hut, did you change your mind? Of course not! Just the same, praying a prayer with no context of why you’re praying it is only increasing false converts and giving professing “Christians” a false sense of security. It's leading people to hell!
 
 Listen to those words again from Greg Laurie (and sadly, not only him, but thousands of evangelicals today). "If you want to be saved, pray this prayer after me..." If we want to be saved, all we need to do is pray a prayer? Those are his words, not mine. That's all we need to do? That's assumed from how these evangelicals phrase the sentence. Let's look at it from a different angle. "If you want ice cream then finish your dinner." I'm stating the obvious here, but all we need to do is finish our dinner if we want to get the ice cream. Any toddler would recognize that. There is no difference in the structure of those two sentences. "*If you want `x`, then do `y`*." We cannot assume anything other than the prayer is going to save us if we simply pray it by how that phrase is worded. On the other hand, regardless of the flavor of ice cream, we know we'll receive ice cream if we simply eat our dinner. The dinner then becomes the object of our faith. We have faith that if we do finish the dinner, we'll get the reward. Just the same, regardless of what the prayer entails, we know we'll be saved if we simply pray. Our trust is now in the prayer and not the One we need to trust in.
 
 ### Lacking The Gospel
-Last and certainly most important, a sinner needs to know the Gospel (1st Corinthians 15:1-4), the good news, that Jesus died for us while we were yet sinners (Romans 5:8). In 1st Corinthians 15:1-4, this teaches us very plainly the Gospel is the death, burial, and resurrection of Jesus Christ. Paul says to the Corinthian believers at the Church of Corinth that the Gospel is two things:
+Last and certainly most important, a sinner needs to know the Gospel (1 Corinthians 15:1-4), the good news, that Jesus died for us while we were yet sinners (Romans 5:8). In 1 Corinthians 15:1-4, this teaches us very plainly the Gospel is the death, burial, and resurrection of Jesus Christ. Paul says to the Corinthian believers at the Church of Corinth that the Gospel is two things:
 
 1. *in which you stand*
 2. *by which you are saved*
@@ -87,19 +87,13 @@ Just to finish up this section, I wanted to be very clear in saying that I do be
 ## Conclusion
 The `Sinner’s Prayer`, `Easy-Prayerism`, or `Ask Jesus Into Your Heart` evangelistic tactics to get people saved are doing much more harm to Christianity and professing Christians today than good. These teachings are heretical, damnable, and water down the Gospel of our Lord Jesus Christ. They are lacking in their presentation of the Gospel, showing the sinner’s need for a Savior, sound logic, and the Object of where our trust should reside. Additionally, these methods were not even found to exist until well into the 20th Century and spread like wildfire since. Why did it take 1,944 years of the Church Age to discover this? A question we should be asking, no doubt. 
 
-<script>
-var refTagger = {
-  settings: {
-    bibleVersion: 'ESV'
-  }
-}; 
-
-(function(d, t) {
-  var n=d.querySelector('[nonce]');
-  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-  g.nonce = refTagger.settings.nonce;
-  s.parentNode.insertBefore(g, s);
-}(document, 'script'));
+<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+BLB.Tagger.Translation = 'ESV';
+BLB.Tagger.HyperLinks = 'all'; 
+BLB.Tagger.HideTanslationAbbrev = false;
+BLB.Tagger.TargetNewWindow = true;
+BLB.Tagger.Style = 'par'; 
+BLB.Tagger.NoSearchTagNames = '';
+BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; 
 </script>
