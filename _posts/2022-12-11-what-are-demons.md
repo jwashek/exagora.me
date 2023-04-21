@@ -32,13 +32,13 @@ Very often the above passage is what's used when teaching the origin of demons. 
 ### What They Are
 Demons are disembodied spiritual beings often called "unclean spirits," "evil spirits," or even sometimes "devils." If this seems like a rather quick answer, it'll make much more sense when we get to explaining "*where demons came from*." We have many stories in the Bible where Jesus casts out demons such as when He cast out many demons into a herd of pigs (Luke 8:33). Also, the Pharisees on several occasions said that Jesus had an "unclean spirit," claiming that He was performing miracles by the power of demons. These sprits are clearly not physical beings in these stories, but they do have power to inhabit the physical--people, animals, or even objects. 
 
-Have you ever considered in the Old Testament or other secular ancient writings where people would construct idols and worship them? These people knew these idols were made of wood, metal, clay, stone, or any other type of material, yet they still worshipped them. Why? The idea was never to build the object and worship the idol *itself*; no, they would build this object or idol as a spiritual *home* for an entity. These ancient people would then perform many ceremonies and rituals on these idols, one of the most common being the "opening of the mouth." Someone, you and me, who breathes is alive. These people captured this very idea, performed the ceremony of opening the idol's mouth—which is symbolic to being alive and breathing--with the hope that an entity would attach itself to, or otherwise inhabit, the idol. We see a converse truth to this for believers with the Holy Spirit indwelling in our temple, i.e., body (1st Corinthians 6:19).
+Have you ever considered in the Old Testament or other secular ancient writings where people would construct idols and worship them? These people knew these idols were made of wood, metal, clay, stone, or any other type of material, yet they still worshipped them. Why? The idea was never to build the object and worship the idol *itself*; no, they would build this object or idol as a spiritual *home* for an entity. These ancient people would then perform many ceremonies and rituals on these idols, one of the most common being the "opening of the mouth." Someone, you and me, who breathes is alive. These people captured this very idea, performed the ceremony of opening the idol's mouth—which is symbolic to being alive and breathing--with the hope that an entity would attach itself to, or otherwise inhabit, the idol. We see a converse truth to this for believers with the Holy Spirit indwelling in our temple, i.e., body (1 Corinthians 6:19).
 
 ## Building a Foundation
 ### Peter and Jude
-Let's lay some additional groundwork as it will become an important build-up later on. In 2nd Peter 2:4, we have Peter describing the following:
+Let's lay some additional groundwork as it will become an important build-up later on. In 2 Peter 2:4, we have Peter describing the following:
 
-> <u>2nd Peter 2:4:</u> For if God did not spare angels when they sinned, but cast them into hell and committed them to chains of gloomy darkness to be kept until the judgment;
+> <u>2 Peter 2:4:</u> For if God did not spare angels when they sinned, but cast them into hell and committed them to chains of gloomy darkness to be kept until the judgment;
 
 Let's keep two things in mind here as we move forward: (1) `angels when they sinned` and (2) `chains...until judgment`. We have angels that sinned and are currently being bound by chains in Hell (Tartarus). Jude describes it almost the exact same way in Jude 1:6, but he notes an interesting distinction:
 
@@ -83,19 +83,13 @@ Demons are often taught to be fallen angels. This is somewhat close to the truth
 2. [The Unseen Realm](https://www.youtube.com/watch?v=2QM7anD5vSI)
 3. [Aliens and Demons: Evidence of the Unseen Realm](https://www.youtube.com/watch?v=ThmF7OErkxY)
 
-<script>
-var refTagger = {
-  settings: {
-    bibleVersion: 'ESV'
-  }
-}; 
-
-(function(d, t) {
-  var n=d.querySelector('[nonce]');
-  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-  g.nonce = refTagger.settings.nonce;
-  s.parentNode.insertBefore(g, s);
-}(document, 'script'));
+<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+BLB.Tagger.Translation = 'ESV';
+BLB.Tagger.HyperLinks = 'all'; 
+BLB.Tagger.HideTanslationAbbrev = false;
+BLB.Tagger.TargetNewWindow = true;
+BLB.Tagger.Style = 'par'; 
+BLB.Tagger.NoSearchTagNames = '';
+BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; 
 </script>
