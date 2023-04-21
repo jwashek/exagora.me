@@ -88,20 +88,14 @@ Using deductive reasoning by what we now know of the universe having a point in 
 9. https://www.space.com/jupiter-impacts-observation-science
 10. https://apologeticspress.org/god-and-the-laws-of-science-the-laws-of-probability-3726
 
-<script>
-var refTagger = {
-  settings: {
-    bibleVersion: 'ESV'
-  }
-}; 
-
-(function(d, t) {
-  var n=d.querySelector('[nonce]');
-  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-  g.nonce = refTagger.settings.nonce;
-  s.parentNode.insertBefore(g, s);
-}(document, 'script'));
+<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+BLB.Tagger.Translation = 'ESV';
+BLB.Tagger.HyperLinks = 'all'; 
+BLB.Tagger.HideTanslationAbbrev = false;
+BLB.Tagger.TargetNewWindow = true;
+BLB.Tagger.Style = 'par'; 
+BLB.Tagger.NoSearchTagNames = '';
+BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; 
 </script>
 
