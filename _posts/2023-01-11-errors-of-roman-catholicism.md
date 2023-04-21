@@ -48,7 +48,7 @@ Let me pose a question to answer the next two defenses. Consider the following [
 > *2<sup>nd</sup>*: With all my heart I praise Thee, Most Holy Virgin above all angels and saints in Paradise, beloved Mother of the Son of God. I consecrate to Thee my body with all its senses.<br>
 > *3<sup>rd</sup>*: With all my heart I praise Thee, Most Holy Virgin above all angels and saints in Paradise, beloved Spouse of the Holy Ghost, I consecrate to Thee my heart, with all its affections and beseech Thee to obtain for me from the Most Holy Trinity all the graces necessary for salvation.
 
-My question is this: does this seem like an `intercessory prayer...to pray for us`; or does this seem like `honor...because she is the mother of Jesus`? That is absolutely abhorrent for Catholics to claim this type of prayer is intercessory, i.e., on our behalf, or just honoring Mary. This is worship, plain and simple. Reading the "Three Hail Mary's" above should make that abundantly clear. Consider Deuteronomy 6:5 which says for us to love the LORD with our whole heart, but Catholics are praising Mary with their whole heart and claiming it's just intercessory or honor? This type of delusional thinking can only be found in those who've been "*blinded by the god of this world*." (2nd Corinthians 4:4) Even more disgusting is the last part of the "Three Hail Mary's" where it mentions that Mary obtains for us `graces necessary for salvation`. Do you not see how this is placing more faith/trust/belief in Mary than in Jesus Christ? Catholics are praying to Mary and asking that she bestow upon them grace in order to obtain salvation. If you do not see the above as idolatry, I would ask that you carefully "*examine yourselves to see whether you are in the faith*" (2nd Corinthians 13:5), because this should be repugnant to any believer to feel okay in praying with this type of adoration, reverence, and worship to **anyone** other than Jesus Christ.
+My question is this: does this seem like an `intercessory prayer...to pray for us`; or does this seem like `honor...because she is the mother of Jesus`? That is absolutely abhorrent for Catholics to claim this type of prayer is intercessory, i.e., on our behalf, or just honoring Mary. This is worship, plain and simple. Reading the "Three Hail Mary's" above should make that abundantly clear. Consider Deuteronomy 6:5 which says for us to love the LORD with our whole heart, but Catholics are praising Mary with their whole heart and claiming it's just intercessory or honor? This type of delusional thinking can only be found in those who've been "*blinded by the god of this world*." (2 Corinthians 4:4) Even more disgusting is the last part of the "Three Hail Mary's" where it mentions that Mary obtains for us `graces necessary for salvation`. Do you not see how this is placing more faith/trust/belief in Mary than in Jesus Christ? Catholics are praying to Mary and asking that she bestow upon them grace in order to obtain salvation. If you do not see the above as idolatry, I would ask that you carefully "*examine yourselves to see whether you are in the faith*" (2 Corinthians 13:5), because this should be repugnant to any believer to feel okay in praying with this type of adoration, reverence, and worship to **anyone** other than Jesus Christ.
 
 **What Did Jesus Say of Mary?**<br>
 > <u>Luke 11:27-28</u>:<br>
@@ -73,7 +73,7 @@ Catholics do not believe in [*Sola Scriptura*](https://www.christianity.com/wiki
 
 > <u>Acts 17:11</u>: These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so.
 
-The Bereans were presented information and searched the scriptures to verify the claims and its truthfulness. Why would the Bereans be commended for searching the Scriptures--and only the Scriptures--to verify information they received if this wasn't supposed to be used as a supreme authority for believers? Paul goes a step further in instructing the Church at Corinth to "*not go beyond what is written*" in 1st Corinthians 4:6. Wouldn't it be safe to assume that going beyond what is written would be holding to tradition or other teachings other than the Scripture? Alternatively, Paul instructed the believers at the Church in Colossae to be vigilant so that they're not "*taken captive by vain deceit, after the traditions of men*" in Colossians 2:8. Scripture points this out in several places, but Catholics attempt to explain it away to keep their traditions taught through Catechisms or previous popes, which is strangely ironic since Jesus addressed this very thing in the book of Mark. Jesus mentioned 2 times in back-to-back verses that certain hypocrites were "*laying aside the commandments of God to hold to the traditions of men*." 
+The Bereans were presented information and searched the scriptures to verify the claims and its truthfulness. Why would the Bereans be commended for searching the Scriptures--and only the Scriptures--to verify information they received if this wasn't supposed to be used as a supreme authority for believers? Paul goes a step further in instructing the Church at Corinth to "*not go beyond what is written*" in 1 Corinthians 4:6. Wouldn't it be safe to assume that going beyond what is written would be holding to tradition or other teachings other than the Scripture? Alternatively, Paul instructed the believers at the Church in Colossae to be vigilant so that they're not "*taken captive by vain deceit, after the traditions of men*" in Colossians 2:8. Scripture points this out in several places, but Catholics attempt to explain it away to keep their traditions taught through Catechisms or previous popes, which is strangely ironic since Jesus addressed this very thing in the book of Mark. Jesus mentioned 2 times in back-to-back verses that certain hypocrites were "*laying aside the commandments of God to hold to the traditions of men*." 
 
 > <u>Mark 7:6-9</u>:<br>
 > **6** He answered and said unto them, Well hath Esaias prophesied of you hypocrites, as it is written, This people honoureth me with their lips, but their heart is far from me.<br>
@@ -96,7 +96,7 @@ Much like the Catechisms, Catholics hold church traditions on the same playing f
 
 The problem with holding to these traditions is that most of them are not even based off Scripture, or for the ones that are, they are being heavily twisted to fit the Catholics' doctrine. For example, the sacraments (i.e., Baptism, Holy Communion, Confirmation, Reconciliation, Anointing the Sick, Marriage, and Ordination) include some truth found in Scripture. Take `baptism` for example. The issue here is that the Bible never mentions infants were baptized. 
 
-Another example can be seen through `confirmation`. It is biblical to anoint with oil and the laying on of hands through prayer is mentioned through the New Testament; however, this is twisted by Catholics by them typically taking the name of a saint symbolically to be their patron saint after confirmation. Paul condemned this thinking in 1st Corinthians 3:4-5 where the Corinthian church were claiming apostles that they followed. Paul says, "*why do you say you are of Paul or Apollos; we're just ministers by Who you believed*."
+Another example can be seen through `confirmation`. It is biblical to anoint with oil and the laying on of hands through prayer is mentioned through the New Testament; however, this is twisted by Catholics by them typically taking the name of a saint symbolically to be their patron saint after confirmation. Paul condemned this thinking in 1 Corinthians 3:4-5 where the Corinthian church were claiming apostles that they followed. Paul says, "*why do you say you are of Paul or Apollos; we're just ministers by Who you believed*."
 
 ### The Equation
 Tying this all back to the original theme and inspiration of this post through the math riddle, we looked at the objects (i.e., Mary, The Catechisms, and Church Tradition), and now it's time to put it all together and figure out the Catholics' equation--here being symbolic to their method of salvation. Just like an equation in mathematics being, `a statement that the values of two mathematical expressions are equal`, Catholicism's equation for salvation includes: baptism, good works, faith, keeping the sacraments, keeping the Ten Commandments, and penance.
@@ -114,19 +114,13 @@ This is very dangerous doctrine and is clearly another gospel (Galatians 1:8-9).
 ## Conclusion
 Catholicism adds heretical teachings (objects) to their plan of salvation (equation) which throws off the entirety of the true sum (Christ) they claim their equation points to. However, these objects such as Mary, the Catechisms, and church tradition hold little to no Biblical truth. For example, Catholics claim they do not worship Mary, yet they recite "Hail Mary's" and even a more blasphemous version called the "Three Hail Mary's" where they state, "With my whole heart, I praise thee." Additionally, you do not need to search very far before you see pictures of Catholics bowing down to and praying to statues of Mary. A second object Catholics add to their equation is that of the Catechisms. These are essential teachings of the Catholic church that sandwich Biblical truth with traditions or teachings of men, such as that of the sacraments. The sacraments are, according to Catholics themselves, essential for salvation. So much so that they claim anathema (or a curse) upon those that do not believe the sacraments are necessary for salvation. These heretical teachings are "another Gospel" as Galatians 1:8-9 state and point to another Jesus. Since their equation adds their own heresies such as infant baptism, keeping the Ten Commandments, performing good works, confession, confirmation, penance, and a slew of other additions, their sum will never align with the true Sum.
 
-<script>
-var refTagger = {
-  settings: {
-    bibleVersion: 'ESV'
-  }
-}; 
-
-(function(d, t) {
-  var n=d.querySelector('[nonce]');
-  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-  g.nonce = refTagger.settings.nonce;
-  s.parentNode.insertBefore(g, s);
-}(document, 'script'));
+<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+BLB.Tagger.Translation = 'ESV';
+BLB.Tagger.HyperLinks = 'all'; 
+BLB.Tagger.HideTanslationAbbrev = false;
+BLB.Tagger.TargetNewWindow = true;
+BLB.Tagger.Style = 'par'; 
+BLB.Tagger.NoSearchTagNames = '';
+BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; 
 </script>
