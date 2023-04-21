@@ -182,19 +182,13 @@ Keeping up with the extrabiblical theme, we can use yet another source in the no
 ## Conclusion
 The LDS Church claims the Book of Mormon is the real word of God and they claim that it's more correct than the Bible. However, the geography, or lack thereof, completely disproves the historicity of this claim. There is not a place on earth which aligns with the geographical maps of the LDS Church. Even then, the plants and animals mentioned throughout the Book of Mormon do not align with ancient America. Another major flaw the Book of Mormon fails at is with its lack of ancient manuscripts. There are zero manuscripts for the Book of Mormon except that of... the Book of Mormon itself which was written in 1830. Comparing that to the Bible, we have upwards of 40,000 ancient manuscripts. Lastly, we examined prophets. And if you recall, there is a test of a prophet found in Deuteronomy chapter 18. Every prophet in the Book of Mormon fails this test while the Bible holds true. As you hopefully now see with the evidence presented here, Mormonism is a false, made-up religion that has **zero** history or archaeology supporting its claims.
 
-<script>
-var refTagger = {
-  settings: {
-    bibleVersion: 'ESV'
-  }
-}; 
-
-(function(d, t) {
-  var n=d.querySelector('[nonce]');
-  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-  g.nonce = refTagger.settings.nonce;
-  s.parentNode.insertBefore(g, s);
-}(document, 'script'));
+<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+BLB.Tagger.Translation = 'ESV';
+BLB.Tagger.HyperLinks = 'all'; 
+BLB.Tagger.HideTanslationAbbrev = false;
+BLB.Tagger.TargetNewWindow = true;
+BLB.Tagger.Style = 'par'; 
+BLB.Tagger.NoSearchTagNames = '';
+BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; 
 </script>
