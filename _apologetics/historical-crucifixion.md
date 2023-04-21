@@ -22,7 +22,7 @@ Though the Romans were arguably the most notable proponents of crucifixion, it w
 It is often believed that the real reason for crucifixion was to be that of a deterrent, much like death by hanging. Most crucifixions regardless of culture were almost exclusively public for this reason. But some would argue it fulfills the human's primal nature for seeking revenge for crime and wrongdoing--just in an excruciatingly gruesome manner. 
 
 ### How Was Crucifixion Viewed?
-> <u>1st Corinthians 1:23</u>: But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness
+> <u>1 Corinthians 1:23</u>: But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness
 
 The Jews saw the cross as highly offensive, something they rarely discussed between themselves or with others. Whereas the Greeks saw the cross as something foolish to even consider. "*How can a god be a god if they suffer such a vile death?*" The Greeks typically mocked Christians in this manner. And, somewhat surprisingly, the Jews held to a common belief as the Greeks according to Deuteronomy 21:22-23 which states that if a sinner is hung on a tree, they are accursed of God. Therefore most Jews do not hold to teaching that Jesus was the true Messiah because the Messiah would have to be accursed if he hung from a tree like the Lord Jesus Christ did. Interestingly enough, Paul addresses this in Galatians 3:13 by saying that *Christ became a curse for us*. It was intended for the Messiah to address our curse of sin through this manner.
 
@@ -77,19 +77,13 @@ If even these scholars believe Jesus (a) did exist, (b) died through crucifixion
 ## Reference:
 1. https://www.livescience.com/65283-crucifixion-history.html#:~:text=In%20Rome%2C%20people%20condemned%20to,and%20legs%20by%20Roman%20soldiers.
 
-<script>
-var refTagger = {
-  settings: {
-    bibleVersion: 'ESV'
-  }
-}; 
-
-(function(d, t) {
-  var n=d.querySelector('[nonce]');
-  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-  g.nonce = refTagger.settings.nonce;
-  s.parentNode.insertBefore(g, s);
-}(document, 'script'));
+<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+BLB.Tagger.Translation = 'ESV';
+BLB.Tagger.HyperLinks = 'all'; 
+BLB.Tagger.HideTanslationAbbrev = false;
+BLB.Tagger.TargetNewWindow = true;
+BLB.Tagger.Style = 'par'; 
+BLB.Tagger.NoSearchTagNames = '';
+BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; 
 </script>
