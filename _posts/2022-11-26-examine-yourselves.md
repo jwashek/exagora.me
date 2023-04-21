@@ -16,7 +16,7 @@ tags:
 {% include toc %}
 
 ## Intro
-The Bible is filled with uncomfortable verses for believers and unbelievers alike. One such verse that strikes that uncomfortable bone in many Christians is that of 2nd Corinthians 13:5. The apostle Paul tells us in 2nd Corinthians 13:5 to examine ourselves whether we are in the faith. The latter portion of this verse in some versions render it, "*don't you know that Jesus Christ is in you?--unless you fail to meet the test*." What exactly is this *test* that we can use to apply to ourselves while examining our faith? The Bible doesn't explicitly mention a single test in reference to this verse, but fortunately for us, there are many things we can apply to ourselves in examining our faith, ensuring we do not fail this test. Some of these tests include the Word itself, checking our heart, reviewing the fruits in our lives, and understanding where our attitude towards God and sin resides. 
+The Bible is filled with uncomfortable verses for believers and unbelievers alike. One such verse that strikes that uncomfortable bone in many Christians is that of 2 Corinthians 13:5. The apostle Paul tells us in 2 Corinthians 13:5 to examine ourselves whether we are in the faith. The latter portion of this verse in some versions render it, "*don't you know that Jesus Christ is in you?--unless you fail to meet the test*." What exactly is this *test* that we can use to apply to ourselves while examining our faith? The Bible doesn't explicitly mention a single test in reference to this verse, but fortunately for us, there are many things we can apply to ourselves in examining our faith, ensuring we do not fail this test. Some of these tests include the Word itself, checking our heart, reviewing the fruits in our lives, and understanding where our attitude towards God and sin resides. 
 
 ## Examine Yourself
 ### Using the Word
@@ -31,13 +31,13 @@ We are told to search the Scriptures in various places--and for good reason. Not
 * "*Do I want to grow in my faith and understanding of the Word and apply it to my walk with Christ?*" 
 
 **The Book of 1<sup>st</sup> John**<br>
-Though I believe all the Bible is inspired and "*profitable for doctrine, for reproof, for correction, for instruction in righteousness*" (2nd Timothy 3:16), 1st John might be a unique outlier in that we can possibly use this book to **best** examine our walk with the Lord. To me, this is the de facto test of a true believer and follower of Christ. The entirety of 1st John can be summed up in chapter 5 verse 13 which reads:
+Though I believe all the Bible is inspired and "*profitable for doctrine, for reproof, for correction, for instruction in righteousness*" (2 Timothy 3:16), 1st John might be a unique outlier in that we can possibly use this book to **best** examine our walk with the Lord. To me, this is the de facto test of a true believer and follower of Christ. The entirety of 1st John can be summed up in chapter 5 verse 13 which reads:
 
-> <u>1st John 5:13</u>: These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.
+> <u>1 John 5:13</u>: These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.
 
-Since 1st John is written that we might know we have eternal life, we need to understand the principles taught in this book so we can examine ourselves properly within this context. This is a very serious matter and there's a reason Paul mentioned to examine ourselves in 2nd Corinthians. Remember the context of that verse (2nd Corinthians 13:5). Paul was writing to very carnal Christians at the church in Corinth and already wrote one letter to them due to their sin, divisions, and quarreling. They were clearly still having issues which caused Paul to articulate his message to them yet again. You can sense the frustration in 2nd Corinthians 13:1-2 in Paul by him saying, "*This is the 3rd time I am coming to you... if I come again, I will not spare*." He mentioned this just before telling them to examine themselves and test whether they were in the faith, because by all appearances of it, they were certainly not "walking the walk." 
+Since 1st John is written that we might know we have eternal life, we need to understand the principles taught in this book so we can examine ourselves properly within this context. This is a very serious matter and there's a reason Paul mentioned to examine ourselves in 2nd Corinthians. Remember the context of that verse (2 Corinthians 13:5). Paul was writing to very carnal Christians at the church in Corinth and already wrote one letter to them due to their sin, divisions, and quarreling. They were clearly still having issues which caused Paul to articulate his message to them yet again. You can sense the frustration in 2 Corinthians 13:1-2 in Paul by him saying, "*This is the 3rd time I am coming to you... if I come again, I will not spare*." He mentioned this just before telling them to examine themselves and test whether they were in the faith, because by all appearances of it, they were certainly not "walking the walk." 
 
-Why is this important to us today? We can just as easily (and often do) fall into the same traps and snares that sin can set up for us in our own lives. So, going back to 1st John, what are some of these principles so we can better test ourselves? Well, to name a few, some of these principles include (1) walking in the light (1st John 1:6-7), (2) keeping His commandments (1st John 2:3-5), (3) admitting your guilt and confessing your sins to Him (1st John 1:9), (4) decreasing sin's hold onto your life (1st John 3:5-6), (5) loving others (1st John 3:14), (6) living out your walk and not merely professing your faith (1st John 3:18-19), and (7) separating yourself from the world (1st John 2:15). If we understand what's taught here, certainly we can refer to this book while examining ourselves in our own faith, right? Absolutely, and we should! It's been said by many Christians that we should read 1st John at least monthly to maintain a constant state of examination of our faith. I can't say I disagree. Therefore, we can draw up some questions from 1st John through the principles taught which might include:
+Why is this important to us today? We can just as easily (and often do) fall into the same traps and snares that sin can set up for us in our own lives. So, going back to 1st John, what are some of these principles so we can better test ourselves? Well, to name a few, some of these principles include (1) walking in the light (1 John 1:6-7), (2) keeping His commandments (1 John 2:3-5), (3) admitting your guilt and confessing your sins to Him (1 John 1:9), (4) decreasing sin's hold onto your life (1 John 3:5-6), (5) loving others (1 John 3:14), (6) living out your walk and not merely professing your faith (1 John 3:18-19), and (7) separating yourself from the world (1 John 2:15). If we understand what's taught here, certainly we can refer to this book while examining ourselves in our own faith, right? Absolutely, and we should! It's been said by many Christians that we should read 1st John at least monthly to maintain a constant state of examination of our faith. I can't say I disagree. Therefore, we can draw up some questions from 1st John through the principles taught which might include:
 
 * "*Do I attempt to live right and walk in the light?*"
 * "*Am I keeping His commandments and being obedient?*"
@@ -69,7 +69,7 @@ What is your attitude towards sin? Towards God? These are two important question
 
 * "*Do I love my sin too much to put it to death?*"
 * "*Am I justifying sinful behavior in my life?*"
-* "*After I got saved, did I (and maybe others) sense a change in my life?*" (2nd Corinthians 5:17)
+* "*After I got saved, did I (and maybe others) sense a change in my life?*" (2 Corinthians 5:17)
 * "*Do I make conscious efforts to put on the 'new man?'*"
 * "*What is my view of God? Do I abuse His grace through constant sin?*"
 
@@ -87,21 +87,15 @@ Be honest with yourself when examining the fruits, much like any of the other to
 * "*Am I patient with others or am I notoriously short-tempered?*"
 
 ## Conclusion
-Now, put yourself to the test and prove your own faith (Galatians 6:4). Examining yourself can be a daunting and uncomfortable task--no doubt--but it should be viewed as *vitally* important for believers to ensure we're not merely professing Christians. Do you read your Bible and search the Scriptures with eagerness? Do you love others? Are you attempting to live right for Christ (Galatians 2:20)? Are you showing fruits of the Spirit? There are many questions we can pose to ourselves, but "walking the walk" is something we should always run towards. Test everything in your life (1st Thessalonians 5:21) against the Word and pray diligently to God that He will help you clean up areas of your life that you're not certain proves your faith. Though examining ourselves may be uncomfortable, we are commanded to test ourselves. Are you failing the test, or can you do better? We all can, sure, but owe it to yourself and be honest when examining your faith! 
+Now, put yourself to the test and prove your own faith (Galatians 6:4). Examining yourself can be a daunting and uncomfortable task--no doubt--but it should be viewed as *vitally* important for believers to ensure we're not merely professing Christians. Do you read your Bible and search the Scriptures with eagerness? Do you love others? Are you attempting to live right for Christ (Galatians 2:20)? Are you showing fruits of the Spirit? There are many questions we can pose to ourselves, but "walking the walk" is something we should always run towards. Test everything in your life (1 Thessalonians 5:21) against the Word and pray diligently to God that He will help you clean up areas of your life that you're not certain proves your faith. Though examining ourselves may be uncomfortable, we are commanded to test ourselves. Are you failing the test, or can you do better? We all can, sure, but owe it to yourself and be honest when examining your faith! 
 
-<script>
-var refTagger = {
-  settings: {
-    bibleVersion: 'ESV'
-  }
-}; 
-
-(function(d, t) {
-  var n=d.querySelector('[nonce]');
-  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-  g.nonce = refTagger.settings.nonce;
-  s.parentNode.insertBefore(g, s);
-}(document, 'script'));
+<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+BLB.Tagger.Translation = 'ESV';
+BLB.Tagger.HyperLinks = 'all'; 
+BLB.Tagger.HideTanslationAbbrev = false;
+BLB.Tagger.TargetNewWindow = true;
+BLB.Tagger.Style = 'par'; 
+BLB.Tagger.NoSearchTagNames = '';
+BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; 
 </script>
