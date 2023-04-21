@@ -92,7 +92,7 @@ Please understand, we will slip, trip, stumble and fall in our walk with Christ.
 
 <script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
 <script type='text/javascript'>
-BLB.Tagger.Translation = 'ESV';
+BLB.Tagger.Translation = 'KJV';
 BLB.Tagger.HyperLinks = 'all'; 
 BLB.Tagger.HideTanslationAbbrev = false;
 BLB.Tagger.TargetNewWindow = true;
