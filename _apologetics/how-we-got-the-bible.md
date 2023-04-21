@@ -37,7 +37,7 @@ From the moment Jesus died at around 33 A.D., creedal traditions were already be
 > he was buried...
 > he was raised on the third day in accordance with the Scriptures
 
-If this sounds like something straight from the Bible, that's because it is! This very creed was later added in 1st Corinthians 15:3-4 about 10-15 years later (~44-54 A.D.). Since those moments after Christ's resurrection and the decades to follow, the New Testament books were slowly being written by the likes of the apostles and other witnesses such as Matthew, Mark, Luke, John, Paul, Peter, James, and Jude. The last written book of the Bible was thought to be that of the Gospel of John or Revelation, but regardless of what the last written book might be, it's widely accepted that it was written in 95 A.D. Not even 100 years later, around 170 A.D., the [Muratorian Canon](https://www.julianspriggs.co.uk/Pages/MuratorianCanon) was compiled. This included *all* New Testament books except Hebrews, James, 1st Peter, 2nd Peter, and 3rd John. As for the Old Testament, around 250-300 A.D., it was generally accepted that the Hebrew canon of Scripture was complete<sup>[[7]](https://www.gotquestions.org/canon-Bible.html),[[8]](https://www.learnreligions.com/history-of-the-bible-timeline-700157)</sup> and recognized as official, authoritative canon. Athanasius of Alexandria in 367 A.D. identified all 27 books of the New Testament for the first time in history<sup>[[8]](https://www.learnreligions.com/history-of-the-bible-timeline-700157)</sup>. This means that after Christ died in ~33 A.D., it took about 330 years to have a compiled, accepted, recognized, and completed Bible. Now that we understand a bit of the history, how were these books assembled?
+If this sounds like something straight from the Bible, that's because it is! This very creed was later added in 1 Corinthians 15:3-4 about 10-15 years later (~44-54 A.D.). Since those moments after Christ's resurrection and the decades to follow, the New Testament books were slowly being written by the likes of the apostles and other witnesses such as Matthew, Mark, Luke, John, Paul, Peter, James, and Jude. The last written book of the Bible was thought to be that of the Gospel of John or Revelation, but regardless of what the last written book might be, it's widely accepted that it was written in 95 A.D. Not even 100 years later, around 170 A.D., the [Muratorian Canon](https://www.julianspriggs.co.uk/Pages/MuratorianCanon) was compiled. This included *all* New Testament books except Hebrews, James, 1st Peter, 2nd Peter, and 3rd John. As for the Old Testament, around 250-300 A.D., it was generally accepted that the Hebrew canon of Scripture was complete<sup>[[7]](https://www.gotquestions.org/canon-Bible.html),[[8]](https://www.learnreligions.com/history-of-the-bible-timeline-700157)</sup> and recognized as official, authoritative canon. Athanasius of Alexandria in 367 A.D. identified all 27 books of the New Testament for the first time in history<sup>[[8]](https://www.learnreligions.com/history-of-the-bible-timeline-700157)</sup>. This means that after Christ died in ~33 A.D., it took about 330 years to have a compiled, accepted, recognized, and completed Bible. Now that we understand a bit of the history, how were these books assembled?
 
 ### How the Bible Was Assembled
 #### The Old Testament
@@ -84,19 +84,13 @@ Understanding how the Bible came to be is important for Christians to bolster th
 14. https://sabbathsentinel.org/2016/11/10/council-of-laodicea-364-ad/
 15. https://www.gotquestions.org/Council-of-Carthage.html
   
-  <script>
-var refTagger = {
-  settings: {
-    bibleVersion: 'ESV'
-  }
-}; 
-
-(function(d, t) {
-  var n=d.querySelector('[nonce]');
-  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-  g.nonce = refTagger.settings.nonce;
-  s.parentNode.insertBefore(g, s);
-}(document, 'script'));
+<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+BLB.Tagger.Translation = 'ESV';
+BLB.Tagger.HyperLinks = 'all'; 
+BLB.Tagger.HideTanslationAbbrev = false;
+BLB.Tagger.TargetNewWindow = true;
+BLB.Tagger.Style = 'par'; 
+BLB.Tagger.NoSearchTagNames = '';
+BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; 
 </script>
