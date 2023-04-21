@@ -30,7 +30,7 @@ In Jesus' day, washing of the guests' feet was done by the humblest of servants.
 This was a lesson on humility and service to others that the disciples sorely needed to take to heart. And I would also add that this very lesson is one we desperately need as believers today, too. We are not above service or humility regardless of our position with the Lord. If Jesus set the example, we need to live by those examples as well.
 
 ## Symbolism
-Now, through this example, we can gather some awesome symbolism and apply it to our Christian walk. Only the feet needed washed if a guest had bathed properly beforehand. Once Peter rejects the idea of his feet being washed by Jesus, this brings Jesus to say in verse 8, "*if I don't wash you, you have no part with me*." Did Jesus really mean that if the disciples didn't allow Him to wash their feet, that was just it for them; they were done; they had no part with Jesus for simply not allowing that small task He was trying to accomplish? I don't think so; I believe it goes much deeper than what's seen on the surface. Now, here's the symbolism. Salvation is often taught in terms of being washed and cleansed (1st Corinthians 6:11) and Jesus was telling the truth that they wouldn't have any part with Him if He didn't wash them. But He was clearly referring to salvation. Notice what Jesus *doesn't* say here. He doesn't mention washing of feet. "*If I don't **wash you**, you have no part with me* (emphasis added)." Jesus goes a little further in the latter part of verse 10 by saying Peter is clean, but not all the disciples are clean (obviously referring to Judas). Not only was Jesus teaching a lesson in service and humility, but He was also drawing comparisons of being bathed to salvation. And now comes the interesting part. The Greek word used for `washed` in verse 10 is ["louō"](https://www.blueletterbible.org/lexicon/g3068/kjv/tr/0-1/), which has the meaning:
+Now, through this example, we can gather some awesome symbolism and apply it to our Christian walk. Only the feet needed washed if a guest had bathed properly beforehand. Once Peter rejects the idea of his feet being washed by Jesus, this brings Jesus to say in verse 8, "*if I don't wash you, you have no part with me*." Did Jesus really mean that if the disciples didn't allow Him to wash their feet, that was just it for them; they were done; they had no part with Jesus for simply not allowing that small task He was trying to accomplish? I don't think so; I believe it goes much deeper than what's seen on the surface. Now, here's the symbolism. Salvation is often taught in terms of being washed and cleansed (1 Corinthians 6:11) and Jesus was telling the truth that they wouldn't have any part with Him if He didn't wash them. But He was clearly referring to salvation. Notice what Jesus *doesn't* say here. He doesn't mention washing of feet. "*If I don't **wash you**, you have no part with me* (emphasis added)." Jesus goes a little further in the latter part of verse 10 by saying Peter is clean, but not all the disciples are clean (obviously referring to Judas). Not only was Jesus teaching a lesson in service and humility, but He was also drawing comparisons of being bathed to salvation. And now comes the interesting part. The Greek word used for `washed` in verse 10 is ["louō"](https://www.blueletterbible.org/lexicon/g3068/kjv/tr/0-1/), which has the meaning:
 
 ```
 1. to bathe, wash
@@ -40,29 +40,23 @@ Now, through this example, we can gather some awesome symbolism and apply it to 
 
 See part `A.` which mentions, "*of a dead person*?" We all were dead in our sins (Ephesians 2:5), and exactly as is seen above, we needed to be washed in our dead state--something that can only be done through faith in Jesus Christ!
 
-However, the symbolism doesn't stop there. Although Christians are clean and were bathed by the washing of regeneration (Titus 3:5), sins committed after salvation still soil our feet. This "soiling of our feet" hinders our fellowship with God which in turn draws the need for us to restore and renew that fellowship by washing our feet. When we sense sin our lives, we must repent and confess this to God who will cleanse and forgive us of all unrighteousness (1st John 1:9).
+However, the symbolism doesn't stop there. Although Christians are clean and were bathed by the washing of regeneration (Titus 3:5), sins committed after salvation still soil our feet. This "soiling of our feet" hinders our fellowship with God which in turn draws the need for us to restore and renew that fellowship by washing our feet. When we sense sin our lives, we must repent and confess this to God who will cleanse and forgive us of all unrighteousness (1 John 1:9).
 
 ## Christian Application
-As Christians, we should take this story and apply it to our walk with the Lord. We are cleansed; we are washed, but when we are convicted of sin in our lives, we should take the appropriate steps and confess that sin before God. Sin has very serious and very real consequences. Sin brings about death (Romans 6:23). As believers, if we walk in the darkness and claim we are living in fellowship with Christ, we are called liars (1st John 1:6). Remember, the unrighteous will not inherit the kingdom of God (1st Corinthians 6:9-10, Ephesians 5:5-6, Galatians 5:19-21, and Revelation 21:8), so we should have no part in sin if we have put it to death (Romans 6:11). 
+As Christians, we should take this story and apply it to our walk with the Lord. We are cleansed; we are washed, but when we are convicted of sin in our lives, we should take the appropriate steps and confess that sin before God. Sin has very serious and very real consequences. Sin brings about death (Romans 6:23). As believers, if we walk in the darkness and claim we are living in fellowship with Christ, we are called liars (1 John 1:6). Remember, the unrighteous will not inherit the kingdom of God (1 Corinthians 6:9-10, Ephesians 5:5-6, Galatians 5:19-21, and Revelation 21:8), so we should have no part in sin if we have put it to death (Romans 6:11). 
 
-A second aspect of this story we should take into consideration is the overall lesson. We must apply to ourselves this lesson of humility which will better equip us to serve others with humble hearts and meekness. But, not in the literal sense of "washing feet," no, we should apply this to every situation in our lives in love and service to others! We should try and outdo each other by showing honor (Romans 12:10) and hospitality (1st Peter 4:9, Romans 12:13, and Hebrews 13:2).
+A second aspect of this story we should take into consideration is the overall lesson. We must apply to ourselves this lesson of humility which will better equip us to serve others with humble hearts and meekness. But, not in the literal sense of "washing feet," no, we should apply this to every situation in our lives in love and service to others! We should try and outdo each other by showing honor (Romans 12:10) and hospitality (1 Peter 4:9, Romans 12:13, and Hebrews 13:2).
 
 ## Conclusion
 Sometimes we see stories in the Bible as just events that occurred, but very often these stories are lessons in and of themselves that contain useful symbolism to us--lessons that we can apply to ourselves as well. One such case of this is the story of Jesus washing the disciples' feet. Jesus drew a two-fold comparison of this action. First, He was instructing the disciples in a lesson of service and humility since there was strife and contention between them for who would be the greatest between them. Second, Jesus drew comparisons of bathing to that of salvation. Since the disciples were already "bathed" (saved), it was only necessary to wash their feet. As Christians today, we should apply this to our walk with the Lord by confessing sin in our lives (wash our feet) to restore fellowship with God, but recognize that we have also been saved (bathed) in Jesus Christ.
 
-<script>
-var refTagger = {
-  settings: {
-    bibleVersion: 'ESV'
-  }
-}; 
-
-(function(d, t) {
-  var n=d.querySelector('[nonce]');
-  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-  g.nonce = refTagger.settings.nonce;
-  s.parentNode.insertBefore(g, s);
-}(document, 'script'));
+<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+BLB.Tagger.Translation = 'ESV';
+BLB.Tagger.HyperLinks = 'all'; 
+BLB.Tagger.HideTanslationAbbrev = false;
+BLB.Tagger.TargetNewWindow = true;
+BLB.Tagger.Style = 'par'; 
+BLB.Tagger.NoSearchTagNames = '';
+BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; 
 </script>
