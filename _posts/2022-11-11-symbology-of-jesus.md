@@ -19,7 +19,7 @@ Symbolism is one method that the Bible uses to convey complex ideas to the reade
 
 ## Jesus Is...
 ### The Door
-The days leading up to the flood were perilous to say the least. So much so that the entire world was slated to be destroyed due to their sin and rebellion. Noah and his family were spared from God's wrath as they found favor in His sight. Through their obedience to God's instruction for them to build the ark, they were saved from the flood--the ark was the only way. Though the other people of that time had ample opportunities to listen and get into the ark themselves (1st Peter 3:20), they loved their sin and lives too much to care, making a mockery of the situation. Once God shut the door to the ark, it was now too late for the people. All they had to do was enter through the door.
+The days leading up to the flood were perilous to say the least. So much so that the entire world was slated to be destroyed due to their sin and rebellion. Noah and his family were spared from God's wrath as they found favor in His sight. Through their obedience to God's instruction for them to build the ark, they were saved from the flood--the ark was the only way. Though the other people of that time had ample opportunities to listen and get into the ark themselves (1 Peter 3:20), they loved their sin and lives too much to care, making a mockery of the situation. Once God shut the door to the ark, it was now too late for the people. All they had to do was enter through the door.
 
 Just as the ark was the sole protection and salvation for Noah and his family, Jesus is our sole protection and salvation; He is our door: 
 
@@ -33,7 +33,7 @@ And just as there was no other way in the days of Noah, Jesus is the only way fo
 ### The Ladder
 > <u>Genesis 28:12:</u> And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it.
 
-Jacob dreamed about a ladder where angels were ascending and descending to earth. This is symbolic of a bridge of sorts, bridging the gap from us to heaven. In John 1:51, Jesus equated Himself to being the ladder by saying, "*...angels of God ascending and descending **upon** the Son of man* (emphasis added)." It's remarkable how Jesus called Himself the very ladder that provides us an access point to God (1st Timothy 2:5), because that's exactly what He is. Many of these symbolic references are to salvation, and this one is no different. All we need to do is take the Ladder to reach heaven, our ultimate destination and salvation.
+Jacob dreamed about a ladder where angels were ascending and descending to earth. This is symbolic of a bridge of sorts, bridging the gap from us to heaven. In John 1:51, Jesus equated Himself to being the ladder by saying, "*...angels of God ascending and descending **upon** the Son of man* (emphasis added)." It's remarkable how Jesus called Himself the very ladder that provides us an access point to God (1 Timothy 2:5), because that's exactly what He is. Many of these symbolic references are to salvation, and this one is no different. All we need to do is take the Ladder to reach heaven, our ultimate destination and salvation.
 
 ### The Bronze Serpent
 > <u>John 3:14:</u> And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up
@@ -48,14 +48,14 @@ Jesus likened Himself to being lifted up just as the serpent in the wilderness w
 > **8** And the Lord said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.<br>
 > **9** And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.
 
-Much like the serpents in the wilderness, we all are bitten with sin and will suffer a second death if we do not look with faith to Jesus. I want to draw your attention to something very interesting in this passage. Notice how God instructed Moses to construct a fiery serpent--the very thing that was killing the Israelites. This symbology carries its weight all the way to the Cross. The very thing that is killing us, sin, is exactly what Jesus became so we might become righteous through our faith in Him (2nd Corinthians 5:21)--much like the serpents which were killing the Israelites. This symbolism is truly astounding in this passage and here's just a few more relations we can draw from it and apply to Jesus:
+Much like the serpents in the wilderness, we all are bitten with sin and will suffer a second death if we do not look with faith to Jesus. I want to draw your attention to something very interesting in this passage. Notice how God instructed Moses to construct a fiery serpent--the very thing that was killing the Israelites. This symbology carries its weight all the way to the Cross. The very thing that is killing us, sin, is exactly what Jesus became so we might become righteous through our faith in Him (2 Corinthians 5:21)--much like the serpents which were killing the Israelites. This symbolism is truly astounding in this passage and here's just a few more relations we can draw from it and apply to Jesus:
 
 | Symbols in Numbers  | Symbols in Jesus  |
 |---|---|
 | the pole which the Bronze Serpent was set upon  | the Cross where Christ was crucified  |
 | Bronze Serpent  | Jesus  |
 | fiery serpents  | sin  |
-| fiery serpent's bite  | the sting of death (1st Corinthians 15:56a)  |
+| fiery serpent's bite  | the sting of death (1 Corinthians 15:56a)  |
 | looking at the Bronze Serpent  | looking to Jesus (Hebrews 12:2)  |
 | physical healing by faith in the Bronze Serpent | spiritual healing by faith in Jesus |
 
@@ -71,7 +71,7 @@ In the Old Testament, a scapegoat was used for the sins of the people by Aaron l
 ### The Passover Lamb
 The Passover was an event detailed in the book of Exodus where God struck down the first-born child of the Egyptians. This also happened to be the final plague that God spread against Pharoah because of him not letting the Israelites go out from captivity. Before the events of the Passover, though, a lamb was slain and the blood was applied across the doorposts of every household to which the death angel was to pass over. God stated that the blood would be a sign and when He saw the blood on the door (Exodus 12:13), the plague would not affect those which had the blood applied. This was how He differentiated the Egyptians by the Israelites. 
 
-Often, the heart is seen as a door; something we can open to receive someone or shut to deny them (Revelation 3:20). And just as they applied literal blood to the doorposts for the death angel to pass over, we must apply Jesus' blood to our door--our heart--through faith in Him (Romans 3:25)! Jesus was the precious Lamb that was slain (1st Corinthians 5:7) for His blood to be applied to our account by faith in Him.
+Often, the heart is seen as a door; something we can open to receive someone or shut to deny them (Revelation 3:20). And just as they applied literal blood to the doorposts for the death angel to pass over, we must apply Jesus' blood to our door--our heart--through faith in Him (Romans 3:25)! Jesus was the precious Lamb that was slain (1 Corinthians 5:7) for His blood to be applied to our account by faith in Him.
 
 ### The Grain of Wheat
 Harvest time is when the wheat plant dies. It is cut off from its stock. The Bible often draws a comparison of being cut off to dying--more on this later, though. Now, if just one seed is planted from a wheat plant which has died, this single seed, given enough time, will fill an **entire** field and bring about a largely abundant harvest. Jesus even mentioned this exact scenario in John 12:23-24.
@@ -85,19 +85,13 @@ When Jesus died on the Cross, He was "*cut off*" (Daniel 9:26). And when He was 
 ## Conclusion
 The Bible produces amazing symbolism to Jesus all throughout the Scriptures. This symbology can be expressed to help us better understand more complex ideas that it’s trying to present to us. Some of these symbolic references to Jesus include Him being referred to as a door--such as the door to Noah's ark; a ladder--such as Jacob's ladder where angels were ascending and descending from heaven; and a Bronze Serpent--such as how the book of Numbers presents the Israelites' salvation through their looking upon the Serpent. In any case, and even in those that weren't included here (for there are **many more** symbolic references not mentioned in this post) we can observe them to all have the same similarity: Jesus is referred to everywhere!
 
-<script>
-var refTagger = {
-  settings: {
-    bibleVersion: 'ESV'
-  }
-}; 
-
-(function(d, t) {
-  var n=d.querySelector('[nonce]');
-  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-  g.nonce = refTagger.settings.nonce;
-  s.parentNode.insertBefore(g, s);
-}(document, 'script'));
+<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+BLB.Tagger.Translation = 'ESV';
+BLB.Tagger.HyperLinks = 'all'; 
+BLB.Tagger.HideTanslationAbbrev = false;
+BLB.Tagger.TargetNewWindow = true;
+BLB.Tagger.Style = 'par'; 
+BLB.Tagger.NoSearchTagNames = '';
+BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; 
 </script>
