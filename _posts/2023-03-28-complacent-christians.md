@@ -25,7 +25,7 @@ This post is going to be a little more raw than anything I've posted before. I'm
 
 ## What Do I Mean by Complacency? 
 ### Definition
-The Oxford dictionary defines complacency as, "*a feeling of smug or uncritical satisfaction with oneself or one's achievements*." Or, as I like to call it, a "lazy pride." Applying this to our Christian lives, we become lazy in critiquing our walk with the Lord or examining ourselves (2nd Corinthians 13:5). 
+The Oxford dictionary defines complacency as, "*a feeling of smug or uncritical satisfaction with oneself or one's achievements*." Or, as I like to call it, a "lazy pride." Applying this to our Christian lives, we become lazy in critiquing our walk with the Lord or examining ourselves (2 Corinthians 13:5). 
 
 ### A Simple Illustration
 Let me use a simple illustration to describe what I mean. When I was in the Marine Corps, the most common phrase they drilled into our heads when referring to combat and deployments was, "*complacency kills*." The idea of this is quite simple: *if you let your guard down, then you're dead*. Complacency can range from a lack of alertness to getting lazy and anything in between. Imagine being on a deployment and you're patrolling the same area every day. What if the enemy catches onto this and notices you've become predictable? Maybe you start and end at the exact same times every day. Maybe your route never changes.  
@@ -55,21 +55,21 @@ A big idol for me in my early walk with Christ was my work and my own dreams and
 Another idol that I noticed I was spending *way* too much time at was playing video games. This went on for many, many years. But it wasn't until my wife got sick with cancer in July 2021 where I started to realize how much time we have on this earth and how much of that time that I was wasting. And even when I was struck with this terrifying realization, I noticed myself escaping my reality in these little virtual worlds in video games more so than running to God. Sure, I prayed harder than I ever have in my life, I fasted, I changed a lot of things, and I supported my wife throughout her battle, but none of that mattered. She passed away in June 2022. I wasted **SO** much time. Time that I'll never, ever get back. These are things I deeply regret to this day. And rightfully so. I could have been so much better. So much better in my walk with the Lord in serving Him and so much better as a spiritual leader to my wife. We all can be better in removing idols in our lives. But let's not wait until tragedy strikes like I did. Time is too short, but there's a sort of beauty in that: this moment right now is not too late. Turn from your idols and turn to God. Be honest with yourself. Where are you spending your time?  
 
 ### In Allowing Sin
-The worst way we can get complacent in our Christian walk is by allowing sin in our lives. Sin is serious. Sin has consequences. The weak version of Christianity today tells us that we can't out-sin God's grace. Even if we could live in constant, unrepentant, unconfessed sin before the Lord, why even try? Does that not show where our hearts are? Jesus said that whoever sins is a slave to it (John 8:34). How can we expect to be called a child of God if we're practicing sin (1st John 3:7-8) by constantly living in it? For me, I am ashamed to admit I let some stupid things back into my life over the course of years. Things that I would justify. Things that I would say like, "everyone struggles with sin" or "God will forgive me of this." I abused God's grace. Is that what you're doing today? Think of sin right now that may be in your life. Have you become so complacent that it's part of you now? Repent and turn that over to God! Sin is like a weed. When we first notice it, we think it's too small and therefore not of much concern. But before we know it, it grows rapidly and will choke out other plants while shooting its roots deeper and deeper into the soil, making it harder to uproot the longer it grows. No matter how small you think a sin may be, it may not always be that way. Just like a weed, sin grows rapidly and sin spreads. Take care of it immediately. 
+The worst way we can get complacent in our Christian walk is by allowing sin in our lives. Sin is serious. Sin has consequences. The weak version of Christianity today tells us that we can't out-sin God's grace. Even if we could live in constant, unrepentant, unconfessed sin before the Lord, why even try? Does that not show where our hearts are? Jesus said that whoever sins is a slave to it (John 8:34). How can we expect to be called a child of God if we're practicing sin (1 John 3:7-8) by constantly living in it? For me, I am ashamed to admit I let some stupid things back into my life over the course of years. Things that I would justify. Things that I would say like, "everyone struggles with sin" or "God will forgive me of this." I abused God's grace. Is that what you're doing today? Think of sin right now that may be in your life. Have you become so complacent that it's part of you now? Repent and turn that over to God! Sin is like a weed. When we first notice it, we think it's too small and therefore not of much concern. But before we know it, it grows rapidly and will choke out other plants while shooting its roots deeper and deeper into the soil, making it harder to uproot the longer it grows. No matter how small you think a sin may be, it may not always be that way. Just like a weed, sin grows rapidly and sin spreads. Take care of it immediately. 
 
 ## How To Combat Complacency
 ### (1.) Be Vigilant
-If we are to combat complacency, we must be alert. We must be vigilant. The Bible says to be sober-minded and vigilant as the devil roams around seeking whom he may devour (1st Peter 5:8). This is you. This is me. It starts with being honest with yourself. Is there a sin in your life that you need to get rid of? Are you serving God to the best of your ability? Are you reading your Bible? The list goes on but think of areas of your Christian walk with the Lord where you might be getting sluggish, slack, or lazy. If you're not making conscious efforts of examining yourselves (2nd Corinthians 13:5), then you're losing out on potential opportunities to see sluggishness before it turns into complacency. Be deligent in your faith!
+If we are to combat complacency, we must be alert. We must be vigilant. The Bible says to be sober-minded and vigilant as the devil roams around seeking whom he may devour (1 Peter 5:8). This is you. This is me. It starts with being honest with yourself. Is there a sin in your life that you need to get rid of? Are you serving God to the best of your ability? Are you reading your Bible? The list goes on but think of areas of your Christian walk with the Lord where you might be getting sluggish, slack, or lazy. If you're not making conscious efforts of examining yourselves (2 Corinthians 13:5), then you're losing out on potential opportunities to see sluggishness before it turns into complacency. Be deligent in your faith!
 
 ### (2.) Read the Bible
-> <u>2nd Timothy 3:16-17</u>:<br>
+> <u>2 Timothy 3:16-17</u>:<br>
 > **16** All scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness:<br>
 > **17** That the man of God may be perfect, thoroughly furnished unto all good works.
 
 The interesting thing about the above passage is how verse 17 is directly linked to verse 16 through a colon. The word `that` points back to `scripture`, so we can summarize that passage to mean: God's inspired Word, properly used and applied, provides us all we need for life and our walk with the Lord. We can take this a step further and assume if we're not reading His Word, we're not equipped to believe the right things [...for doctrine], we won't know what is wrong [...for reproof], we won't know how to correct wrong [...for correction], we won't know how to live properly [...for instruction in righteousness], and we won't have everything needed to do what God wants us to do [...perfect (Greek word "[artios](https://www.blueletterbible.org/lexicon/g739/kjv/tr/0-1/)", meaning *fitted, complete; proficient, capable*)]. 
 
 ### (3.) Add to Your Faith
-In 2nd Peter 1:5-10, Peter tells us to add to our faith these things:
+In 2 Peter 1:5-10, Peter tells us to add to our faith these things:
 
  * virtue
  * knowledge
@@ -99,21 +99,15 @@ Lastly, walk by the Spirit (Galatians 5:16). If we do, we won't satisfy the desi
 These are things we need to be listening to if we're to combat complacency. The easiest way to distinguish if that little voice in our head is the Holy Spirit is by asking yourself: *does this align with Scripture and what God's will is?* If the answer is "yes," do not quench the Spirit, but take care of the task immediately.
 
 ## Conclusion
-Complacency is defined as, "*a feeling of smug or uncritical satisfaction with oneself or one's achievements*." This is so easy to do in our Christian walk. We become complacent when we become satisfied and uncritical of ourselves. Or, as Hebrews 6:12 mentions, sluggish. Being sluggish will lead to complacency. Some areas as Christians where we become complacent is in reading the Bible, idols in our lives, or through the acceptance of sin into our lives. Just because we've become sluggish, though, does not mean there's no hope for us. We can combat complacency in our Christian walk by being vigilant and alert. We need to examine ourselves and be honest with ourselves if we want to be right with God. It all starts there. A second way we can combat complacency is by reading the Bible. This may seem obvious, but a wonderful passage in 2nd Timothy 3:16-17 tells us just how important Scripture is. Lastly, being led by the Spirit is another way how we can combat complacency. If we get feelings or thoughts telling us to do something (or **not** to do something) and it aligns clearly with Scripture, we should not quench the Spirit (1st Thessalonians 5:19), but listen and obey. I hope this was an encouragement to you and that you can take something away from this. But I urge you to examine your own walk, be honest with yourself, and get right with God if you're living as a complacent Christian.
+Complacency is defined as, "*a feeling of smug or uncritical satisfaction with oneself or one's achievements*." This is so easy to do in our Christian walk. We become complacent when we become satisfied and uncritical of ourselves. Or, as Hebrews 6:12 mentions, sluggish. Being sluggish will lead to complacency. Some areas as Christians where we become complacent is in reading the Bible, idols in our lives, or through the acceptance of sin into our lives. Just because we've become sluggish, though, does not mean there's no hope for us. We can combat complacency in our Christian walk by being vigilant and alert. We need to examine ourselves and be honest with ourselves if we want to be right with God. It all starts there. A second way we can combat complacency is by reading the Bible. This may seem obvious, but a wonderful passage in 2 Timothy 3:16-17 tells us just how important Scripture is. Lastly, being led by the Spirit is another way how we can combat complacency. If we get feelings or thoughts telling us to do something (or **not** to do something) and it aligns clearly with Scripture, we should not quench the Spirit (1st Thessalonians 5:19), but listen and obey. I hope this was an encouragement to you and that you can take something away from this. But I urge you to examine your own walk, be honest with yourself, and get right with God if you're living as a complacent Christian.
 
-<script>
-var refTagger = {
-  settings: {
-    bibleVersion: 'ESV'
-  }
-}; 
-
-(function(d, t) {
-  var n=d.querySelector('[nonce]');
-  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-  g.nonce = refTagger.settings.nonce;
-  s.parentNode.insertBefore(g, s);
-}(document, 'script'));
+<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+BLB.Tagger.Translation = 'ESV';
+BLB.Tagger.HyperLinks = 'all'; 
+BLB.Tagger.HideTanslationAbbrev = false;
+BLB.Tagger.TargetNewWindow = true;
+BLB.Tagger.Style = 'par'; 
+BLB.Tagger.NoSearchTagNames = '';
+BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; 
 </script>
