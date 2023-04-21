@@ -47,7 +47,7 @@ Back to our original passage; the Amplified version puts Exodus 20:7 in this way
 
 > <u>Exodus 20:7</u> You shall not take the name of the Lord your God in vain [that is, irreverently, in false affirmations or in ways that impugn the character of God]; for the Lord will not hold guiltless nor leave unpunished the one who takes His name in vain [disregarding its reverence and its power].
 
-How true is it that we impugn (or call into question) God's character when we, as ambassadors who supposedly walk in Him, do the very things that God is against? We claim to love Him, yet our deeds prove otherwise (1st John 3:18). We do not always bear God's name the way we are called to, instead we misrepresent Him in our actions and the outside world receives a perception of God not fitting for who He truly is. 
+How true is it that we impugn (or call into question) God's character when we, as ambassadors who supposedly walk in Him, do the very things that God is against? We claim to love Him, yet our deeds prove otherwise (1 John 3:18). We do not always bear God's name the way we are called to, instead we misrepresent Him in our actions and the outside world receives a perception of God not fitting for who He truly is. 
 
 ## The Application
 How can we better represent His name? Let's all ask ourselves a painful question: "*how many potential unbelievers have we turned away from God as a result of our actions?*" This should be a very sobering question to all of us. Has your walk in the Lord turned anyone away because you weren't living a seperated, set-apart life? Has somebody looked at the way you lived and thought, "*wow, they claim to be a Christian and they're living like that*?" Think of what the world thinks of most Christians. I'll give the three most common things that I personally hear:
@@ -61,19 +61,13 @@ The world wants nothing to do with Christians because they feel we do not show l
 ## Conclusion
 The 3rd Commandment is one that we have been led to believe means that we shouldn't curse using God's name or swear false oaths to God's name. Among these, we can simplify this Commandment to things related to flippant speech in God's name... at least that's what we've learned it to mean. Many scholars think a more accurate translation for this Commandment to be that of "to bear" God's name. This changes the entire meaning, as name-bearers to God, for us to properly bear His name and not abuse God's character in our actions as ambassadors of His.
 
-<script>
-var refTagger = {
-  settings: {
-    bibleVersion: 'ESV'
-  }
-}; 
-
-(function(d, t) {
-  var n=d.querySelector('[nonce]');
-  refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce'));
-  var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-  g.src = 'https://api.reftagger.com/v2/RefTagger.js';
-  g.nonce = refTagger.settings.nonce;
-  s.parentNode.insertBefore(g, s);
-}(document, 'script'));
+<script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+BLB.Tagger.Translation = 'ESV';
+BLB.Tagger.HyperLinks = 'all'; 
+BLB.Tagger.HideTanslationAbbrev = false;
+BLB.Tagger.TargetNewWindow = true;
+BLB.Tagger.Style = 'par'; 
+BLB.Tagger.NoSearchTagNames = '';
+BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; 
 </script>
