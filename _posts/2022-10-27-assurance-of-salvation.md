@@ -6,14 +6,14 @@ image:
   caption: "Photo from [Rooted Thinking](http://rootedthinking.com/2020/10/27/counsel-for-those-struggling-with-assurance)"
 last_modified_at: 2022-10-29T21:24:00-05:00
 categories:
-  - Assurance
-  - Salvation
+  - Christianity
 tags: 
   - salvation
   - assurance
   - doubt
   - justification
   - redemption
+  - faith
 ---
 
 {% include toc %}
