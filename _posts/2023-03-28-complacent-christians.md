@@ -79,7 +79,7 @@ In 2 Peter 1:5-10, Peter tells us to add to our faith these things:
  * brotherly kindness
  * love
 
-Peter actually doesn't mention adding these things to faith, but *building* them on top of each other. "*Add to your faith virtue, and to virtue, knowledge...*" I like to think of it like building a pizza. If faith is our dough, would it be a good pizza if we add all of the ingredients to the dough and threw the whole ball into the oven? It sure wouldn't resemble a pizza and wouldn't taste as good. We must do the same to our faith, which is what Peter is teaching us. Take our dough and knead it, add the sauce to the dough, add the cheese to the sauce, add the rest of the ingredients on the cheese, and then our pizza will come out looking and tasting like a pizza. 
+Peter actually doesn't mention adding these things to faith, but *building* them on top of faith. "*Add to your faith virtue, and to virtue, knowledge...*" I like to think of this passage like baking a cake. If faith is our flour, would it be a good cake if we ate all of the ingredients separately? It sure wouldn't resemble a cake and certainly wouldn't taste like one, even though all the ingredients are there. We must do the same to our faith, which is what Peter is teaching us. Take our flour and add the eggs, mix it, add the sugar to this new mixture, add the additional ingredients to that new mixture, etc.  
 
 Peter says if we do add those things to our faith, then several more things will happen:
  
