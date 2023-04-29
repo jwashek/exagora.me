@@ -45,12 +45,12 @@ This very same problem has been around since the early church. In Acts chapter 1
 
 ### Where Are They Getting This From?
 #### "Perfect" verses such as:
-* "I am the Almighty God; walk before me, and be thou perfect." (Genesis 17:1)
-* "Let your heart therefore be perfect with the LORD our God, to walk in his statutes, and to keep his commandments..." (1 Kings 8:61).
+* "I am the Almighty God; walk before me, and be thou perfect." (Genesis 17:1 (KJV))
+* "Let your heart therefore be perfect with the LORD our God, to walk in his statutes, and to keep his commandments..." (1 Kings 8:61 (KJV)).
 * "Be ye therefore perfect, even as your Father which is in heaven is perfect." (Matthew 5:48)
-* "Be perfect..." (2 Corinthians 13:11).
-* "...that we may present every man perfect in Christ Jesus..." (Colossians 1:28)
-* "That the man of God may be perfect, thoroughly furnished unto all good works." (2 Timothy 3:17)
+* "Be perfect..." (2 Corinthians 13:11 (KJV)).
+* "...that we may present every man perfect in Christ Jesus..." (Colossians 1:28 (KJV))
+* "That the man of God may be perfect, thoroughly furnished unto all good works." (2 Timothy 3:17 (KJV))
 
 The above verses, at first glance, seem to suggest perfection how we might consider it: flawless, sinless, faultless, and blameless. However, "perfect" in these verses do not mean any of those terms. In nearly every single case of every "perfect" verse found in the Old and New Testaments, the words translate to `complete`.  
 
