@@ -71,7 +71,7 @@ Paul said in Philippians 3:12 that he wasn't perfect, so was he unsaved? You kno
 #### 1 John 3
 1 John 3:6-10 is what holds the most weight to the sinless perfectionist's claim. The King James Version (KJV), in 1 John 3:6-10, drops the "keeps on..." and "makes a practice of..." for just "sin." For example, the KJV reads as follows:
 
-> <u>1<sup>st</sup> John 3:6-10 (KJV):</u><br>
+> <u>1 John 3:6-10 (KJV):</u><br>
 > **6** Whosoever abideth in him sinneth not: whosoever sinneth hath not seen him, neither known him.<br>
 > **7** Little children, let no man deceive you: he that doeth righteousness is righteous, even as he is righteous.<br>
 > **8** He that committeth sin is of the devil; for the devil sinneth from the beginning. For this purpose, the Son of God was manifested, that he might destroy the works of the devil.<br>
