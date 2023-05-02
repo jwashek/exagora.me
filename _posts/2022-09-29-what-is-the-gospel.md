@@ -1,6 +1,6 @@
 ---
-title: "The Gospel"
-excerpt: "The good news of Jesus' death, burial, and resurrection."
+title: "How To Be Saved: What Is The Gospel?"
+excerpt: "The good news of Jesus' death, burial, and resurrection brings salvation to all who believe."
 image: 
   path: /images/gospel.jpeg
   caption: "Photo from [Redeeming God](https://redeeminggod.com/sermons/miscellaneous/what-is-the-gospel/)"
@@ -24,7 +24,7 @@ tags:
 > **3** For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; <br>
 > **4** And that he was buried, and that he rose again the third day according to the scriptures
 
-The Gospel is very clear according to the Bible. It is **nothing** more than the death, burial, and resurrection of Jesus Christ. That's it. I thought it sufficient for the first post on this blog to be about the Gospel, because without it, we cannot be saved. Jesus said in Mark 16:15 to *go ye into all the world, and preach the gospel to every creature*. Jesus didn't die to save us from our sins for no one to hear about it. Imagine you bought a gift for your child and hid it away in the closet. If you left it in the closet and never told your child about the gift, then how will they know you ever bought it for them in the first place? In the same way, the Gospel brings the free gift (Ephesians 2:8-9) of salvation for *all the world*; they just need to know about it, believe it, and receive Jesus (John 1:12) through faith.
+The Gospel is very clear according to the Bible. It is **nothing** more than the death, burial, and resurrection of Jesus Christ. That's it. I thought it sufficient for the first post on this blog to be about the Gospel, because without it, we cannot be saved. And with it, it's precisely how we're saved. Jesus said in Mark 16:15 to *go ye into all the world, and preach the gospel to every creature*. Jesus didn't die to save us from our sins for no one to hear about it. Imagine you bought a gift for your child and hid it away in the closet. If you left it in the closet and never told your child about the gift, then how will they know you ever bought it for them in the first place? In the same way, the Gospel brings the free gift (Ephesians 2:8-9) of salvation for *all the world*; they just need to know about it, believe it, and receive Jesus (John 1:12) through faith.
 
 ## What Does It Mean?
 The Gospel means `glad tidings` or `good news`. But why would Jesus’ suffering on the Cross and dying a horrible, painful death *ever* be labeled as good news? Well, you must understand a few things in order to fully grasp why the Gospel is nothing short of good news and everything more than good news!
