@@ -4,7 +4,7 @@ excerpt: "The good news of Jesus' death, burial, and resurrection brings salvati
 image: 
   path: /images/gospel.jpeg
   caption: "Photo from [Redeeming God](https://redeeminggod.com/sermons/miscellaneous/what-is-the-gospel/)"
-last_modified_at: 2023-0429T21:24:00-05:00
+last_modified_at: 2023-04-29T21:24:00-05:00
 categories:
   - Salvation
 tags: 
