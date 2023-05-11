@@ -26,9 +26,9 @@ Are you seeking something? Happiness? Peace? Comfort? Hope? Deliverance from som
 ## What We Seek
 By doing a quick [Google search](https://www.google.com/search?q=what+do+people+seek&oq=what+do+people+seek) of what people seek the most in life, you'll come up with a list of the most common answers. Answers such as:
 
-* 1. Happiness
-* 2. Freedom
-* 3. Peace
+* Happiness
+* Freedom
+* Peace
 
 Almost every list that I found mentioned `happiness`, `freedom`, and `peace` within the top 5 things that we seek. This tells me that internally we are unhappy, in bondage, and at conflict. All of these relate to one thing: sin. We are broken. We are lost. We are sinners. But we can be made whole, we can be found, and we can be washed in the blood of Christ. Happiness, freedom, and peace (and anything else we seek) all can be found in the Lord Jesus. And here's how.
 
