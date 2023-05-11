@@ -46,16 +46,13 @@ If happiness, freedom, or peace aren't your thing that you're seeking, maybe con
 
 | Attribute  | Occurrence  | Verse(s)  |
 |---|---|---|
-| truth  | 4  | Deuteronomy 32:4, Psalm 31:5, and Isaiah 65:16 (2 times)   |
+| truth  | 4  | Deuteronomy 32:4 (KJV), Psalm 31:5 (KJV), and Isaiah 65:16 (2 times)   |
 | knowledge  | 1  | 1 Samuel 2:3  |
 | salvation  | 14  | 1 Chronicles 16:35, Psalm 18:46, Psalm 24:5, Psalm 25:5, Psalm 51:14, Psalm 65:5, Psalm 68:19, Psalm 68:20, Psalm 79:9, Psalm 85:4, Psalm 88:1, Isaiah 17:10, Micah 7:7, Habakkuk 3:18  |
-| righteousness  | 1  | Psalm 4:1  |
 | glory  | 4  | Psalm 29:3, Acts 7:2, 1 Corinthians 2:8, James 2:1  |
 | life/living  | 4  | Psalm 42:8, Matthew 22:32, Mark 12:27, Luke 20:38  |
-| strength  | 1  | Psalm 43:2  |
-| mercy  | 2  | Psalm 59:10, Psalm 59:17 |
-| patience  | 1  | Romans 15:5  |
-| consolation/comfort  | 2  | Romans 15:5, 2 Corinthians 1:3 |
+| patience  | 1  | Romans 15:5 (KJV)  |
+| consolation/comfort  | 2  | Romans 15:5 (KJV), 2 Corinthians 1:3 |
 | hope  | 1  | Romans 15:13  |
 | peace  | 7  | Romans 15:33, Romans 16:20, 2 Corinthians 13:11, Philippians 4:9, 1 Thessalonians 5:23, 2 Thessalonians 3:16, Hebrews 13:20  |
 | love  | 1  | 2 Corinthians 13:11  |
@@ -71,21 +68,18 @@ But with character traits (*God is...*), these are things we don't usually seek 
 | Attribute  | Occurrence  | Verse(s)  |
 |---|---|---|
 | merciful  |  7 | Deuteronomy 4:31, 2 Chronicles 30:9, Psalm 103:8, Psalm 111:4, Psalm 116:5, Psalm 145:8, James 5:11  |
-| strength  | 8  | Exodus 15:2, 2 Samuel 22:33, Psalm 28:7, Psalm 28:8, Psalm 46:1, Psalm 73:26, Psalm 118:14, Habakkuk 3:19  |
-| salvation  | 5  | Exodus 15:2, Psalm 27:1, Psalm 62:7, Psalm 118:14, Isaiah 12:2  |
 | patient  | 5  | Numbers 14:18, Psalm 103:8, Psalm 145:8, Nahum 1:3, 2 Peter 3:9  |
 | loving  | 4  | Numbers 14:18, Psalm 103:8, Psalm 145:8, 1 John 4:8, 1 John 4:16  |
 | forgiving  | 1  | Numbers 14:18  |
 | peace  | 2  | Judges 6:24, 1 Corinthians 14:33  |
 | righteous  | 8  | 2 Chronicles 12:6, Psalm 11:7, Psalm 116:5, Psalm 129:4, Psalm 145:17, Jeremiah 23:6, Jeremiah 33:16, Daniel 9:14  |
 | light  | 2  | Psalm 27:1, 1 John 1:5  |
-| good  | 7  | Psalm 34:8, Psalm 100:5, Psalm 135:3, Jeremiah 33:11, Lamentations 3:25, Nahum 1:7, 1 Peter 2:3  |
+| good  | 6  | Psalm 34:8, Psalm 100:5, Psalm 135:3, Jeremiah 33:11, Lamentations 3:25, Nahum 1:7  |
 | near  |  2 | Psalm 34:18, Psalm 145:18 |
 | gracious  | 5  | 2 Chronicles 30:9, Psalm 103:8, Psalm 111:4, Psalm 116:5, Psalm 145:8  |
 | great  | 2  |  Job 36:26, Psalm 135:5 |
 | faithful  | 4  | Psalm 145:13, 2 Thessalonians 3:3, 1 Corinthians 1:9, 1 Corinthians 10:13  |
 | compassionate  | 1  | James 5:11  |
-| glory  | 1  | Psalm 62:7  |
 | holy  | 1  | Psalm 99:9  |
 
 If we're honest with ourselves, we don't deserve mercy when we're unmerciful; we don't deserve forgiveness when we're unforgiving; we don't deserve compassion when we're not compassionate. But it's at these very moments where that's *exactly* what God wants to provide us with. For it's His kindness that is meant to lead us to repentance (Romans 2:4). His kindness is not meant for us to remain in a sad state of self-despair or sin, but to make a change in our minds towards God, seek Him, and come to faith in Jesus Christ (Acts 20:21).  
