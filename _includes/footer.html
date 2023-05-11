@@ -1,9 +1,24 @@
-<div class="trigger">
-  {%- for path in page_paths -%}
-    {%- assign my_page = site.pages | where: "path", path | first -%}
-    {%- if my_page.title -%}
-    <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-    {%- endif -%}
-  {%- endfor -%}
-  <a class="page-link" href="{{ site.baseurl }}/salvation/what-is-the-gospel">Find out how to be saved!</a>
-</div>
+<footer id="footer" class="site-footer">
+  {% include footer-custom.html %}
+
+  {%- if site.footer_links -%}
+    <div class="social-icons">
+      {%- for footer_link in site.footer_links -%}
+        {%- if footer_link.url contains "://" -%}
+          {%- assign url = footer_link.url -%}
+        {%- else -%}
+          {%- assign url = footer_link.url | relative_url -%}
+        {%- endif -%}
+        <a class="social-icon" href="{{ url }}"><i class="{{ footer_link.icon | default: 'fas fa-link' }} fa-2x" title="{{ footer_link.title }}"></i></a>
+      {%- endfor -%}
+    </div>
+  {%- endif -%}
+
+  <div class="copyright">
+    {% if site.copyright %}
+      {{ site.copyright | markdownify }}
+    {% else %}
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.text[site.locale].powered_by | default: "Want to be saved? Find out how!" }} <a href="https://www.exagora.me/salvation/what-is-the-gospel/" rel="nofollow">Jekyll</a> &amp; <a href="https://www.exagora.me/salvation/what-is-the-gospel/" rel="nofollow">The Gospel</a>.</p>
+    {% endif %}
+  </div>
+</footer>
