@@ -17,14 +17,14 @@ tags:
 {% include toc %}
 
 ## Intro
-The Gospel means `good news` or `glad tidings` and is very clear according to the Bible. It is **nothing** more than the death, burial, and resurrection of Jesus Christ (1 Corinthians 15:1-4). And it is through His death, burial, and resurrection that we are set free from the bondage of sin, cleansed and forgiven of all our sin, and have our place written in the Book of Life to live eternally with the Lord. But why is Jesus' death on the cross good news? And how does this save us?
+The Gospel means `good news` or `glad tidings` and is very clear according to the Bible. It is **nothing** more than the death, burial, and resurrection of Jesus Christ (1 Corinthians 15:1-4). And it is through His death, burial, and resurrection that we are set free from the bondage of sin, cleansed and forgiven of all of our sin, and have our names written in the Book of Life to live forever with the Lord and all those who've trusted in Him. But why is Jesus' death on the cross good news? And how does this save us?
 
 ## The Bad News
 It starts with the bad news. Have you ever heard someone say, "*do you want the good news first or the bad news?*" Sometimes with good news there comes bad news along with it. This is certainly true in the case of the Gospel. The bad news, unfortunately, starts with you and me.
 
 > <u>Romans 3:23</u>: For all have sinned, and come short of the glory of God;
 
-We're all sinners. We all have sinned and are guilty of unrighteousness before a holy God (1 John 1:10). This sin separates us from God (Isaiah 59:2). And no matter how good you think you are, you cannot fix this separation yourself and earn your way back into God's favor (Isaiah 64:6, Romans 4:4, Psalm 14:3, Psalm 53:3, and Romans 3:11-18). But this is just the start, the bad news continues even further. There are very real and very serious consequences for our sin, namely death (Romans 5:12) and an eternity separated from God in hell (Revelation 20:14-15 and Revelation 21:8). If this sounds grim, it's because it is. We all have sinned. We all are going to die one day. We can't change that. And we all are going to split hell wide open when we die... but this is something we can change.
+We're all sinners. We all have sinned and are guilty of unrighteousness before a holy God (1 John 1:10). This sin separates us from God (Isaiah 59:2). And no matter how good you think you are, you cannot fix this separation yourself and earn your way back into God's favor (Isaiah 64:6, Romans 4:4, Psalm 14:3, Psalm 53:3, and Romans 3:11-18). But this is just the start, the bad news continues even further. There are very real and very serious consequences for our sin, namely death (Romans 5:12) and an eternity separated from God in hell (Revelation 20:14-15 and Revelation 21:8). If this sounds grim, it's because it is. We all have sinned. We all are going to die one day. We can't change that. And we all are going to split hell wide open when we die... but this is something we *can* change.
 
 ## The Good News
 > <u>Romans 5:8</u>: But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.
