@@ -1,5 +1,5 @@
 ---
-title: "God's 5 Love Languages: How We Show God Our Love for Him"
+title: "God's 5 Love Languages"
 excerpt: "We're told to love the Lord with all our heart, mind, and soul, but how do we do this?"
 image: 
   path: /images/love2.webp
