@@ -52,7 +52,7 @@ Trust requires action. Luckily for us, our friend has Dr. Johnson's contact info
 ## Trusting In Jesus
 Bringing this full circle back to the post's title: *How Do We Know We're Trusting in Jesus?* Let's start out by concluding the analogy of Dr. Johnson. There are two options we could have taken, to either call him or not. If we called him, did we trust him? Absolutely! This means the inverse is true: if we never reached out to Dr. Johnson, we could reasonably conclude that we didn't trust in him enough to heal us; we never acted because we doubted he could heal us, even with the evidence that was presented to us. 
 
-The same is true with Jesus. "*Believe on the Lord Jesus Christ, and thou shalt be saved*." Okay, but *who is Jesus?* *What did He do? *Why do I need to trust in Him?*
+The same is true with Jesus. "*Believe on the Lord Jesus Christ, and thou shalt be saved*." Okay, but *who is Jesus?* *What did He do?* *Why do I need to trust in Him?*
 
 ### The "Knowledge"
 We're all sinners (Romans 3:23 and 1 John 1:8,10). This sin separates us from God (Isaiah 59:2) and unfortunately we cannot earn our own way back into a right relationship with God through our own good works (Romans 4:4, Psalm 14:3, and Romans 3:11-18). The consequence of our sin is death (Romans 6:23) and if we die in our sins without having them forgiven, we can expect an eternity separated from God in hell (Revelation 20:14-15 and Revelation 21:8).
