@@ -14,7 +14,6 @@ tags:
   - compassion
   - false convert
   - Paul Washer
-  - Ray Comfort
   - David
   - Manasseh
 ---
