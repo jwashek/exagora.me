@@ -120,11 +120,11 @@ Even the word "gospel" is contradicted in Calvinism. The word "gospel," meaning
 
 cannot be "glad tidings" or "good news" in Calvinism. Think about it. Imagine you're on the street and you share with someone the "good news" of divine determinism. 
 
-> Person1: "Hey, want to hear some good news?"<br>
-> Person2: "Yes, I'd love to!"<br>
-> Person1: "Okay, here's the bad news first. You're a wicked sinner deserving punishment in hell. But here's the good news: God made a way for you to be saved. He unconditionally elects certain people to be saved, but there's absolutely no way that you can know if you're one of them, it's just fully left up to God."<br>
-> Person2: "Oh... so, what happens if I'm not elect?"<br>
-> Person1: "Oh, you'll be going to hell forever. It's not like God really *neeeeeds* to save anyone. Anyways, isn't this good news?!"
+> **Person1**: "Hey, want to hear some good news?"<br>
+> **Person2**: "Yes, I'd love to!"<br>
+> **Person1**: "Okay, here's the bad news first. You're a wicked sinner deserving punishment in hell. But here's the good news: God made a way for you to be saved. He unconditionally elects certain people to be saved, but there's absolutely no way that you can know if you're one of them, it's just fully left up to God."<br>
+> **Person2**: "Oh... so, what happens if I'm not elect?"<br>
+> **Person1**: "Oh, you'll be going to hell forever. It's not like God really *neeeeeds* to save anyone, though. Anyways. Isn't this good news?!"
 
 ### Contradicting Its Own Teachings
 But, oh the irony. John Piper's next quote is so theologically inconsistent and is so self-defeating to itself, it's as though watching a teen attempting to sneak out of the house but gets caught when he forgets about the window alarm. Here's what our clumsy teen, John Piper said when asked if God decreed sin:
