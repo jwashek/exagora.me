@@ -83,30 +83,6 @@ Sometimes it's beneficial to walk-it-back, moving from the end to the beginning,
 
 Had our Lord not ascended, our atonement would be incomplete since He never would have entered into the Holy Place in heaven with His own blood, thereby securing His place as our Mediator and Advocate (1 Timothy 2:5 and 1 John 2:1). The link to the resurrection would be snapped. Had the Lord not resurrected, we would have no hope in our resurrection in rising to incorruption. Resurrection’s link to His death would be removed. Had our Lord not died, death would still have humanity held in bondage. The link to His life would be peeled away. Had our Lord not lived a sinless life, the link to His death is rusted and frayed along with the link to His incarnation. And had our Lord not come in the form of humanity, we would still be in the 1st Adam with our nature utterly corrupted and sick in sin. Man's three chief enemies of sin, death, and the devil would still be reigning over us to this very day.
 
-## What's Our Response? 
-We're either *in Adam* or *in Christ*. Our response to the atonement is to be in Christ. And how we do that is by the following:
-
-* Repenting and believing (Matthew 4:17, Mark 1:15, Luke 13:3,5, John 1:12, John 3:15-16, John 3:36, John 5:24, John 6:47, Acts 3:19, Acts 16:31, Acts 17:30, Acts 20:21, and 2 Corinthians 7:9-10)
-* Being baptized (Mark 16:16, John 3:5, Acts 2:38, Acts 22:16, Romans 6:3-4, Galatians 3:27, 1 Peter 3:21, and Titus 3:5)
-* Living under the King's commandments (Matthew 5-7, Matthew 22:37-40, Luke 6:46, John 13:34-35, John 15:4-6,10, 1 John 1:5-7, 1 John 2:3-4, 1 John 3:6-10, and 1 John 3:23-24)
-
-### Repent and Believe
-You don't know you're under the wrong kingdom until someone tells you. You don't know what your sin causes and where it leads until it's brought to your attention. But this information comes to you, you must respond to the news through repentance (change of mind) and turning to Christ in faith (Romans 10:9-14 and Acts 20:21), as He is the Savior and only name under heaven through which salvation can be provided (Acts 4:12). 
-
-### Baptism
-Since we "must be born again" (John 3:3), how can we be reborn other than by first dying? And how is it that we die other than through baptism? We were all born under the 1st Adam slaves to sin. But when we're baptized into Christ (Galatians 3:27), we've been baptized into His death (Romans 6:3 and Colossians 2:12). We become born again and regenerated under the 2nd Adam through baptism (John 3:5, Titus 3:5, and Acts 2:38) and become descendants of His, no longer slaves to sin, but now slaves to righteousness (Romans 6:4-14). We die to our old ties in the 1st Adam through baptism--our death--and are born again once we rise from the waters--resurrected to new life in Christ--under the 2nd Adam. 
-
-### Living Under the King
-Part of the "Great Commission" (Matthew 28:18-20), in our Lord's own words, is to *make disciples* *teaching them to observe all things that [He] has commanded*. When we make the decision to follow Christ, we are under Christ and His authority as King. This means we are to obey what He commanded (1 Corinthians 7:19, Luke 6:46, and 1 John 3:23-24). Whether you like it or not, there's only two kingdoms. The kingdom of Satan, in which you were saved from (Colossians 1:13), or the kingdom of God. He redeemed us from the kingdom of the devil and released us from the bondage of sin. And how we understand redemption is key to understanding the significance of its relation to this and to the kingdom itself. The Greek word "[exagorazō](https://www.blueletterbible.org/lexicon/g1805/kjv/tr/0-1/)" is used to translate the word "redeemed." This holds the meaning:
-
-```
-I. to redeem
-  a. by payment of a price to recover from the power of another, to ransom, buy off
-II. to buy up, to buy up for one's self, for one's use
-```
-
-This comes from two Greek words: "[ek](https://www.blueletterbible.org/lexicon/g1537/kjv/tr/0-1/)" and "[agorazō](https://www.blueletterbible.org/lexicon/g59/kjv/tr/0-1/)", which breaks down to the meaning: "out of the marketplace." Slaves were often traded in marketplaces in those days where someone would come and purchase the slave, thereby redeeming them from the previous owner and buying the slave for themself. We were bought and paid for by His own blood (Ephesians 1:7). We've been redeemed from our previous master, Satan, under his kingdom of sin, death, and hell and have been translated to the kingdom of righteousness, peace, and joy (Romans 14:17). Therein is the good news: we can be under a new Master, one who has bought us with the price of His blood; one who has defeated sin and death; and one who has conquered our previous owner.
-
 ## What About Substitution? 
 So, what, there's just no substitutionary aspect of His atonement? Of course there is! However, the problem with atonement theories is that they all try to account for being a one-size-fits-all theory, but they're not. And they can't be. There is truth to all atonement theories, but Christians shouldn't divide over which one more accurately depicts His sacrificial death for us and what was accomplished therein. This topic has been understood in various ways throughout history. For example, the early church fathers believed more in the [Ransom](https://en.wikipedia.org/wiki/Ransom_theory_of_atonement#:~:text=The%20theory%20teaches%20that%20the,a%20result%20of%20inherited%20sin.) or [Christus Victor](https://en.wikipedia.org/wiki/Christus_Victor) theories of atonement. They just understood it as simply as the Bible taught it: we've been saved from our sins, Christ has ransomed us, He died on our behalf, and He is the victor over sin, death, and the devil.
 
