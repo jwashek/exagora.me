@@ -60,7 +60,7 @@ James 1:14-15 is a key passage in understanding how we can prevent the return of
 
 Understanding this, the obvious desire is for us to always be in *Step 1* or at least to recognize what step we might be in at any given time. However, there are clues in Scripture as to how we can stay and *Step 1* and not allow the cycle to push forward. But the clue isn't *in* Scripture, it *is* Scripture! 
 
-#### Scripture
+#### Scripture As Doers
 By hiding the Word in our hearts, we have the ability to not sin against the LORD (Psalm 119:11). This is where the prevention starts. And by binding the commandments in our hearts and fashioning them like necklaces around ourselves (Proverbs 6:21-22), we can always be reminded so as to not sin against Him, thus preventing the weeds from further growth. We must keep His words and His commandments ever-present within us, tying them as symbols on our hands and foreheads; writing them on the very doorframes of our homes (Deuteronomy 6:1-9). This is truly being a *doer of the word*. The importance of being a doer of God's word (James 1:22-25) starts with us reading God's word; we can't be a doer if we never become a hearer. Don't run away from God's word, run to it. But, there is something else we should be running away from...
 
 #### Running Away!
