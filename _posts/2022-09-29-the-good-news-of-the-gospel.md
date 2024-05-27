@@ -16,6 +16,7 @@ tags:
   - baptism
   - two kingdoms
   - gospel of the kingdom
+  - ransom
 ---
 
 {% include toc %}
