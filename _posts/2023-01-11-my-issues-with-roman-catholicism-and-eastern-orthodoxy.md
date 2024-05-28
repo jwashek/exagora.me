@@ -104,7 +104,7 @@ I found this quote particularly interesting since, in my many hours of listening
 
 > "They call themselves Gnostics. They also possess images, some of them painted, and others formed from different kinds of material. They maintain that a likeness of Christ was made by Pilate at that time when Jesus lived among them...They have also other modes of honoring these images, after the same manner of the Gentiles." -- Irenaeus, Ante-Nicene Fathers Volume I p. 351
 
-This was another interesting quote to me since many Orthodox priests and apologists use a strikingly similar argument: "*Luke was the first iconographer*," and they use that claim to justify their icon usage, much like the Gnostics did with saying Pilate made an image of Christ. Though no real historical backing supports Luke being the first iconographer, and certainly nothing found within the Ante-Nicene fathers, the Catholic and Orthodox Christians still defend icon and images by appealing to Luke.
+This was another interesting quote to me since many Orthodox priests and apologists use a strikingly similar argument: "*Luke was the first iconographer*," and they use that claim to justify their icon usage, much like the Gnostics did with saying Pilate made an image of Christ. Though no real historical backing supports Luke being the first iconographer, and certainly nothing found within the Ante-Nicene fathers, the Catholic and Orthodox Christians still defend icons and images by appealing to Luke.
 
 > "It is with a different kind of spell that art deludes you...it leads you to pay religious honor and worship to images and pictures." -- Clement of Alexandria, Ante-Nicene Fathers Volume II p. 188
 
