@@ -116,7 +116,7 @@ This was another interesting quote to me since many Orthodox priests and apologi
 
 > "For none of these other groups abhor altars and images on the ground that they are afraid of degrading the worship of God and reducing it to the worship of material things...it is not possible at the same time to know God and address prayers to images." -- Origen, Ante-Nicene Fathers Volume IV pp. 635-637
 
-> "The sacred images themselves, to which most senseless mend render service, are destitute of all perception. For they are earth." -- Lactantius, Ante-Nicene Fathers Volume VII p. 67 
+> "The sacred images themselves, to which most senseless men render service, are destitute of all perception. For they are earth." -- Lactantius, Ante-Nicene Fathers Volume VII p. 67 
 
 > "Without a doubt, there is no religion wherever there is an image. For religion consists of divine things, and there is nothing divine except in Heavenly things. So, it follows that images are without religion. For there can be nothing Heavenly in something that is made from the earth." -- Lactantius, Ante-Nicene Fathers Volume VII p. 68
 
