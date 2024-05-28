@@ -6,92 +6,87 @@ image:
   caption: "Photo from [Rogersville Church of Christ](https://s3.amazonaws.com/rogersvilleal.church.of.christ/wp-content/uploads/2020/11/rogersville-am3.png)"
 last_modified_at: 2022-11-29T21:24:00-05:00
 categories:
-  - Christianity
+  - Christian Living
 tags: 
   - faith
-  - assurance
-  - examine
+  - faithfulness
+  - practicing sin
+  - examining ourselves
+  - obedience
+  - christian living
+  - fruit of the spirit
+  - will of God
 ---
 
 {% include toc %}
 
-## Intro
-The Bible is filled with uncomfortable verses for believers and unbelievers alike. One such verse that strikes that uncomfortable bone in many Christians is that of 2 Corinthians 13:5. The apostle Paul tells us in 2 Corinthians 13:5 to examine ourselves whether we are in the faith. The latter portion of this verse in some versions render it, "*don't you know that Jesus Christ is in you?--unless you fail to meet the test*." What exactly is this *test* that we can use to apply to ourselves while examining our faith? The Bible doesn't explicitly mention a single test in reference to this verse, but fortunately for us, there are many things we can apply to ourselves in examining our faith, ensuring we do not fail this test. Some of these tests include the Word itself, checking our heart, reviewing the fruits in our lives, and understanding where our attitude towards God and sin resides. 
+## TL;DR
+Scripture tells us to examine ourselves whether we're in the faith. This infers that we can *not* be in the faith--which, in and of itself, should be words of feaful caution to us. Therefore, it's vitally important for us as believers to heed to this warning. Are we living as we ought and not justifying sinful behavior? Are we repenting and confessing our sin to the Lord? Are we living in accordance to the Lord's commandments? Christian living is characterized by a lifetime of faith, obedience, repentance, and love. 
 
 ## Examine Yourself
-### Using the Word
-**Search the Scriptures**<br>
-> <u>John 5:39:</u> Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.
+We are told to search the Scriptures (John 5:39) and to study to show ourselves approved (2 Timothy 2:15). We do this by being like the Bereans, searching whether what we hear from others is true and aligns with Scripture (Acts 17:10-11). So, when the apostle Paul tells us to examine ourselves (2 Corinthians 13:5) to test if we're in the faith or not, we do so by testing it against Scripture. And, luckily for us, there are several passages that prove helpful in our case of examination.
 
-We are told to search the Scriptures in various places--and for good reason. Not only will searching the Scriptures increase our faith (Romans 10:17), but if we strive to be like that of the Bereans--who were eager to receive the Word, searched the Scriptures daily, and even tested what they were taught against the Word (Acts 17:10-11)--then we can better understand our own position with God and subsequently test our faith. Some questions you might ask when examining yourself in relation to the Word may include: 
+### Are You Living in Unrepentant Sin?
+**2<sup>nd</sup> Corinthians 12-13**<br>
+First off, let's start with the context of our passage to see why Paul told the Corinthian church to examine themselves in the first place. Paul starts his thought by saying he fears he will find the church in a less than desirable state (2 Corinthians 12:20), a state that will leave him mourning for their impenitance and unrepentant sin (2 Corinthians 12:21). The Corinthian church was seeking proof of Paul's apostleship (2 Corinthians 13:3), and after his credibility was put into question, he turns the request around on the Corinthians asking them to seek proof of their own standing in the faith (2 Corinthians 13:5). So, we see here that Paul presents this question to the Corinthians because they were seemingly rebuked for behavior unbecoming of a Christian, they got defensive, and questioned Paul's authority. Instead of heeding to his rebuke, they hypocritically asked for proof of Paul's validation as an apostle, yet they were living in unrepentant sin. We can start by examining ourselves with the following:
 
-* "*Am I diving into the Word on a regular basis?*" 
-* "*Am I eager to understand Jesus more through the Word?*"
-* "*Am I merely accepting what I learn, or do I test doctrine in light of Scripture?*"
-* "*Do I want to grow in my faith and understanding of the Word and apply it to my walk with Christ?*" 
+* "*How am I when someone disciplines or rebukes my behavior? Do I justify my behavior and continue living in it?*"
+* "*Do I get defensive when confronted with sinful actions I've been partaking in?*"
+* "*Am I living in unrepentant sin?*"
 
-**The Book of 1<sup>st</sup> John**<br>
-Though I believe all the Bible is inspired and "*profitable for doctrine, for reproof, for correction, for instruction in righteousness*" (2 Timothy 3:16), 1st John might be a unique outlier in that we can possibly use this book to **best** examine our walk with the Lord. To me, this is the de facto test of a true believer and follower of Christ. The entirety of 1st John can be summed up in chapter 5 verse 13 which reads:
+### Are You Obedient and Living Holy?
+**1<sup>st</sup> John**<br>
+The importance of the book of 1<sup>st</sup> John cannot be understated in our examining of our own faith. The apostle John tells us one of the main reasons he wrote the epistle, and it's so the readers might know they have eternal life (1 John 5:13).
 
-> <u>1 John 5:13</u>: These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.
+What better place to examine ourself then, right? This epistle is short, but packed with content; content that helps us in examining our status in the faith. The main principles taught in this epistle that help with our examination include:
 
-Since 1st John is written that we might know we have eternal life, we need to understand the principles taught in this book so we can examine ourselves properly within this context. This is a very serious matter and there's a reason Paul mentioned to examine ourselves in 2nd Corinthians. Remember the context of that verse (2 Corinthians 13:5). Paul was writing to very carnal Christians at the church in Corinth and already wrote one letter to them due to their sin, divisions, and quarreling. They were clearly still having issues which caused Paul to articulate his message to them yet again. You can sense the frustration in 2 Corinthians 13:1-2 in Paul by him saying, "*This is the 3rd time I am coming to you... if I come again, I will not spare*." He mentioned this just before telling them to examine themselves and test whether they were in the faith, because by all appearances of it, they were certainly not "walking the walk." 
+* (1) walking in the light (1 John 1:6-7), 
+* (2) keeping His commandments (1 John 2:3-5), 
+* (3) admitting your guilt and confessing your sins (1 John 1:9), 
+* (4) decreasing sin's hold onto your life (1 John 3:5-6), 
+* (5) loving others (1 John 3:14,23-24), 
+* (6) living out your love with actions and not words (1 John 3:17-19), and 
+* (7) separating yourself from the world (1 John 2:15). 
 
-Why is this important to us today? We can just as easily (and often do) fall into the same traps and snares that sin can set up for us in our own lives. So, going back to 1st John, what are some of these principles so we can better test ourselves? Well, to name a few, some of these principles include (1) walking in the light (1 John 1:6-7), (2) keeping His commandments (1 John 2:3-5), (3) admitting your guilt and confessing your sins to Him (1 John 1:9), (4) decreasing sin's hold onto your life (1 John 3:5-6), (5) loving others (1 John 3:14), (6) living out your walk and not merely professing your faith (1 John 3:18-19), and (7) separating yourself from the world (1 John 2:15). If we understand what's taught here, certainly we can refer to this book while examining ourselves in our own faith, right? Absolutely, and we should! It's been said by many Christians that we should read 1st John at least monthly to maintain a constant state of examination of our faith. I can't say I disagree. Therefore, we can draw up some questions from 1st John through the principles taught which might include:
+The beauty of John's epistle here is that it's very black-and-white in his using of statements such as, "*here's how we know we know Him...(1 John 2:3)*." John couldn't be more clear, and subsequently, it couldn't be more clear to us. So we must ask ourselves:
 
 * "*Do I attempt to live right and walk in the light?*"
-* "*Am I keeping His commandments and being obedient?*"
-* "*Do I admit and confess my sin before Him or do I make excuses for it, justifying my sin?*"
-* "*Am I sincerely trying to get better by squashing sin's presence in my life?*"
-* "*Do I love others and enjoy fellowship with other believers?*"
-* "*Am I merely "talking the talk" and simply being a professing Christian?*"
-* "*Am I attempting to separate from the world, or do I love the things of the world more than the things of God?*"
+* "*Am I keeping His commandments and living in obedience?*"
+* "*Do I admit and confess my sin before Him or do I make excuses for it?*"
+* "*Am I putting sin to death?*"
+* "*Do I love others and is my love showing itself through actions?*"
+* "*Am I separating from the world, or do I love the things of the world?*"
 
-### Check Your Heart
-Jesus quite often searched the heart and tested the faith of those that asked Him questions. Look at the more common questions such as, "*What do I need to do to inherit eternal life?*" Why didn't Jesus ever answer this the way we'd expect; a sort of *John-3:16-y* response? He always seemed to answer each person differently. For example, Jesus told the rich young man to keep the commandments in Matthew 19:16-23. The rich young man was then told by Jesus to sell all he had and give to the poor, making him walk away sorrowful due to his excessive wealth. This prompted Jesus to speak to His disciples saying, "*a rich man will hardly enter into the kingdom of heaven*." Jesus tested the man's heart! Another example is when a lawyer asks Jesus this very same question and Jesus responds with, "*What's written in the Law, how do you interpret it?*" The lawyer gives a good response according to Jesus by saying to "*love the Lord with all your heart, soul, strength, and mind, and love your neighbor as yourself*." This is when Jesus gives the well-known parable of the "Good Samaritan (Luke 10:25-37)." I told myself not to get on a tangent with this, but I do believe this is crucial for us to understand the gravity of the "Good Samaritan" and what it meant back in Jesus' day.
-
-Jews and Samaritans were bitter rivals. The Samaritans were despised by the Jews since they had partial Gentile ancestry and not a pure bloodline (this was due to Assyria's conquest of Samaria in 721 B.C.). Even just the term "Samaritan" was a reproach to the Jews. We can see this when Jesus poses the question to the lawyer after finishing His parable, "*which of these proved to be a neighbor to the man who fell among the robbers?*" Notice how the lawyer responds. He simply says, "*the one who showed him mercy*." He didn't even use the term "Samaritan" like Jesus did. Therefore, Jesus using a Samaritan as fulfilling a commandment, but having the Jews circumventing that same commandment, would have been a supreme insult not only to the lawyer who posed the question, but to the rest of the audience; this was an extremely offensive parable to the Jews. Keep this in mind when checking your own heart by posing similar questions to yourself:
-
-* "*If someone is in need, am I willing to help?*"
-* "*Do I treat everyone with respect and show love to all people?*"
-* "*Am I like the others in the parable who walked the other way and did nothing to help, or would I have helped like the Samaritan did?*"
-
-Lastly, I like to point out the difference in a humble heart vs a prideful heart, and what better way than to use another parable that Jesus taught? In Luke 18:9-14, Jesus tells of the parable of the Pharisee and the tax collector. The Pharisee prayed to God and said, "*God, I thank you that I am not like other men, extortioners, unjust, adulterers, or even like this tax collector. I fast twice a week; I give tithes of all that I get*." But then Jesus says the tax collector wouldn't even so much as lift his eyes up to heaven, but beat his chest and said, "*God, be merciful to me, a sinner!*" The difference in their hearts are clear, so we must circle this story back to *us* when examining ourselves:
-
-* "*Do I glory in myself when others stumble?*"
-* "*Am I comparing myself and my righteous acts with others?*"
-* "*Do I recognize my true nature and admit my helplessness before God?*"
-* "*Am I trusting and glorying in my own self-righteous efforts?*"
-* "*How is my prayer life? Am I praying consistently and persistently*"
-
-### What's With the 'tude?
-What is your attitude towards sin? Towards God? These are two important questions we must ask ourselves when examining our own faith. The book of Colossians says to put sin to death (Colossians 3:5-6). Similarly, Romans 8:13 teaches this very same thing by telling us to, "*live by the Spirit and put to death the deeds of the body*." Ephesians 4:17-32 expands on this a little further by telling us to put off the old man and put on the new man. This replacement is a call to action! Not only are we told to put sin to death, but that we are to actively put on this new man and be careful how we walk; to redeem the time and make the best use of it (Ephesians 5:15-17). Our old self belongs to our former manner of life, and we need to be renewed in the spirit of our minds as that passage suggests. Use these Scriptures to test your own faith and examine yourself by posing to yourself a few questions:
-
-* "*Do I love my sin too much to put it to death?*"
-* "*Am I justifying sinful behavior in my life?*"
-* "*After I got saved, did I (and maybe others) sense a change in my life?*" (2 Corinthians 5:17)
-* "*Do I make conscious efforts to put on the 'new man?'*"
-* "*What is my view of God? Do I abuse His grace through constant sin?*"
-
-### Fruits of the Spirit
-Another solid means of examining whether we're in the faith can be that of inspecting the fruits of the Spirit in our own lives.
+### Do You Have Fruit of the Spirit?
+Another solid means of examining whether we're in the faith can be that of inspecting the fruit of the Spirit in our own lives.
 
 > <u>Galatians 5:22-23:</u><br>
-> **22** But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,<br>
-> **23** Meekness, temperance: against such there is no law.
+> **22** But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness,<br>
+> **23** gentleness, self-control. Against such there is no law.
 
-Be honest with yourself when examining the fruits, much like any of the other topics presented here.
+Be honest with yourself when examining the fruit. Ask yourself:
 
-* "*Am I showing love to others (this is a big one, remember 1st John? This is a common theme throughout that book)?*"
+* "*Am I showing love to others?*"
 * "*Do I see myself exercising self-control?*"
-* "*Am I patient with others or am I notoriously short-tempered?*"
+* "*Am I patient with others or am I short-tempered?*"
+* "*Do I respond to people with gentleness, kindness, and goodness?*"
 
-## Conclusion
-Now, put yourself to the test and prove your own faith (Galatians 6:4). Examining yourself can be a daunting and uncomfortable task--no doubt--but it should be viewed as *vitally* important for believers to ensure we're not merely professing Christians. Do you read your Bible and search the Scriptures with eagerness? Do you love others? Are you attempting to live right for Christ (Galatians 2:20)? Are you showing fruits of the Spirit? There are many questions we can pose to ourselves, but "walking the walk" is something we should always run towards. Test everything in your life (1 Thessalonians 5:21) against the Word and pray diligently to God that He will help you clean up areas of your life that you're not certain proves your faith. Though examining ourselves may be uncomfortable, we are commanded to test ourselves. Are you failing the test, or can you do better? We all can, sure, but owe it to yourself and be honest when examining your faith! 
+### Are You Doing His Will?
+The Lord Jesus said that not all that say to Him, "Lord, Lord" will enter the kingdom, but he who does the will of His Father (Matthew 7:21-23). And, what a stark reminder that is for us to work out our own salvation with fear and trembling (Philippians 2:12). We must always aim to do His will, but what exactly *is* the will of the Father?
+
+* Believing in the Son (John 6:40)
+* Repentance (2 Peter 3:9)
+* Abstaining from sexual immorality, lust, and impurity of the flesh (1 Thessalonians 4:3-5)
+* Pursuing what is good; being thankful and showing gratitude (1 Thessalonians 5:14-18)
+* Doing good to all (1 Peter 2:15)
+
+In contrast to this, we could also say that doing God's will includes doing the *opposite* of Satan's will. Satan's will invovles sin (1 John 3:8) since he's been sinning since the beginning. If you're living a life of sin, you are living a life of lawnessness (1 John 3:4). And those who practice lawnessness are the very ones who will hear those dreaded words by our Lord Jesus: *Depart from Me* (Matthew 7:23)!
+
+
 
 <script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
 <script type='text/javascript'>
-BLB.Tagger.Translation = 'ESV';
+BLB.Tagger.Translation = 'NKJV';
 BLB.Tagger.HyperLinks = 'all'; 
 BLB.Tagger.HideTanslationAbbrev = false;
 BLB.Tagger.TargetNewWindow = true;
