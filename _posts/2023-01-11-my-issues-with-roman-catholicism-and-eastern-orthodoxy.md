@@ -15,6 +15,8 @@ tags:
   - theotokos
   - sectarianism
   - councils
+  - totus tuus
+  - marian devotion
   - 2nd council of nicaea
   - council of florence
   - catholicism
