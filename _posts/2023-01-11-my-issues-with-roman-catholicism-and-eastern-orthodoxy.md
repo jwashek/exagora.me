@@ -6,7 +6,7 @@ image:
   caption: "Photo from [Roman Catholic Parish](https://parish.rcdow.org.uk/bethnalgreen/)"
 last_modified_at: 2023-01-11T21:24:00-05:00
 categories:
-  - Heresy
+  - Christian Doctrine
 tags: 
   - icons
   - images
