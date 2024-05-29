@@ -98,6 +98,8 @@ Both Catholic and Orthodox Christians hold to this council, which is why they st
 
 > "For God is not seen, He should be worshipped with things that are not seen." -- Lactantius, Ante-Nicene Fathers Volume VII p. 193
 
+> "There are, however, persons who say: It is for the honour of God that we make the image: in order, that is, that we may worship the God who is concealed from our view...Yet thou, despicable man...hast nevertheless gone and bought thee wood from the carpenter's, and it is carved and made into an image insulting to God." -- Melito of Sardis, [A Discourse Which Was in the Presence of Antoninus Caesar](http://www.earlychristianwritings.com/text/melito.html)
+
 > "It is asserted by some pagans that, although these are only images, yet there exist gods in honor of whom they are made. They say that the prayers and sacrifices presented to the images are to be referred to the gods, and are in fact made to the gods." -- Athenagoras, Ante-Nicene Fathers Volume II p. 137
 
 I found this quote particularly interesting since, in my many hours of listening to Orthodox apologists and even attending a few Orthodox liturgies, I heard this exact defense made many, *many* times. They claimed that the images are not receiving the veneration, but the person behind it.
