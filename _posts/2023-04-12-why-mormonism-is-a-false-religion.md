@@ -186,7 +186,9 @@ David prophesied of the Lord Jesus' resurrection in Psalm 16:10-11:
 Keeping up with the extrabiblical theme, we can use yet another source in the non-Christian historian, Josephus which had this to say about the resurrection:
 
 > "*About this time there lived Jesus, a wise man, if indeed one ought to call him a man. For he ... wrought surprising feats.... He was the Christ. When Pilate ...condemned him to be crucified, those who had . . . come to love him did not give up their affection for him. On the third day he appeared ... restored to life.... And the tribe of Christians ... has ... not disappeared*" -- Josephus (37-100 AD)
- 
+
+### Reference:
+Most of the contents of this post have been gathered from Joel Kramer's [expose on Mormonism](https://youtu.be/FrqkaKz_SSg?si=amMVaF46El2d9-9w).
 
 <script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
 <script type='text/javascript'>
