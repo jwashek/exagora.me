@@ -76,7 +76,9 @@ The Lord Jesus said that not all that say to Him, "Lord, Lord" will enter the ki
 
 * Believing in the Son (John 6:40)
 * Repentance (2 Peter 3:9)
+* Showing mercy (Hosea 6:6 and Luke 6:36)
 * Abstaining from sexual immorality, lust, and impurity of the flesh (1 Thessalonians 4:3-5)
+* Keeping His commandments (John 14:15, 1 John 2:3-4, and Ecclesiastes 12:13)
 * Pursuing what is good; being thankful and showing gratitude (1 Thessalonians 5:14-18)
 * Doing good to all (1 Peter 2:15)
 
