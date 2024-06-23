@@ -53,6 +53,7 @@ Was it not the Lord Jesus who said, "*but why do you call Me 'Lord, Lord,' and n
 Clearly, the commandments aren't mere suggestions are they? Our Lord mentioned in Matthew 7:21-23--what Justin Martyr is quoting from above--that not everyone enters heaven, but only those who do the will of the Father. What's ironic about this passage is that it completely destroys faith alone, because our Lord Himself said that we must be doing the will of the Father. Yet, Free Gracers love running to John 6:40 in support of their faith alone conjecture and say, "*See! The will of the Father is to believe!*" Yet they utterly ignore other passages speaking about the Father's will:
 
 * to repent (2 Peter 3:9);
+* to obey (Matthew 21:28-31)
 * to abstain from sexual immorality (1 Thessalonians 4:3);
 * to rejoice, pray fervently, and to be thankful (1 Thessalonians 5:16-18); and
 * to do good to bring silence to evil (1 Peter 2:15).
