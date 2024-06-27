@@ -1,6 +1,6 @@
 ---
 title: "Predestination Through the Eyes of the Early Church"
-excerpt: "The early church had a much different view of predestination than modern-day Protestant Reformers... and especially Calvinists."
+excerpt: "The early church believed God's foreknowledge is the determining factor in how Christians are predestined and elected."
 image: 
   path: /images/foreknow.webp
   caption: "Photo from [Getty Images](https://i.swncdn.com/media/950w/via/14255-istockgetty-images-plusstocksnapper.webp)"
@@ -13,12 +13,13 @@ tags:
   - foreknowledge
   - Calvinism
   - Gnosticism
+  - election
 ---
 
 {% include toc %}
 
-## Intro
-The early church fathers, especially that of the ante-Nicene era (prior to the Council of Nicaea in 325 AD), viewed the topic of predestination much differently than what's espoused by the majority of those who hold to Reformed doctrine today. What the early Christians believed was not God electing some to salvation and damning others through reprobation by arbitrary means (i.e., divine determinism, Calvinism, believers holding to Reformed doctrine, etc.), but rather, the early Christians taught free will and God's choosing as a result of His foreknowledge. Prior to Augustine of Hippo (354-430 AD), this teaching of divine determinism was utterly absent in early Christianity--and on the contrary, was seen only in Gnostic teachings.
+## TL;DR
+The Ante-Nicene fathers (Christian writers prior to the Council of Nicaea in 325 AD), viewed the topic of predestination much differently than what modern-day Reformers espouse. These early Christians taught God's foreknowledge as the primary means of predestination. They also taught man's free will as fully compatible and not mutually exclusive to the matter of predestination.
 
 ## Early Church Quotes on Predestination
 ### Justin Martyr (100-165 AD)
@@ -72,9 +73,6 @@ The Marcionites, a Gnostic sect, also used "God hardening Pharaoh's heart" to pr
 This is quite a *nail-in-the-coffin* quote from Irenaeus. This is precisely what Irenaeus is describing in why some remain in unbelief; they've been turned over to unbelief since they never would have believed and "*which they have themselves chosen for themselves*" anyways. And in His foreknowledge, God can choose to interact with us based upon that foreknowledge. 
 
 Another way of looking at this would be understanding the Hebrew word for "hardened", [ḥāzaq](https://www.blueletterbible.org/lexicon/h2388/kjv/wlc/0-1/). This word means "to strengthen", or in other words, God giving Pharoah over to his own devices and allowing more freedom in his own choosing. Think of it like this, if you put a lump of wax and a lump of clay to sit in the sun, one will melt (wax) while the other will harden (clay). Each of us has a heart of wax or clay, and through God's interaction with us, though He shines the same light of the same sun upon every individual, it is a heart of wax that will melt to His love or a heart of clay that will harden against it.
-
-## Conclusion
-The early church fathers, especially that of the ante-Nicene era, believed in God's divine foreknowledge as a result of His choosing things to come to pass. They denied fatalistic or divine deterministic doctrine as what's commonly espoused with Calvinism or those believers in Reformed doctrine. The focus on GOD's divine foreknowledge is their lens in how they viewed predestination. Their lens was not arbitrary choosing and this is abundantly clear in their writings. However, like with anything, don't take my word for it; read the ante-Nicene fathers works yourselves to get a more well-rounded understanding of their teachings.  
 
 
 <script src='https://www.blueletterbible.org/assets-v3/scripts/blbToolTip/BLB_ScriptTagger-min.js' type='text/javascript'></script>
