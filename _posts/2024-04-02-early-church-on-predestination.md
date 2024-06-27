@@ -8,10 +8,11 @@ last_modified_at: 2024-04-02T15:24:00-05:00
 categories:
   - Early Church Beliefs
 tags: 
-  - church fathers
   - early church beliefs
   - predestination
   - foreknowledge
+  - Calvinism
+  - Gnosticism
 ---
 
 {% include toc %}
