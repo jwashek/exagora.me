@@ -148,7 +148,7 @@ If you listen long enough to most Calvinists, you might notice they don't teach 
 
 In the 58:00 to 59:34 minute mark, his last chilling quote is what I wanted to focus on: "*maybe God made me and fashioned me for destruction*." This is pure fatalism. And this is truly the way that Calvinists view God. It's no wonder Derek Webb deconverted from Christianity. This is precisely what Calvinism leads to. The only difference between fatalism and Calvinism is that Calvinists refuses to accept their own implications of TULIP and what it leads to.  
 
-## References:
+#### References:
 1. https://www.monergism.com/thethreshold/sdg/boettner/boettner_calvinism.html
 2. https://www.reenactingtheway.com/blog/john-calvin-had-people-killed-and-bad-bible-interpretation-justified-it
 3. https://www.britannica.com/biography/Michael-Servetus
