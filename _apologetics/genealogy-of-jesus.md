@@ -25,7 +25,7 @@ Another reason Matthew was likely a Jew was because he consistently cites fulfil
 
 Lastly, Matthew mentions Jewish customs and laws without further expansion or explanation, which points to his readers likely understanding his references (example: Matthew 15:2, Matthew 23:5, etc.)
 
-This is important because Matthew 1:11 mentions Jeconiah in Joseph's lineage; however, because of Jeconiah's actions, he received judgment that none of his descendants would sit on the throne of David (Jeremiah 22:30). But... a virgin birth would prevent this. And this is proven at the end of Matthew's genealogy where "whom," the Greek word ὅς ((os)[https://www.blueletterbible.org/lexicon/g3739/nkjv/tr/0-1/]), is in the feminine form, which points back to Mary, also in the feminine form:
+This is important because Matthew 1:11 mentions Jeconiah in Joseph's lineage; however, because of Jeconiah's actions, he received judgment that none of his descendants would sit on the throne of David (Jeremiah 22:30). But... a virgin birth would prevent this. And this is proven at the end of Matthew's genealogy where "whom," the Greek word ὅς ([os](https://www.blueletterbible.org/lexicon/g3739/nkjv/tr/0-1/)), is in the feminine form, which points back to Mary, also in the feminine form:
 
 > And Jacob begot Joseph (**masculine form**) the husband of Mary (**feminine form**), of whom (**feminine form**) was born Jesus who is called Christ.
 
