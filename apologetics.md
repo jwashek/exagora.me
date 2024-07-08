@@ -1,6 +1,6 @@
 ---
 title: Apologetics
-layout: posts
+layout: apologetics
 permalink: /apologetics/
 collections: apologetics
 show_exerpts: true
