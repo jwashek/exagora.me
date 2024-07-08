@@ -4,5 +4,5 @@ excerpt: "Defending the faith through evidence and logical reasoning."
 layout: collection
 permalink: /apologetics/
 collection: apologetics
-entries_layout: grid
+entries_layout: list
 ---
