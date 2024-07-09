@@ -96,7 +96,7 @@ defaults:
       
   - scope:
       path: "_apologetics"
-      type: apologetics
+      type: posts
     values:
       layout: post
       share: true
