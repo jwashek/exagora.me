@@ -3,8 +3,12 @@ title: "Contradictions in Jesus's Genealogy"
 excerpt: "What's the reason for the differences in Jesus's genealogies between Matthew 1 and Luke 3? And why is Joseph's father different between the two?"
 image: 
   path: /images/apologetics/genealogy.jfif
-  thumbnail: /images/apologetics/genealogy.jfif
   caption: "Photo from [selliliar.live](https://upload.wikimedia.org/wikipedia/commons/6/63/Hortus_Deliciarum%2C_Der_Stammbaum_Christi.JPG)"
+last_modified_at: 2024-04-02T15:24:00-05:00
+categories:
+  - Genealogy
+tags: 
+  - genealogy
 ---
 
 {% include toc %}
